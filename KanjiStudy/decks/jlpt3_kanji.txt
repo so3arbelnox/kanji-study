@@ -1,0 +1,768 @@
+Title=JLPT 3 Practice Deck
+----
+45|全部|ぜんぶ　all; whole; entire; total; complete; every; entirely
+63|値段が高い|ねだんがたかい　the price (of a thing) is high
+63|背が高い|せがたかい　tall (person)
+63|高級の|こうきゅうの high-class [-grade] (articles)
+63|高める|たかめる　to raise; to lift; to heighten; to improve
+63|最高の|さいこうの　highest; maximum; premium; the best
+36|似合う|にあう　to suit; to match well; to be suitable
+36|都合が悪い|つごうがわるい　to be inconvenient
+36|具合|ぐあい　a condition; a state
+36|合う|あう　to match; to fit; to suit; to be correct; to meet
+36|合わせる|あわせる　to put together; to join; to match; to add
+36|割合|わりあい　a rate; a ratio; percentage; proportion
+34|小銭|こぜに　small money; small change; coins
+34|小さな|ちいさな　small (voice); minor (mistake); tiny (turtle)
+34|小川|おがわ　a stream; a brook; a creek; a rivulet
+34|小さい|ちいさい　small; little; tiny
+34|小説|しょうせつ　a novel; a story; a work of fiction
+34|小指|こゆび　the little finger; the pinkie
+94|河川|かせん　a river; rivers
+94|香川県|かがわけん　Kagawa Prefecture (of Shikoku Island)
+94|川で遊ぶ|かわであそぶ　to play at [by] the river
+94|川沿い|かわぞい　along a river; riverside
+94|神奈川県|かながわけん　Kanagawa Prefecture (next to Tokyo)
+94|四万十川|しまんとがわ　the Shimanto River (of Shikoku Island)
+76|用意する|よういする　to prepare; to get ready
+76|用紙|ようし　a blank form; a printed form
+76|器用な|きような　skillful; clever; dexterous
+76|利用する|りようする　to use; to make use (of); to utilize
+76|用いる|もちいる　to use
+76|用がある|ようがある　to have something to do; to be busy (with)
+92|不満|ふまん　dissatisfaction; discontent
+92|不安な|ふあんな　uneasy; restless; uncertain; insecure
+92|不燃ごみ|ふねんごみ　incombustible garbage [rubbish]
+92|不便|ふべん　inconvenience
+92|不可能な|ふかのうな　impossible
+92|不運|ふうん　(a) misfortune; bad [ill] luck
+86|取り消す|とりけす　to cancel (an order); to withdraw; to take back
+86|取り出す|とりだす　to take [pull] a thing out; to pick out; to extract
+86|受け取る|うけとる　to receive; to get; t o accept; to come to hand
+86|取り替える|とりかえる　to exchange [change, switch]; to swap; to renew
+86|取る|とる　to take; to pass; to get; to win; to pick; to rob
+86|書き取り|かきとり　(a) dictation
+45|部分|ぶぶん　(a) part; a section; a portion
+45|野球部|やきゅうぶ　a baseball club [team]
+45|本部|ほんぶ　the head office; headquarters
+45|学部|がくぶ　a department; a faculty; a school; a college
+45|部屋|へや　a room; a chamber
+28|家庭|かてい　(a) home; a family; a household
+28|家に帰る|いえにかえる　to go home
+28|家具|かぐ　furniture
+28|家賃|やちん　(a) rent; (a) house rent
+28|家内|かない　one's wife; a family; one's people
+28|家事|かじ　housework; domestic chores
+87|所|ところ　a place; a spot; a district; a room; one's house
+87|事務所|じむしょ　an office
+87|洗面所|せんめんじょ　a bathroom; a washroom
+87|短所|たんしょ　a fault; a shortcoming; a weak point; a defect
+87|所々|ところどころ　here and there; in (some, several) places
+87|場所|ばしょ　a place; a location; a spot
+70|明朝|みょうちょう　tomorrow morning
+70|明るい|あかるい　bright; cheerful; sunny
+70|明日|あした / あす tomorrow
+70|明らかな|あきらかな　clear; distinct; plain; evident; obvious
+70|明かり|あかり a light; a lamp; light
+70|説明|せつめい　an explanation; an exposition
+39|長い|ながい　long; lengthy; prolonged; protracted
+39|長電話|ながでんわ　long telephone conversation
+39|社長|しゃちょう　the company president
+39|部長|ぶちょう　the manager [head, director] of a department
+39|長所|ちょうしょ　a strong point; a good point; a merit
+39|身長|しんちょう　height (of body); stature
+22|出来事|できごと　an event; an incident
+22|用事|ようじ　a task; an errand; things to do
+22|返事|へんじ　an answer; a reply
+22|大事な|だいじな　important; precious; valuable
+22|事故|じこ　an accident; a breakdown; a failure; an incident
+22|見事な|みごとな　beautiful; excellent; fine; splendid; marvelous
+56|知る|しる to know; to be aware of; to understand; to realize
+56|知人|ちじん　an acquaintance; a friend
+56|承知する|しょうちする　to consent to; to agree to; to OK (a plan)
+56|知らせる|しらせる　to let a person know; to inform; to notify; to tell
+56|お知らせ|おしらせ　notice; notification
+56|知り合い|しりあい　an acquaintance
+60|同一の|どういつの　the same (as); identical (with)
+60|同じように|おなじように　in the same way; likewise; similarly
+60|合同|ごうどう　(a) combination; a (union); merger
+60|同時に|どうじに　at the same time; simultaneously
+60|同じ|おなじ　one and the same; the same; identical; alike
+60|同じ人|おなじひと　the same person
+59|内訳|うちわけ　a breakdown (of the total expenditure); details
+59|案内|あんない　guidance; (an) invitation; a notice
+59|内科|ないか　internal medicine; department of internal medicine
+59|瀬戸内海|せとないかい　Seto Inland Sea (of Japan)
+59|三日以内に|みっかいないに　within three days
+59|内容|ないよう　content(s); import; substance; matter
+67|今月|こんげつ　this month
+67|今朝|けさ　this morning
+67|今夜|こんや　tonight; this evening
+67|今年|ことし　this year
+67|今度|こんど　this time; next time; another [some other] time
+67|今|いま　the present; this time [moment]; now; today
+12|言葉|ことば　speech; language; a word; a phrase; a term
+12|独り言|ひとりごと　talking to oneself; a monologue
+12|助言|じょげん　(a piece of) advice; counsel; (a) suggestion
+12|言う|いう　to say; to speak; to talk; to tell
+12|伝言|でんごん　a message
+12|言いわけ|いいわけ　an excuse; (an) explanation; a pretext
+89|四回|よんかい　four times
+89|四人|よにん　four people
+89|四字熟語|よじじゅくご　a four-character idiomatic compound
+89|四つ|よっつ　four (things)
+89|四月|しがつ　April
+89|四日|よっか　the fourth day of the month; four days
+71|五時|ごじ　five o'clock
+71|五人|ごにん　five people
+71|五月|ごがつ　May
+71|五つ|いつつ　five (things)
+71|五日|いつか　the fifth day of the month; five days
+71|五階|ごかい　the fifth floor
+23|思う|おもう　to think (of, about, over); to consider; to feel
+23|不思議|ふしぎ　(a) wonder; (a) mystery
+23|思い付く|おもいつく　to think (of); to hit upon; to occur to one
+23|思い出す|おもいだす　to remember; to recall; to recollect
+23|思い出|おもいで　memories; reminiscences; recollections
+23|意思|いし　an intention; an intent; a wish; a purpose
+16|手|て　a hand; an arm; a paw; a worker; staff
+16|お手洗い|おてあらい　a restroom; a bathroom; a lavatory
+16|手袋|てぶくろ　(a pair of) gloves; mittens; gauntlets
+16|切手|きって　a postage stamp
+16|手伝う|てつだう　to help; to assist; to aid
+16|手紙|てがみ　a letter; mail
+54|動く|うごく　to move; to shift; to stir; to shake; to work
+54|自動ドア|じどうドア　an automatic door
+54|箱を動かす|はこをうごかす　to move a box
+54|運動|うんどう　exercise; athletics; sports; games; a campaign
+54|動物|どうぶつ　an animal
+54|感動する|かんどうする　to be moved [touched] by
+69|毎度|まいど　every [each] time; (very) often; frequently
+69|百八十度|ひゃくはちじゅうど　180 degrees
+69|支度|したく　arrangements; preparations; (an) outfit; equipment
+69|もう一度|もういちど　once more
+69|度々|たびたび　frequently; often; repeatedly
+69|速度|そくど　(a) speed; (a) velocity; (a) rate; (a) tempo
+79|交通事故|こうつうじこ　a traffic accident
+79|通す|とおす　to let (a thing, a person) pass
+79|通る|とおる　to pass (by [through]); to pass (for, as)
+79|普通|ふつう　normally; ordinarily; commonly; usually; in general
+79|通う|かよう　to attend (school, church, etc.); to visit often
+79|通訳|つうやく　interpretation; an interpreter
+72|実力|じつりょく　real ability [power]; capability; action; force
+72|力|ちから　strength; energy; force; power; pep; authority
+72|力士|りきし　a Japanese (sumo) wrestler
+72|力持ち|ちからもち　a powerful person; a person with great strength
+72|努力|どりょく　(an) effort; (an) exertion
+72|入力する|にゅうりょくする　to input; to enter; to type; to type in
+68|教科書|きょうかしょ　a textbook; a schoolbook
+68|辞書|じしょ　a dictionary; a lexicon; a glossary; a thesaurus
+68|葉書|はがき　a postcard; a postal card
+68|名前を書く|なまえをかく　to write one's name
+68|下書き|したがき　a (rough) draft
+68|図書館|としょかん　a library
+8|一日中|いちにちじゅう　all day long; throughout the day
+8|中国|ちゅうごく　China; the People's Republic of China
+8|途中で|とちゅうで　on the way; en route
+8|箱の中|はこのなか　in the [a] box
+8|背中|せなか　the back (of the body)
+8|中身|なかみ　content(s); the interior; the substance
+95|東|ひがし　east
+95|関東|かんとう　Kanto region (Tokyo and surrounding area)
+95|中東|ちゅうとう　the Middle East
+95|東海岸|ひがしかいがん　the east coast
+95|東口|ひがしぐち　east entrance [exit] (of a station)
+95|東日本|ひがしにほん　Eastern Japan
+85|外側|そとがわ　the outside; outer side; exterior
+85|家の外|いえのそと　outside the home
+85|外食する|がいしょくする　to eat out; to dine out
+85|郊外|こうがい　(in) the suburbs (of); suburbia
+85|外す|はずす　to take off; to remove; to unfasten; to miss
+85|外科|げか　(the science of) surgery; the surgical department
+73|名人|めいじん　a master; a master-hand (at); an expert (in)
+73|平仮名|ひらがな　hiragana; the cursive Japanese syllabary
+73|名字|みょうじ　a surname; a family name
+73|三名|さんめい　three people
+73|名刺|めいし　a business card
+73|片仮名|かたかな　katakana; the square form of kana
+53|具体的な|ぐたいてきな　concrete; definite; specific
+53|体重|たいじゅう　one's body weight
+53|体|からだ　a [the] body; a physique; a build; health
+53|体裁の悪い|ていさいのわるい　unbecoming; awkward
+53|体調|たいちょう　one's physical condition
+53|全体の|ぜんたいの　whole; entire; general
+55|本社|ほんしゃ　the head [main] office
+55|社会|しゃかい　society; the public
+55|神社|じんじゃ　a Shinto shrine
+55|社交的な|しゃこうてきな　sociable
+55|社会人|しゃかいじん　a member of society
+55|新聞社|しんぶんしゃ　a newspaper publishing company
+84|歩道|ほどう　a sidewalk
+84|帰り道に|かえりみちに　on one's way home [back]
+84|道に迷う|みちにまよう　to lose one's way
+84|道具|どうぐ　a tool; a utensil; an instrument
+84|柔道|じゅうどう　judo
+84|水道|すいどう　waterworks; water service [supply]
+35|地下鉄|ちかてつ　the subway; the underground; the Tube [Metro]
+35|地方|ちほう　a locality; a district; a region; an area
+35|地味な|じみな　plain (living); simple (tastes); subdued (colors)
+35|地理|ちり　geography
+35|意地をはる|いじをはる　to be stubborn; to not give in
+35|地震|じしん　an earthquake (shock); an earth tremor
+82|卒業する|そつぎょうする　to finish school; to graduate from
+82|職業|しょくぎょう　a job; an occupation; a profession; a trade
+82|授業|じゅぎょう　teaching; (a) class; lessons; school (work)
+82|作業|さぎょう　work
+82|自業自得|じごうじとく　paying for one's mistakes
+82|授業を受ける|じゅぎょうをうける　to take lessons (in); to attend class
+46|学校|がっこう　(a) school
+46|学ぶ|まなぶ　to study in depth
+46|学生|がくせい　a student
+46|留学生|りゅうがくせい　a student studying abroad
+46|数学|すうがく　mathematics; math
+46|大学生|だいがくせい　a university [college] student
+9|お子さん|おこさん　(someone else's) child
+9|子供|こども　a child; children; a kid; a boy; a girl; offspring
+9|息子|むすこ　a son; a boy
+9|帽子|ぼうし　a hat; a cap
+9|椅子|いす　a chair
+9|お菓子|おかし　(a) pastry; (a) cake; candy; sweets
+38|目|め　an eye; sight; vision
+38|目がさめる|めがさめる　to become awake; to wake up
+38|目的|もくてき　a purpose; a goal; an objective; an aim
+38|目立つ|めだつ　to be conspicuous; to stand out
+38|目が悪い|めがわるい　have poor sight; be short-sighted; be blind
+78|主に|おもに　mainly; mostly; principally
+78|主人|しゅじん　the head of the house; the owner; one's husband
+78|主な|おもな　main; chief; leading; major; important
+78|主婦|しゅふ　a housewife; a homemaker
+78|主語|しゅご　the subject
+78|持ち主|もちぬし　the owner; the possessor; the proprietor
+47|果物|くだもの　a fruit; fruit
+47|動物園|どうぶつえん　a zoo; zoological gardens
+47|荷物|にもつ　a burden; a load; baggage; freight; goods
+47|入れ物|いれもの　a container; a case
+47|忘れ物|わすれもの　a thing left behind; a lost article
+47|見物|けんぶつ　sightseeing; a visit
+81|屋根|やね　a roof
+81|屋上|おくじょう　a rooftop; a housetop
+81|パン屋|ぱんや　a bakery
+81|小屋|こや　a hut; a shed; a shack; a booth; a pen
+81|居酒屋|いざかや　an izakaya; a Japanese-style bar
+75|意欲|いよく　volition; one's will
+75|意見|いけん　(an) opinion; an idea; a view
+75|得意|とくい　triumph; pride; one's strong point [forte]
+75|意外と|いがいと　unexpectedly
+75|用意|ようい　preparation(s); arrangement(s); (a) provision
+75|注意深い|ちゅういぶかい　careful; attentive; cautious
+5|年をとる|としをとる　to grow older; to age; to get [grow] old
+5|生年月日|せいねんがっぴ　the date of (one's) birth
+5|来年|らいねん　next year; the coming year
+5|去年|きょねん　last year
+5|中年|ちゅうねん　middle-aged
+5|一年生|いちねんせい　a first-year student
+17|自分の|じぶんの　one's own; personal; private
+17|自ら|みずから　oneself; (for) oneself; personally; in person
+17|自由|じゆう　freedom; liberty
+17|不自由|ふじゆう　inconvenience; poverty; want; disability
+17|自信|じしん　confidence; self-confidence
+17|自己紹介|じこしょうかい　self-introduction
+19|歯医者|はいしゃ　a dentist
+19|前者|ぜんしゃ　the former; the first; the prior party
+19|人気者|にんきもの　a popular person
+19|学者|がくしゃ　a scholar; an academic;  a learned person
+19|若い者|わかいもの　a young person; a youth; the young
+19|初心者|しょしんしゃ　a beginner; a novice
+26|会う|あう　to see; to meet; to meet with
+26|機会|きかい　(an) opportunity; a chance; an occasion
+26|会釈|えしゃく　a salutation; a greeting; a bow
+26|展覧会|てんらんかい　an exhibition; an exhibit; a show
+26|会議|かいぎ　a meeting; a conference; a council; a congress
+26|会社|かいしゃ　a company; a corporation; a firm
+18|旅行|りょこう　(a) travel; a journey
+18|学校へ行く|がっこうへいく　to go to school
+18|飛行機|ひこうき　an airplane
+18|実行|じっこう　practice; performance; execution
+18|行う|おこなう　to perform; to do; to conduct oneself
+18|東京行き|とうきょういき／とうきょうゆき　Tokyo-bound
+13|机の上|つくえのうえ　on a [the] desk
+13|申し上げる|もうしあげる　to tell; to say; to state; to mention; to relate
+13|上手な|じょうずな　skillful; skilled; dexterous; proficient; clever
+13|上着|うわぎ　a coat; a jacket; outerwear
+13|差し上げる|さしあげる　to give; to present; to lift (up); to raise
+13|上がる|あがる　to go [come] up; to rise; to be promoted
+48|来月|らいげつ　next month
+48|十二月|じゅうにがつ　December
+48|月|つき　the moon; a month
+48|月末|げつまつ　the end of the month
+48|月曜日|げつようび　Monday
+48|三か月|さんかげつ　three months
+33|入学|にゅうがく　admission into a school or university
+33|輸入する|ゆにゅうする　to import
+33|入る|はいる　to enter; to join; to get in; to come in
+33|入れる|いれる　to put (books) in [into] (a bag); to insert
+33|入口|いりぐち　an entrance; a way in
+33|押し入れ|おしいれ　a sliding-door closet
+77|男の人|おとこのひと　a man
+77|男子|だんし　a boy; a son; a man; a male
+77|長男|ちょうなん　the first-born son; the [one's] oldest son
+77|男の子|おとこのこ　a boy; a male child; a baby boy
+77|次男|じなん　one's [a, the] second son
+77|男性|だんせい　the male sex; a male; the masculine gender
+11|外国|がいこく　a foreign country
+11|外国人|がいこくじん　a foreigner
+11|四国|しこく　Shikoku (one of the four main islands of Japan)
+11|国々|くにぐに　countries
+11|中国製|ちゅうごくせい　made in China
+11|国会|こっかい　the (National) Diet; Congress
+30|三角|さんかく　a triangle
+30|三人|さんにん　three people
+30|三月|さんがつ　March;　みつき　(a period of) three months
+30|三つ|みっつ　three (things)
+30|三回|さんかい　three times
+30|三日|みっか　the third day of the month; three days
+65|最新の|さいしんの　the latest; up-to-date
+65|新たな|あらたな　new; fresh; novel
+65|新しい|あたらしい　new; fresh; recent; up-to-date
+65|新幹線|しんかんせん　a bullet train; a high-speed train
+65|新宿|しんじゅく　Shinjuku (ward of Tokyo)
+65|新しい車|あたらしいくるま　a new car
+29|女の子|おんなのこ　a girl; a daughter; a baby girl
+29|女性|じょせい　a woman; womankind; the feminine (gender)
+29|彼女|かのじょ　she; a girlfriend
+29|男女|だんじょ　man and woman; boy and girl; both sexes
+29|長女|ちょうじょ　the first-born daughter; an oldest daughter
+29|女子高生|じょしこうせい　a female high-school student
+24|三時十五分|さんじじゅうごふん　three-fifteen (o'clock)
+24|時々|ときどき　sometimes
+24|その時|そのとき　at that time; at that moment
+24|時計|とけい　a timepiece; a clock; a wristwatch
+24|三時間|さんじかん　three hours
+24|時間|じかん　time; an hour
+25|気に入る|きにいる　to like; to be pleased (with); to take a fancy (to)
+25|病気|びょうき　(an) illness; (a) sickness; (a) disease
+25|気温|きおん　(an) air [atmospheric] temperature
+25|天気予報|てんきよほう　a weather forecast
+25|気分|きぶん　(a) feeling; a mood; (a) sentiment
+25|気を付ける|きをつける　to take care; to be careful; to watch out
+27|十人|じゅうにん　ten people
+27|十月|じゅうがつ　October
+27|十個|じゅうこ／じっこ　ten (things)
+27|五十音|ごじゅうおん　the Japanese (kana) syllabary
+27|十日|とおか　the tenth day of the month; ten days
+27|二十歳|はたち　twenty (years of age); one's twentieth year
+93|人口|じんこう　population
+93|出入口|でいりぐち　a door; an entrance; a gateway; a doorway
+93|口|くち　the [one's] mouth; words; speech; an opening
+93|早口|はやくち　rapid speaking
+93|口を開ける|くちをあける　to open one's mouth; to uncork (a bottle)
+93|口げんか|くちげんか　a quarrel; (a) dispute; an argument
+64|作者|さくしゃ　an author; a writer; an artist
+64|作法|さほう　manner; etiquette; form
+64|作る|つくる　to make; to create; to manufacture; to produce
+64|新作|しんさく　a new production; a new work
+64|手作りの|てづくりの　handmade; homemade
+64|作文|さくぶん　composition; writing; an essay; a theme
+10|見せる|みせる　to show; to display
+10|見付ける|みつける　to find; to find out; to discover; to detect
+10|拝見する|はいけんする　to have the honor of seeing; to see
+10|見る|みる　to look (at); to see; to watch; to take a look (at)
+10|見える|みえる　to see; to be seen; to be visible; to appear (to be)
+10|見本|みほん　a sample; a pattern; a model; an example
+42|私|わたくし／わたし　I; myself
+42|私達|わた(く)したち　we; ourselves
+42|公私|こうし　public and private matters
+42|私生活|しせいかつ　one's private life
+42|私の場合|わた(く)しのばあい　in my case
+42|私立の|しりつの　private; nongovernmental; independent
+14|分かる|わかる　to understand; to see; to know; to realize
+14|分かれる|わかれる　to be divided [split] (into); to branch off (from)
+14|自分|じぶん　oneself; I
+14|十分な|じゅうぶんな　plenty (of); sufficient; thorough; enough
+14|水分|すいぶん　moisture (content); water; juice
+14|分ける|わける　to divide [part, split]; to distribute; to classify
+40|ゴルフ場|ゴルフじょう　a golf course; golf links
+40|売り場|うりば　a selling area; the counter; the department
+40|場合|ばあい　a case; an occasion; circumstances
+40|会場|かいじょう　a meeting place; an assembly hall
+40|駐車場|ちゅうしゃじょう　a parking lot
+40|飛行場|ひこうじょう　an airfield; an airport; a flying field [ground]
+83|持つ|もつ　to have; to hold; to have a thing with one; to own
+83|持参する|じさんする　to take [bring] (something) with one
+83|気持ち|きもち　(a) feeling; a mood; a sensation
+83|持ち帰る|もちかえる　to carry [take, bring] back; to take out (food)
+83|持続|じぞく　continuance
+83|長持ちする|ながもちする　to last (long); to be durable;
+62|発見する|はっけんする　to discover; to make a discovery; to find
+62|発音|はつおん　(a) pronunciation
+62|出発|しゅっぱつ　departure
+62|東京駅発|とうきょうえきはつ　departing from Tokyo station
+62|発売する|はつばいする　to put a thing on the market
+62|発作|ほっさ　an attack; a fit; a paroxysm; a seizure; a stroke
+90|先に|さきに　before; earlier (than); ahead (of); in advance
+90|先|さき　the point [tip, end]; the front; the future
+90|先月|せんげつ　last month
+90|先生|せんせい　a teacher; an instructor; a master; a doctor
+90|先週|せんしゅう　last week
+90|先輩|せんぱい　a [one's] senior; a superior; an elder; an old-timer
+7|一本|いっぽん　one (long cylindrical thing)
+7|本棚|ほんだな　a bookshelf
+7|二本|にほん　two (long cylindrical things)
+7|本当に|ほんとうに　truly; really; actually; indeed
+7|本|ほん　a book; a volume; a work; a script
+7|まんが本|まんがぼん　a comic book
+37|後に[で]|あとに[で]　since; after; afterward; later; back; behind
+37|後ろ|うしろ　the back; the rear
+37|今後|こんご　from now on; in the future
+37|後輩|こうはい　a [one's] junior; an underclassman; a junior fellow
+37|最後|さいご　the last; the end
+37|学校の後|がっこうのあと　after school
+74|料金|りょうきん　a fee; a charge; a fare
+74|金曜日|きんようび　Friday
+74|お金|おかね　cash; money; currency; coin(s); paper money
+74|貯金|ちょきん　(bank) savings; saving (money); a deposit
+74|金持ち|かねもち　a rich [wealthy] person
+74|お金がない|おかねがない　have no money; be poor
+80|文化|ぶんか　culture; civilization
+80|文法|ぶんぽう　grammar
+80|文字|もじ　a letter; a character
+80|文章|ぶんしょう　a sentence; a composition; prose; an essay
+80|文学|ぶんがく　literature
+80|文句|もんく　a complaint; a grievance; words; terms; a phrase
+96|多数の|たすうの　many; a great number; a lot of; numerous
+96|多分|たぶん　perhaps; probably
+96|多い|おおい　many; much; numerous
+96|多すぎる|おおすぎる　to be too much; to be too numerous
+96|多少|たしょう　more or less
+96|多目|おおめ　a somewhat larger quantity; a larger portion
+3|日曜日|にちようび　Sunday
+3|日記|にっき　a diary; a journal; a daybook
+3|ある日|あるひ　one day
+3|今日|きょう　today
+3|昨日|きのう　yesterday
+3|誕生日|たんじょうび　one's birthday
+20|二日|ふつか　the second day of the month; two days
+20|二月|にがつ　February;　ふたつき　(a period of) two months
+20|二十|にじゅう　twenty
+20|二人|ふたり　two people
+20|二十日|はつか　twentieth (day of the month); twenty days
+20|二つ|ふたつ　two (things)
+4|大きい|おおきい　large; big
+4|大きな家|おおきないえ　a big [large] house
+4|大丈夫|だいじょうぶ　safe; all right; O.K.; certainly
+4|大学|だいがく　a university; a college
+4|大家|おおや　a landlord; the owner of a rented house
+4|大勢の|おおぜいの　a great [large] number of
+31|名前|なまえ　a name; one's name
+31|手前|てまえ　before; this side
+31|前もって|まえもって　beforehand; in advance
+31|直前に|ちょくぜんに　immediately [right, directly] before; just before
+31|三日前|みっかまえ　three days ago
+31|前回|ぜんかい　last time
+1|イギリス人|イギリスじん　an English person
+1|女の人|おんなのひと　a woman; a lady; a female
+1|恋人|こいびと　one's sweetheart; one's boyfriend [girlfriend]
+1|大人|おとな　an adult
+1|人形|にんぎょう　a doll; a puppet; a marionette; a dummy
+1|人気|にんき　popularity
+51|来る|くる　{plain form} to come [show up, arrive]
+51|来ます|きます　{polite form} to come [show up, arrive]
+51|来ない|こない　to not come [show up, arrive]
+51|出来る|できる　to be able to; to do well
+51|本来|ほんらい　originally; primarily; essentially; naturally
+51|将来|しょうらい　the future
+50|何時ですか|なんじですか　What time is it?
+50|何で|なんで　why?; how?; for what reason?; what for?
+50|幾何学|きかがく　geometry
+50|何|なに/なん　what　
+50|何でも|なんでも　any; anything; everything; all; whatever
+50|何とか|なんとか　somehow; in some way; one way or another
+6|輸出|ゆしゅつ　export; exportation
+6|出かける|でかける　to go out; to leave the house
+6|出る|でる　to go [come] out
+6|出す|だす　to take out; to show; to produce; to send
+6|出口|でぐち　a way out; an exit
+6|出席|しゅっせき　attendance; presence
+61|心|こころ　(the mind); (the) spirit; a thought; will; a mood
+61|心の広い|こころのひろい　generous; broad-minded
+61|熱心な|ねっしんな　eager; enthusiastic; keen; ardent
+61|中心|ちゅうしん　the center; the core
+61|心から|こころから　from the bottom of one's heart
+61|心配する|しんぱいする　to worry; to feel anxiety; to be alarmed
+88|最近|さいきん　recently; lately; of late
+88|最後の|さいごの　last; final; ultimate
+88|最も|もっとも　most; extremely; exceedingly
+88|最低の|さいていの　the lowest; the minimum; the worst
+88|最初の|さいしょの　the first; the earliest; the initial; the original
+66|世の中|よのなか　the world; life; the times; the age
+66|世界|せかい　the world; the earth; the globe
+66|世代|せだい　a generation
+66|世話をする|せわをする　to take care (of); to help; to look after
+66|浮世絵|うきよえ　ukiyoe (wood-block prints of the Edo period)
+66|２１世紀|にじゅういっせいき　21st century
+15|生活|せいかつ　life (one's daily existence); living
+15|一生懸命|いっしょうけんめい　[do] as well as one can
+15|生ごみ|なまごみ　kitchen waste; (kitchen) garbage
+15|生徒|せいと　a student; a schoolboy; a schoolgirl; a pupil
+15|生まれる|うまれる　to be born
+15|生きる|いきる　to live; to exist
+2|一つ|ひとつ　one (thing)
+2|一度|いちど　once; one time; (on) one occasion; one degree
+2|一日|ついたち　the first day of the month;　いちにち　a [one] day
+2|一人|ひとり　one person
+2|一月|いちがつ　January　ひとつき　a [one] month
+2|一緒に|いっしょに　together; with; along with; at the same time
+58|山手線|やまのてせん　a train loop of Tokyo metropolitan area
+58|山に登る|やまにのぼる　to climb [go up, ascend] a mountain
+58|火山|かざん　a volcano
+58|富士山|ふじさん　Mt. Fuji
+58|山田さん|やまださん　Ms. [Mr.] Yamada
+58|山形県|やまがたけん　Yamagata prefecture (of Tohoku area)
+43|下手な|へたな　clumsy; awkward; unskillful
+43|下着|したぎ　underwear; underclothes
+43|テーブルの下|テーブルのした　under the table
+43|靴下|くつした　(a pair of) socks; stockings
+43|下宿する|げしゅくする　to room [board, lodge] (at a person's house)
+43|下げる|さげる　to lower; to drop; to let down; to hang
+52|話し中|はなしちゅう　the (phone) line is busy
+52|話し合う|はなしあう　to talk with; to discuss; to consult
+52|友達と話す|ともだちとはなす　to talk [have a chat] with a friend
+52|電話|でんわ　a telephone; a phone; a (phone) call
+52|会話|かいわ　(a) conversation; a talk; a dialogue; a chat
+52|話|はなし　(a) talk; (a) conversation; a topic; discussion
+49|田|た　a rice field; a paddy field; a (rice) paddy
+49|田植え|たうえ　rice-planting
+49|田舎|いなか　the country; the countryside; rural districts
+49|田んぼ|田んぼ　a rice field; a paddy field; a (rice) paddy
+49|水田|すいでん　a rice [paddy] field
+49|田畑|たはた　fields of rice and other crops; farms; the fields
+44|立つ|たつ　to stand; to rise (to one's feet)
+44|国立の|こくりつの　national (park); government (school); state
+44|自立する|じりつする　to become independent; to support oneself
+44|立場|たちば　a position; a situation
+44|立てる|たてる　to stand (something) up; to put [set] up
+44|役に立つ|やくにたつ　to be helpful; to be useful
+32|方法|ほうほう　a way (of doing); a method; a system; a means
+32|この方|このかた　this gentleman; this lady
+32|方言|ほうげん　a dialect
+32|両方|りょうほう　both sides
+32|片方|かたほう　one side; the other side
+32|読み方|よみかた　pronunciation; a way of reading; how to read
+57|理由|りゆう　(a) reason; cause; a rationale; an excuse
+57|修理|しゅうり　repair(s); fixing; mending; a refit; servicing
+57|理解する|りかいする　to understand; to comprehend; to grasp
+57|整理する|せいりする　to (re)arrange; to put in order; to (re)adjust
+57|心理学|しんりがく　psychology
+57|無理|むり　impossibility
+91|民間の|みんかんの　private; nongovernment(al); civil; civilian
+91|民主主義|みんしゅしゅぎ　democracy
+91|都民|とみん　a resident of Tokyo; a Tokyoite
+91|県民|けんみん　the citizens of a prefecture
+91|国民|こくみん　a people; a nation; a nationality; a citizen
+91|民|たみ　a nation; a people; the nation; the people
+41|代える|かえる　to exchange [substitute] (a for b)
+41|お代わり|おかわり　another [a second] helpful; a refill; another cup
+41|タクシー代|タクシーだい　a taxi fee; (a) cab fare
+41|代わる|かわる　to take the place of; to replace
+41|代わりに|かわりに　in exchange (for...); instead (of...); in place (of...)
+41|時代|じだい　time; a period; an epoch; an age; an era
+21|一年間|いちねんかん　for a [one] year
+21|人間|にんげん　a human being; (a) man
+21|世間|せけん　the world; society; life; the public; people
+21|間違える|まちがえる　to make a mistake; to commit an error
+21|間|あいだ　(a) distance; an interval; a period; a space
+21|間に合う|まにあう　to be in time (for); to do; to work; to be enough
+97|全国|ぜんこく　the whole country
+97|完全|かんぜん　perfection; completeness
+97|安全|あんぜん　safety; security
+97|全く|まったく　completely; entirely; totally; truly; very
+97|全員|ぜんいん　all (the) members; the entire staff; all hands
+98|CDを聞く|CDをきく　to listen to an audio compact disc [CD]
+98|聞き返す|ききかえす　to ask (a person again [in return])
+98|前代未聞|ぜんだいみもん　unheard-of; unprecedented
+98|新聞|しんぶん　a newspaper
+98|話を聞く|はなしをきく　to listen (to someone's talking)
+98|聞こえる|きこえる　(can) hear; to be heard; to be audible
+99|野菜|やさい　vegetables; greens; garden vegetables
+99|長野県|ながのけん　Nagano prefecture (of Chubu region)
+99|野の花|ののはな　a wild flower
+99|分野|ぶんや　a field; an area; a sphere
+99|野原|のはら　a field; fields
+99|野球|やきゅう　(play) baseball
+100|考える|かんがえる　to consider; to think (about)
+100|考え込む|かんがえこむ　to ponder; to brood
+100|よく考える|よくかんがえる　to think hard [carefully] about a thing
+100|考え|かんがえ　thinking; (a) thought; an idea; a notion
+100|考慮|こうりょ　consideration; careful thought
+101|開発|かいはつ　development; exploitation (of resources)
+101|開く|あく　to open; to be opened; to begin; to start
+101|再開|さいかい　reopening; resumption
+101|窓を開ける|まどをあける　to open a window
+101|開く|ひらく　to open; to unpack; to bloom; to start; to hold
+101|開会する|かいかいする　to open the meeting [session]; to sit
+102|教える|おしえる　to teach; to inform; to instruct
+102|教わる|おそわる　to be taught
+102|英語を教える|えいごをおしえる　to teach (a person) English
+102|教会|きょうかい　a church
+102|教育|きょういく　education; schooling; training; upbringing
+102|仏教|ぶっきょう　Buddhism
+103|近い|ちかい　near; near [close] by; be close [similar, akin] to
+103|近く|ちかく　near; close; nearby; close to; be like; resemble
+103|近付く|ちかづく　to approach; to draw [get, come] near
+103|近道|ちかみち　a short cut
+103|近所|きんじょ　the neighborhood [vicinity]
+104|以来|いらい　since (then); from (that time on); ever since
+104|以前|いぜん　before; ago; (long) since; the past; former times
+104|以内|いない　within; inside of; less than
+104|以下|いか　less than; under; below
+104|以外に|いがいに　except (for)...; besides...; excluding...
+104|以上|いじょう　more than; over; above; beyond
+105|語る|かたる　to talk; to speak; to tell (a story); to show
+105|フランス語|フランスご　French; the French language
+105|物語|ものがたり　a tale; a story; a narrative
+105|敬語|けいご　a honorific expression [word]; a term of respect
+105|日本語|にほんご　Japanese; the Japanese language
+105|英語|えいご　English; the English language
+106|問題|もんだい　a problem; a question; a matter
+106|学問|がくもん　learning; studies; an academic discipline
+106|問う|とう　to ask; to question
+106|問題集|もんだいしゅう　a collection of problems; a workbook
+106|疑問|ぎもん　(a) doubt; a problem; (a) question
+106|問い合わせ|といあわせ　an inquiry
+107|顔|かお　a [one's] face; one's looks [features]; a look
+107|怒った顔|おこったかお　an angry (a severe) face
+107|顔が広い|かおがひろい　know a lot of people; be widely known
+107|童顔|どうがん　a baby face; a boyish [girlish] face
+107|顔色が悪い|かおいろがわるい　have a pale complexion
+107|笑顔|えがお　a smiling face
+108|正す|ただす　to correct; to adjust; to reform
+108|正解|せいかい　a correct answer [solution]
+108|正月|しょうがつ　the New Year
+108|不正|ふせい　injustice; unfairness; wrong; corruption
+108|公正|こうせい　justice; fairness; impartiality
+108|正しい|ただしい　right; reasonable; honest; truthful; correct
+109|九つ|ここのつ　nine (things)
+109|九分|きゅうふん　nine minutes
+109|九州|きゅうしゅう　southernmost of Japan's main islands
+109|九時|くじ　nine o'clock
+109|九月|くがつ　September
+109|九日|ここのか　the ninth day of the month; nine days
+110|次第|しだい　order; the state of things; circumstances
+110|次第に|しだいに　gradually; by degrees; little by little
+110|次ぐ|つぐ　to rank [come, be] next [second] to; to come after
+110|次の|つぎの　next; following; coming; second
+110|目次|もくじ　a table of contents
+110|次々に|つぎつぎに　one after another
+111|回す|まわす　to turn; to rotate; to spin; to pass; to circulate
+111|回る|まわる　to turn; to go round; to spin; to patrol; to tour
+111|時計回りに|とけいまわりに　clockwise
+111|次回|じかい　next time; next occasion
+111|今回|こんかい　lately; this time
+111|目が回る|めがまわる　to be [feel] dizzy
+112|和食|わしょく　a Japanese-style meal
+112|食事|しょくじ　a meal; (a) dinner
+112|食べ物|たべもの　food; provisions
+112|食う|くう　to eat; to chow down; to consume; to spend
+112|食欲|しょくよく　(an) appetite (for food)
+112|食べる|たべる　to eat; to have; to taste; to try; to live on
+113|八人|はちにん　eight people
+113|八月|はちがつ　August
+113|八日|ようか　the eighth day of the month; eight days
+113|八方美人|はっぽうびじん　one who is affable to everybody
+113|八つ|やっつ　eight (things)
+113|十八|じゅうはち　eighteen
+114|声|こえ　a voice; tone (of voice); a cry; a call; a sound
+114|笑い声|わらいごえ　laughter; a laughing voice
+114|名声|めいせい　fame; (a) reputation
+114|大声を出す|おおごえをだす　to raise one's voice; to shout
+114|小声|こごえ　a low voice; a whisper
+114|声をかける|こえをかける　to call out (to); to hail; to say something
+115|水泳|すいえい　swimming; a swim; bathing; a bathe
+115|月水金|げっすきん　Monday-Wednesday-Friday
+115|水|みず　water; cold water; (a) liquid; (a) fluid
+115|香水|こうすい　(a) perfume; (a) scent
+115|水曜日|すいようび　Wednesday
+115|水着|みずぎ　a swimsuit; a bathing suit
+116|真実|しんじつ　truth; reality
+116|真っ白な|まっしろな　pure white; snow-white; immaculately white
+116|真面目な|まじめな　serious; sober; grave; faithful; honest
+116|真ん中|まんなか　the center; the middle
+116|真っ先に|まっさきに　at the very beginning; first (of all); at first
+116|真っ赤な|まっかな　very [bright, deep] red; crimson
+117|味わう|あじわう　to taste; to relish; to savor; to appreciate
+117|味をつける|あじをつける　to season (food); to flavor (food)
+117|興味|きょうみ　(an) interest (in something)
+117|味見する|あじみする　to taste; to try [have] a taste of; to sample
+117|趣味|しゅみ　a hobby; pastime; interest; taste; preference
+117|意味|いみ　(a) meaning; a sense
+118|限界|げんかい　a [the] limit; limitations; bounds
+118|政界|せいかい　the political world
+118|世界中に|せかいじゅうに　all over [throughout] the world
+118|世界一|せかいいち　the best in the world
+118|世界的な|せかいてきな　world; worldwide; international; global
+119|少女|しょうじょ　a young girl
+119|少々|しょうしょう　a little; a few; slightly; for a moment; briefly
+119|少ない|すくない　few; little; there are few (cats); have little (cash)
+119|少年|しょうねん　a young boy
+119|少し|すこし　a few; a small quantity (of); a little
+119|少しも|すこしも　(not) in the least; (not) at all; (not) a bit
+120|海|うみ　the sea; an ocean
+120|海岸|かいがん　the seashore; the beach; the seaside
+120|日本海|にほんかい　the Sea of Japan
+120|海外|かいがい　overseas [foreign] countries
+120|海草|かいそう　seaweed; marine plants
+120|海へ行く|うみへいく　to go to the seaside
+121|紙を切る|かみをきる　to cut (a piece of) paper
+121|電話を切る|でんわをきる　to hang up the receiver (of a telephone)
+121|切れる|きれる　to be sharp; to cut well; to wear (out); to break
+121|切符|きっぷ　a ticket; a coupon
+121|売り切れる|うりきれる　to sell out; to be sold out; to be out of stock
+121|大切な|たいせつな　important; valuable; precious
+122|二重の|にじゅうの　double; twofold; dual
+122|重ねる|かさねる　to pile [heap] up
+122|重要な|じゅうような　important; essential; principal
+122|三重県|みえけん　Mie prefecture (of Kinki region)
+122|重い|おもい　heavy; weighty; clumsy; slow; grave; serious
+122|重大な|じゅうだいな　serious; important; grave
+123|天ぷら|てんぷら　deep-fried battered vegetables and seafood
+123|天気|てんき　weather
+123|天井|てんじょう　the ceiling
+123|天才|てんさい　genius; a genius (for); a natural gift (for)
+123|いい天気|いいてんき　good [nice, fine, pleasant] weather
+123|天国|てんごく　Heaven
+124|木曜日|もくようび　Thursday
+124|木綿|もめん　cotton; cotton cloth
+124|りんごの木|りんごのき　an apple tree
+124|植木|うえき　a garden plant [tree]; a potted plant
+124|木陰|こかげ　the shade of a tree
+124|木のテーブル|木のテーブル　a wooden table; a table made of wood
+125|集会|しゅうかい　a meeting; a gathering; an assembly
+125|集める|あつめる　to get together; to gather; to collect; to recruit
+125|集う|つどう　to gather; to meet together
+125|集合|しゅうごう　(a) gathering; (a) meeting; an assembly
+125|集中する|しゅうちゅうする　to concentrate; to centralize
+125|集まる|あつまる　to gather; to come [get] together; to swarm
+126|会社員|かいしゃいん　a company employee
+126|会員|かいいん　a member; a membership
+126|公務員|こうむいん　a public servant; a government employee
+126|全員|ぜんいん　all (the) members; the entire staff; all hands
+126|国会議員|こっかいぎいん　a member of the Diet
+126|満員|まんいん　no vacancy; a full house
+127|引く|ひく　to draw; to pull; to haul; to drag
+127|強引な|ごういんな　forcible; aggressive; coercive; pushy
+127|割引|わりびき　(a) discount; (a) reduction (in price); a rebate
+127|引き出し|ひきだし　a drawer; (a) withdrawal; drawing out
+127|引っ越す|ひっこす　to move (to, into) (a new home)
+127|引っ張る|ひっぱる　to pull; to draw; to drag; to tug; to stretch (over)
+128|録画する|ろくがする　to record video
+128|映画館|えいがかん　a movie theater; a cinema
+128|字画|じかく　the number of strokes in a kanji character
+128|画家|がか　a painter; an artist
+128|漫画|まんが　comics; a cartoon; a caricature
+128|映画館に行く|えいがかんにいく　to go to a movie theater [cinema]
+129|死ぬ|しぬ　to die; to pass away; to expire; to lose one's life
+129|死体|したい　a corpse
+129|死亡|しぼう　death
+129|必死に|ひっしに　desperately; frantically
+129|死因|しいん　the cause of death
+129|死傷者|ししょうしゃ　casualties; the killed and the wounded
