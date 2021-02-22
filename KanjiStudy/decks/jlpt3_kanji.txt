@@ -766,3 +766,61 @@ Title=JLPT 3 Practice Deck
 129|必死に|ひっしに　desperately; frantically
 129|死因|しいん　the cause of death
 129|死傷者|ししょうしゃ　casualties; the killed and the wounded
+130|安心|あんしん　relief; peace of mind
+130|安い|やすい　cheap; inexpensive
+130|不安|ふあん　uneasiness; anxiety; insecurity
+130|安全|あんぜん　safety; security
+130|安らぐ|やすらぐ　to feel at ease
+130|目安|めやす　a standard
+131|親指|おやゆび　the thumb
+131|両親|りょうしん　one's parents
+131|父親|ちちおや　a father
+131|親子|おやこ　parent and child; parents and their children
+131|親切|しんせつ　kindness; goodness; goodwill
+131|親しい|したしい　close; friendly; familiar; intimate
+132|六つ|むっつ　six (things)
+132|六時|ろくじ　six o'clock
+132|六人|ろくにん　six people
+132|第六感|だいろっかん　a sixth sense; a hunch; (an) intuition
+132|六日|むいか　the sixth day of the month; six days
+132|六月|ろくがつ　June
+133|決める|きめる　to decide; to choose; to make up one's mind
+133|決まる|きまる　to be decided [settled]; to be certain to do
+133|決定|けってい　(a) decision; (a) settlement
+133|解決|かいけつ　(a) solution; (a) settlement
+133|決心|けっしん　determination; resolution
+133|決して…ない|けっして…ない　definitely not...; by no means...; not...at all
+134|太字|ふとじ　a bold-faced type; a thick letter [character]
+134|太陽|たいよう　the sun
+134|太る|ふとる　to grow fat; to put on weight
+134|太い|ふとい　big; thick
+134|太鼓|たいこ　a drum
+134|太りすぎ|ふとりすぎ　too fat; overweight
+135|強い地震|つよいじしん　a big [severe] earthquake
+135|強いる|しいる　to compel; to press; to force; to enforce; to coerce
+135|力強い|ちからづよい　powerful; strong; mighty; reassuring
+135|我慢強い|がまんづよい　patient; enduring
+135|歴史に強い|れきしにつよい　be good at history
+135|強気の|つよきの　confident; bold; aggressive; strong; firm
+136|使う|つかう　to use; to handle; to spend; to employ
+136|使い捨ての|つかいすての　disposable; throwaway; single-use
+136|天使|てんし　an angel
+136|使いこなす|つかいこなす　to handle (men); to master (a tool); to manage; to acquire a command of (a language)
+137|朝食|ちょうしょく　breakfast
+137|朝日|あさひ　the morning [rising] sun
+137|早朝|そうちょう　the early morning
+137|朝ご飯|あさごはん　breakfast
+137|朝刊|ちょうかん　a morning newspaper
+137|朝|あさ　morning
+138|市長|しちょう　a mayor
+138|市民|しみん　a citizen; the citizens; the citizenry
+138|都市|とし　a city; a town
+138|神戸市|こうべし　Kobe city (of Hyogo prefecture)
+138|市場|いちば/しじょう　a market; a marketplace
+138|朝市|あさいち　a morning market
+139|市町村|しちょうそん　cities; town and villages
+139|村|むら　a village; a hamlet
+139|漁村|ぎょそん　a fishing village
+139|農村|のうそん　a farm(ing) village; an agricultural district
+139|村長|そんちょう　a village chief
+139|村民|そんみん　a villager
