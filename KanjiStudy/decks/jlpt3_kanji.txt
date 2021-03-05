@@ -824,3 +824,9 @@ Title=JLPT 3 Practice Deck
 139|農村|のうそん　a farm(ing) village; an agricultural district
 139|村長|そんちょう　a village chief
 139|村民|そんみん　a villager
+140|三頭|さんとう　three head (of cattle)
+140|頭|あたま　a [one's] head; hair; a hairstyle; brains; intelligence
+140|頭が痛い|あたまがいたい　have a headache
+140|頭が悪い|あたまがわるい　be stupid; be dull; have no brains
+140|頭文字|かしらもじ　an initial letter; a capital (letter)
+140|頭に来る|あたまにくる　to fly into a rage; to blow one's top
