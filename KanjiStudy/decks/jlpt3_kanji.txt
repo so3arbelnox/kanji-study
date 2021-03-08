@@ -830,3 +830,63 @@ Title=JLPT 3 Practice Deck
 140|頭が悪い|あたまがわるい　be stupid; be dull; have no brains
 140|頭文字|かしらもじ　an initial letter; a capital (letter)
 140|頭に来る|あたまにくる　to fly into a rage; to blow one's top
+141|宿題|しゅくだい　homework; an assignment
+141|宿題をする|しゅくだいをする　to do (one's) homework
+141|題|だい　a subject; a theme; a title
+141|話題|わだい　a topic (subject) of conversion
+141|問題を解く|もんだいをとく　to solve [work out] a problem
+141|題名|だいめい　a title; a caption; a heading
+142|万が一|まんがいち　by any chance; by some rare accident
+142|二万人|にまんにん　twenty thousand people
+142|一万円|いちまんえん　ten thousand yen
+142|万国|ばんこく　all (the) countries on earth; all nations
+142|万引き|まんびき　shoplifting
+142|万年筆|まんねんひつ　a fountain pen
+143|仕方がない|しかたがない　It can't be helped [avoided].
+143|仕方|しかた　a method; a way; a means
+143|仕度|したく　arrangements; preparations; (an) outfit
+143|仕事|しごと　work; a job; business; a task; an occupation
+143|仕える|つかえる　to serve; to be in the service (of); to work for
+143|仕上がる|しあがる　to be finished; to be completed; to be ready
+144|白い|しろい　white; fair; blank
+144|青白い|あおじろい　pale; pallid
+144|白衣|はくい　a white robe [dress]; a white coat
+144|面白い|おもしろい　enjoyable; funny; amusing; interesting
+144|白ワイン|しろわいん　white wine
+144|白バイ|しろばい　a white police motorcycle
+145|説|せつ　an opinion; a view; a theory; a doctrine; a rumor
+145|説得する|せっとくする　to persuade (a person into doing)
+145|説く|とく　to explain; to state [assert]; to set forth; to preach
+145|小説家|しょうせつか　a novelist; a story [fiction] writer
+145|口説く|くどく　to persuade; to seduce; to court (a woman)
+145|説明する|せつめいする　to explain; to interpret; to illustrate
+146|七夕|たなばた　July 7th Festival of the Weaver
+146|七つ|ななつ　seven (things)
+146|十七|じゅうなな　seventeen
+146|七日|なのか　the seventh day of the month; seven days
+146|七人|しちにん　seven people
+146|七月|しちがつ　July
+147|京都|きょうと　Kyoto
+147|東京|とうきょう　Tokyo
+147|北京|ぺきん　Beijing; Peking
+147|京風|きょうふう　Kyoto style
+147|京阪神地方|けいはんしんちほう　the Kyoto-Osaka-Kobe area
+147|上京する|じょうきょうする　to go [come] to Tokyo
+148|足す|たす　to add (to); to make up (for); to supply
+148|足首|あしくび　an ankle
+148|満足|まんぞく　satisfaction; contentment; gratification
+148|足りる|たりる　to be enough [sufficient]
+148|足が痛い|あしがいたい　have a pain in one's leg [foot]
+148|不足|ふそく　shortage; insufficiency
+149|一万円|いちまんえん　10,000 yen
+149|千円札|せんえんさつ　a 1,000 yen bill
+149|円を描く|えんをえがく　to make a circle (draw, paint, describe, walk etc.)
+149|五百円|ごひゃくえん　500 yen
+149|円顔|まるがお　a round face
+149|円い|まるい　round; circular; spherical
+150|門|もん　a gate; a gateway
+150|専門|せんもん　a specialty; a special subject of study
+150|正門|せいもん　the main [front] gate; the main entrance
+150|門松|かどまつ　New Year's pine decoration
+150|部門|ぶもん　a section; a department; a branch
+150|門を開ける|もんをあける　to open a gate
