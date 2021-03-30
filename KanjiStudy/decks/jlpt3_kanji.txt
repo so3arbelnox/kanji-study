@@ -890,3 +890,63 @@ Title=JLPT 3 Practice Deck
 150|門松|かどまつ　New Year's pine decoration
 150|部門|ぶもん　a section; a department; a branch
 150|門を開ける|もんをあける　to open a gate
+151|品物|しなもの　goods
+151|上品な|じょうひんな　elegant; refined; decent
+151|手品|てじな　magic; conjuring tricks; prestidigitation
+151|食品|しょくひん　food(s); foodstuffs; an item in one's diet
+151|商品|しょうひん　a commodity; a product; merchandise; goods
+151|作品|さくひん　a (piece) of work; a product; a production
+152|電気|でんき　electricity; an electric light
+152|電灯|でんとう　an electric light [lamp]
+152|電車|でんしゃ　an electric train; a streetcar; a tram
+152|電話番号|でんわばんごう　a telephone number
+152|電報|でんぽう　a telegram; a wire; a telegraphic message
+152|携帯電話|けいたいでんわ　a mobile telephone; a cell phone
+153|着物|きもの　a kimono
+153|着る|きる　to put on; to get dressed; to wear
+153|服を着る|ふくをきる　to put on clothes
+153|落ち着く|おちつく　to calm down; to subside; to settle (down, in)
+153|着く|つく　to arrive (at, in); to reach; to get to
+153|会社に着く|かいしゃにつく　to arrive at work [one's office]
+154|税別|ぜいべつ　tax not included (in price)
+154|差別|さべつ　discrimination
+154|区別|くべつ　(a) distinction; (a) difference
+154|別々に|べつべつに　separately
+154|別れる|わかれる　to break up; to part from; to separate
+154|別の本|べつのほん　another book; a different book
+155|母音|ぼいん　a vowel
+155|録音する|ろくおんする　to record (sound); to tape (audio)
+155|音|おと　a sound; a noise; a din; a commotion
+155|音楽|おんがく　music
+155|子音|しいん　a consonant
+155|本音|ほんね　one's real intention; one's real motive
+156|元気|げんき　spirits; energy; vigor; pep
+156|元気のない|げんきのない　depressed; low-spirited; cheerless
+156|足元に|あしもとに　at one's feet
+156|元首相|もとしゅしょう　the former Prime Minister
+156|元々|もともと　originally; from the outset; all along; by nature
+156|元日|がんじつ　New Year's Day
+157|特に|とくに　especially; particularly
+157|特別な|とくべつな　special; exceptional
+157|独特の|どくとくの　special; unique; peculiar (to)
+157|特技|とくぎ　a special skill; one's specialty
+157|特になし|とくになし　nothing in particular
+157|特急|とっきゅう　a limited [special] express (train)
+158|父の日|ちちのひ　Father's Day
+158|父兄|ふけい　one's parents [guardians]
+158|祖父|そふ　a [one's] grandfather
+158|神父|しんぷ　Catholic priest; Father
+158|父|ちち　a [one's] father
+158|お父さん|おとうさん　a [one's] father
+159|便利な|べんりな　convenient; handy; useful
+159|不利|ふり　(a) disadvantage; a handicap
+159|利益|りえき　benefit; interests; (a) profit; gain(s); a return
+159|権利|けんり　a right; a claim; a title; a privilege; authority
+159|利口な|りこうな　clever; bright; intelligent; wise
+159|利用する|りようする　to use; to make use (of); to utilize
+160|風|かぜ　a wind; a current of air; a breeze; a draft
+160|和風|わふう　Japanese style
+160|風上|かざかみ　windward; upwind
+160|風邪|かぜ　a cold; influenza
+160|風邪をひく|かぜをひく　to catch a cold
+160|風呂|ふろ　a bath
