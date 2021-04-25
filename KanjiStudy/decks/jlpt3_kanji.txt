@@ -950,3 +950,63 @@ Title=JLPT 3 Practice Deck
 160|風邪|かぜ　a cold; influenza
 160|風邪をひく|かぜをひく　to catch a cold
 160|風呂|ふろ　a bath
+161|北|きた　north
+161|駅の北側|えきのきたがわ　the north side of the station
+161|北口|きたぐち　north entrance [exit] (of a station)
+161|南北|なんぼく　north and south
+161|北アメリカ|きたアメリカ　North America
+161|北海道|ほっかいどう　Hokkaido (Japan's northernmost island)
+162|石油|せきゆ　petroleum; oil; kerosense; paraffin
+162|石川県|いしかわけん　Ishikawa prefecture (of Chubu area)
+162|石鹸|せっけん　soap
+162|宝石|ほうせき　a jewel; a precious stone; a gem; jewelry
+162|石炭|せきたん　coal
+162|磁石|じしゃく　a magnet; a (pocket) compass
+163|車|くるま　a wheel; a vehicle; a car; an automobile
+163|救急車|きゅうきゅうしゃ　an ambulance
+163|自動車|じどうしゃ　a car; an automobile; a motor vehicle
+163|自転車|じてんしゃ　a bicycle
+163|車いす|くるまいす　a wheelchair
+163|汽車|きしゃ　a train; a railway train
+164|進める|すすめる　to advance; to proceed; to make progress
+164|進む|すすむ　to advance; to proceed; to make progress
+164|進歩|しんぽ　progress; (an) advance; (an) improvement
+164|前進する|ぜんしんする　to advance; to go ahead; to march forward
+164|進学する|しんがくする　to go on to [enter] a higher school
+164|進路|しんろ　a course; a route; a way
+165|夜中|よなか　midnight
+165|夜|よる　(a) night; (an) evening
+165|夜間に|やかんに　at night; in the night [night-time]
+165|金曜の夜|きんようのよる　Friday night
+165|夜景|やけい　a night view (scene)
+165|夜明け|よあけ　dawn; daybreak
+166|母|はは　a [one's] mother
+166|父母|ふぼ　father and mother; parents
+166|お母さん|おかあさん　a [one's] mother
+166|母の日|ははのひ　Mother's Day
+166|祖母|そぼ　a [one's] grandmother
+166|母国|ぼこく　one's mother [native] country; one's homeland
+167|生産する|せいさんする　to produce (food); to make; to turn out
+167|産む|うむ　to give birth; to bear
+167|産まれる|うまれる　to be born
+167|国産の|こくさんの　domestic; domestically produced (goods)
+167|産業|さんぎょう　(an) industry
+167|出産|しゅっさん　a birth; childbirth; delivery
+168|半分|はんぶん　(a) half
+168|半ば|なかば　middle; half; semi; halfway; partly
+168|半年|はんとし　half a year; a half year
+168|二時半|にじはん　two-thirty (o'clock); half past two (o'clock)
+168|半島|はんとう　a peninsula
+168|半額|はんがく　half the amount [sum, price, fare]
+169|好き|すき　(a) liking; (a) fondness; (a) love
+169|好み|このみ　(a) liking; (a) taste; (a) preference
+169|格好|かっこう　(a) shape; (a) form; a figure; appearance(s)
+169|格好のいい|かっこうのいい　attractive; nice-looking; nicely-shaped
+169|好む|このむ　to like; to be fond (of); to have a liking
+169|大好きだ|だいすきだ　to be very fond of; to have a great liking for
+170|空手|からて　karate
+170|空港|くうこう　an airport
+170|空く|あく　to become vacant [free]; to be free
+170|空気|くうき　air; an atmosphere
+170|空|そら　the sky; the blue; the heavens; (the) weather
+170|空き缶|あきかん　an empty can
