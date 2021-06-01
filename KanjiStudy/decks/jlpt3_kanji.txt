@@ -1010,3 +1010,63 @@ Title=JLPT 3 Practice Deck
 170|空気|くうき　air; an atmosphere
 170|空|そら　the sky; the blue; the heavens; (the) weather
 170|空き缶|あきかん　an empty can
+171|所有する|しょゆうする　to have; to possess; to own
+171|有無|うむ　existence; presence; yes or no
+171|有名な|ゆうめいな　famous [noted, well-known, celebrated]
+171|有る|ある　to be; to have
+171|有り難う|ありがとう　Thank you; Thanks.
+171|有料|ゆうりょう　a charge; a fee
+172|起立する|きりつする　to stand up
+172|起きる|おきる　to get up; to get out of bed; to wake up; to awake
+172|起こす|おこす　to raise (up); to set up; to wake so. (up); to awake
+172|起こる|おこる　to happen; to occur; to take place
+172|起床する|きしょうする　to get up; to rise
+172|縁起|えんぎ　an omen; luck
+173|運|うん　one's lot; (one's) destiny [fate]; fortune; luck
+173|運ぶ|はこぶ　to carry; to convey; to transport
+173|幸運|こううん　good fortune; (good) luck; a lucky break
+173|持ち運ぶ|もちはこぶ　to bring; to carry
+173|運がいい|うんがいい　be lucky [fortunate]; have good luck
+173|運転免許証|うんてんめんきょしょう　a driver's license
+174|料理|りょうり　cooking; a dish; food
+174|食料品|しょくりょうひん　provisions; groceries; food; foodstuffs
+174|無料|むりょう　no charge; free of charge
+174|給料|きゅうりょう　pay; a salary; wages; remuneration
+174|材料|ざいりょう　material(s); stuff; raw material(s); data
+174|料理する|りょうりする　to cook; to prepare (a dish)
+175|楽しみ|たのしみ　pleasure; joy; enjoyment; fun; happiness
+175|楽しむ|たのしむ　to enjoy oneself
+175|楽しい|たのしい　happy; cheerful; entertaining; pleasant
+175|楽器|がっき　a musical instrument; an instrument
+175|楽|らく　ease; comfort; relief
+175|気楽な|きらくな　easygoing; happy-go-lucky; comfortable; easy
+176|色|いろ　(a) color
+176|景色|けしき　scenery; a view; a landscape; a scene
+176|色っぽい|いろっぽい　amorous; coquettish; sexy
+176|黄色|きいろ　[noun] yellow
+176|十人十色|じゅうにんといろ　So many men so many minds.
+176|黄色い|きいろい　[adjective] yellow
+177|帰る|かえる　to return; to come [go] back; to come [go] home
+177|帰国する|きこくする　to return [go, come] to one's country
+177|電車で帰る|でんしゃでかえる　to return (home) by train
+177|帰す|かえす　to let so. leave; to see so. out; to send so. home
+177|帰り|かえり　coming [going] home; the [one's] return
+177|日帰り旅行|ひがえりりょこう　a day trip; a one-day trip
+178|進歩する|しんぽする　to make progress; to advance; to improve
+178|歩み|あゆみ　walking; stepping; a step; progress; process
+178|横断歩道|おうだんほどう　a pedestrian crossing; a crosswalk
+178|一歩|いっぽ　one step
+178|散歩|さんぽ　a walk; a stroll
+178|歩く|あるく　to walk; to go on foot
+179|悪い|わるい　bad; no good; evil; immoral; serious; inferior
+179|意地悪|いじわる　spite; spitefulness; ill will; a spiteful person
+179|気持ち悪い|きもちわるい　feel bad [sick]
+179|最悪の|さいあくの　the worst
+179|悪いこと|わるいこと　a criminal; a wrong; (a) vice; a crime; a sin
+179|悪口|わるくち　abuse; slander; abusive [foul, bad] language
+180|広場|ひろば　an open space; a square; a plaza
+180|広告|こうこく　(an) advertisement; an ad
+180|広がる|ひろがる　to spread (out); to extend; to stretch; to reach
+180|広まる|ひろまる　to spread; to circulate; to get about
+180|広い|ひろい　spacious
+180|背広|せびろ　a (business) suit
