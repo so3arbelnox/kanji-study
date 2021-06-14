@@ -1070,3 +1070,63 @@ Title=JLPT 3 Practice Deck
 180|広まる|ひろまる　to spread; to circulate; to get about
 180|広い|ひろい　spacious
 180|背広|せびろ　a (business) suit
+181|喫茶店|きっさてん　a tearoom; a cafe; a coffee shop
+181|店員|てんいん　a shop assistant; a sales person; a clerk
+181|店|みせ　a store; a shop; a stall; a booth; a kiosk
+181|書店|しょてん　a bookstore; a bookshop
+181|支店|してん　a branch store (office)
+181|商店|しょうてん　a store; a shop
+182|町|まち　a town; a city
+182|下町|したまち　a low-flying area of a city
+182|町長|ちょうちょう　a mayor; the head of a town
+182|町に住む|まちにすむ　to live in a town
+182|横町|よこちょう　a side street; an alley
+182|町並み|まちなみ　a row of houses along a street
+183|三百人|さんびゃくにん　three hundred people
+183|百点|ひゃくてん　a [one] hundred points; a perfect mark
+183|百パーセント|ひゃくパーセント　one-hundred percent; 100%
+183|百科事典|ひゃっかじてん　an encyclopedia
+183|八百屋|やおや　a vegetable store; a greengrocery
+183|百円|ひゃくえん　a [one] hundred yen
+184|光る|ひかる　to shine; to be bright; to be brilliant; to gleam
+184|ぴかぴか光る|ぴかぴかひかる　to shine; to be shiny; to twinkle; to glitter
+184|観光する|かんこうする　to go sightseeing
+184|光|ひかり　light; a beam; a ray; a flash; (a) sparkle
+184|日光|にっこう　sunlight; sunshine
+184|光ファイバー|ひかりファイバー　optical fiber
+185|首|くび　the neck; the head
+185|首になる|くびになる　to be fired (from a job)
+185|首相|しゅしょう　the Prime Minister; the premier
+185|首位|しゅい　the first [top] place; the leading position
+185|首都|しゅと　the capital (city)
+185|手首|てくび　a wrist
+186|土|つち　earth; soil; the ground; mud; clay
+186|土日|どにち　Saturday and Sunday
+186|黄土色|おうどいろ　ocher
+186|土地|とち　ground; land; soil
+186|土曜日|どようび　Saturday
+186|お土産|おみやげ　a souvenir
+187|その都度|そのつど　each [every] time (it happens)
+187|東京都|とうきょうと　Metropolis of Tokyo
+187|都合がいい|つごうがいい　be convenient (to)
+187|都心|としん　the heart [center] (of Tokyo); the city center
+187|都会|とかい　a city; a town; a metropolis
+187|都|みやこ　a capital; a metropolis; the seat of government
+188|住民|じゅうみん　inhabitants; residents; dwellers
+188|住まい|すまい　a dwelling (house); a residence; a home
+188|住む|すむ　to live [dwell, reside] (in); to inhabit; to occupy
+188|東京に住む|とうきょうにすむ　to live in Tokyo
+188|住宅|じゅうたく　a house; a residence; a residential building
+188|住所|じゅうしょ　one's address
+189|西|にし　west; the west
+189|西海岸|にしかいがん　the west coast
+189|西口|にしぐち　west entrance [exit] (of a station)
+189|関西|かんさい　Kansai (south-western region of Japan)
+189|東西|とうざい　east and west; the East and the West
+189|西日本|にしにほん　Western Japan
+190|売る|うる　to sell; to deal in (diamonds); to betray
+190|安売り|やすうり　a bargain sale
+190|売店|ばいてん　a store; a shop; a stand
+190|自動販売機|じどうはんばいき　a vending machine
+190|発売中|はつばいちゅう　now on sale
+190|売り切れ|うりきれ　Sold out.
