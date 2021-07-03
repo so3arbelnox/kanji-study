@@ -1126,3 +1126,63 @@ Title=JLPT 3 Practice Deck
 190|自動販売機|じどうはんばいき　a vending machine
 190|発売中|はつばいちゅう　now on sale
 190|売り切れ|うりきれ　Sold out.
+191|競馬|けいば　horse racing; a horse race
+191|乗馬|じょうば　horse [horseback] riding; a riding horse
+191|馬鹿|ばか　a fool; a moron; an idiot; stupidity; foolishness
+191|馬車|ばしゃ　a carriage; a coach; a (horse-drawn) wagon
+191|馬に乗る|うまにのる　to ride a horse; to get on [mount] a horse
+191|絵馬|えま　a votive picture (of a horse) on a wooden tablet
+192|期待|きたい　expectations(s); anticipation; hope(s)
+192|招待|しょうたい　(an) invitation; an invite
+192|待合室|まちあいしつ　a waiting room
+192|待たせる|またせる　to keep a person waiting; to make a person wait
+192|待ち合わせる|まちあわせる　to arrange to meet
+192|待つ|まつ　to wait
+193|中古の|ちゅうこの　used; secondhand
+193|古い|ふるい　old (thing); aged; time-honored; outdated
+193|中古車|ちゅうこしゃ　a used car
+193|古着|ふるぎ　old clothes; used clothing
+193|使い古す|つかいふるす　to wear out (something) (by use)
+193|古いアパート|ふるいアパート　an old apartment
+194|始める|はじめる　to begin [start] (a thing, to do, doing)
+194|始まる|はじまる　to begin; to start; to open; to break out
+194|始まり|はじまり　to beginning; the start; the opening
+194|開始|かいし　a start; a beginning; the onset
+194|始発駅|しはつえき　the starting (train) station
+194|始めに|はじめに　first of all; in the beginning
+195|読む|よむ　to read; to peruse; to recite; to chant; to decipher
+195|音読み|おんよみ　the Chinese-derived reading of a kanji
+195|読書|どくしょ　reading
+195|句読点|くとうてん　punctuation marks
+195|本を読む|ほんをよむ　to read a book
+195|訓読み|くんよみ　the Japanese pronunciation of a kanji
+196|千代田区|ちよだく　Chiyoda Ward (of Tokyo)
+196|五千円|ごせんえん　5,000 yen
+196|千葉県|ちばけん　Chiba prefecture (east of Tokyo)
+196|二千人|にせんにん　two thousand people
+196|千羽鶴|せんばづる　(string of) 1,000 origami [paper] cranes
+196|千切りにする|せんぎりにする　to cut into thin strips
+197|南米|なんべい　South America
+197|新米|しんまい　a beginner; a novice; a new [fresh] recruit; new rice
+197|白米|はくまい　(white) polished [cleaned] rice
+197|欧米|おうべい　Europe and America; the West
+197|米粒|こめつぶ　a grain of rice
+197|米飯|べいはん　cooked rice
+198|終了|しゅうりょう　completion; expiration; termination
+198|終える|おえる　to finish; to complete
+198|読み終わる|よみおわる　to finish reading
+198|終電|しゅうでん　the last scheduled train
+198|終わり|おわり　an end; a finish; a close; (a) conclusion; expiry
+198|終わる|おわる　to come to an end; to end; to close; to be over
+199|小学校|しょうがっこう　an elementary school
+199|中学校|ちゅうがっこう　a middle school; a junior high school
+199|高校|こうこう　a senior high school
+199|校長|こうちょう　a principal; a schoolmaster
+199|高等学校|こうとうがっこう　a senior high school
+199|高校生|こうこうせい　a (senior) high-school student
+200|会計|かいけい　accounts; accounting; a bill; a check
+200|計算する|けいさんする　to calculate; to reckon; to count; to sum
+200|合計|ごうけい　a total; the sum (total); the total
+200|腕時計|うでどけい　a wristwatch; a watch
+200|計る|はかる　to compute; to calculate; to guess; to plan
+200|計画|けいかく　a plan; a project; a scheme
