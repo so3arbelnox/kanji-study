@@ -745,7 +745,6 @@ Title=JLPT 3 Practice Deck
 126|会社員|かいしゃいん　a company employee
 126|会員|かいいん　a member; a membership
 126|公務員|こうむいん　a public servant; a government employee
-126|全員|ぜんいん　all (the) members; the entire staff; all hands
 126|国会議員|こっかいぎいん　a member of the Diet
 126|満員|まんいん　no vacancy; a full house
 127|引く|ひく　to draw; to pull; to haul; to drag
@@ -769,7 +768,6 @@ Title=JLPT 3 Practice Deck
 130|安心|あんしん　relief; peace of mind
 130|安い|やすい　cheap; inexpensive
 130|不安|ふあん　uneasiness; anxiety; insecurity
-130|安全|あんぜん　safety; security
 130|安らぐ|やすらぐ　to feel at ease
 130|目安|めやす　a standard
 131|親指|おやゆび　the thumb
@@ -878,7 +876,6 @@ Title=JLPT 3 Practice Deck
 148|足りる|たりる　to be enough [sufficient]
 148|足が痛い|あしがいたい　have a pain in one's leg [foot]
 148|不足|ふそく　shortage; insufficiency
-149|一万円|いちまんえん　10,000 yen
 149|千円札|せんえんさつ　a 1,000 yen bill
 149|円を描く|えんをえがく　to make a circle (draw, paint, describe, walk etc.)
 149|五百円|ごひゃくえん　500 yen
@@ -943,7 +940,6 @@ Title=JLPT 3 Practice Deck
 159|利益|りえき　benefit; interests; (a) profit; gain(s); a return
 159|権利|けんり　a right; a claim; a title; a privilege; authority
 159|利口な|りこうな　clever; bright; intelligent; wise
-159|利用する|りようする　to use; to make use (of); to utilize
 160|風|かぜ　a wind; a current of air; a breeze; a draft
 160|和風|わふう　Japanese style
 160|風上|かざかみ　windward; upwind

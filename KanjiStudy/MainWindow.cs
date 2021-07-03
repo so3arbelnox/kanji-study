@@ -61,10 +61,12 @@ namespace KanjiApp
         }
         public bool LoadDeck(String filename)
         {
-            StreamReader kanjiFile = new StreamReader(filename);
+            StreamReader kanjiFile = null;
 
             try
             {
+                kanjiFile = new StreamReader(filename);
+
                 List<Card> cards = new List<Card>();
 
                 lw_kanji.Clear();
@@ -137,12 +139,14 @@ namespace KanjiApp
             }
             catch (Exception ex)
             {
+                MessageBox.Show("Failed to load deck with path: " + filename + "\nPlease select another deck from the file menu.", "Unable to load deck", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 Console.WriteLine("Failed to load deck: " + ex.Message);
                 return false;
             }
             finally
             {
-                kanjiFile.Close();
+                if (kanjiFile != null)
+                    kanjiFile.Close();
             }
         }
 
