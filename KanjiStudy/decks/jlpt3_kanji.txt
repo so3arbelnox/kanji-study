@@ -1186,3 +1186,63 @@ Title=JLPT 3 Practice Deck
 200|腕時計|うでどけい　a wristwatch; a watch
 200|計る|はかる　to compute; to calculate; to guess; to plan
 200|計画|けいかく　a plan; a project; a scheme
+201|院長|いんちょう　the director; the president (of an organization)
+201|入院する|にゅういんする　to enter (a) hospital
+201|大学院|だいがくいん　a graduate [postgraduate] school
+201|美容院|びよういん　a beauty salon [shop, parlor]
+201|退院する|たいいんする　to be discharged (from the hospital)
+201|寺院|じいん　a (Buddhist) temple
+202|送る|おくる　to send; to ship; to remit; to see off; to spend (time)
+202|放送|ほうそう　TV broadcasting; a radio [television] broadcast
+202|送り仮名|おくりがな　kana suffixed to a kanji to show its reading
+202|見送る|みおくる　to see (a person) off
+202|メールを送る|メールをおくる　to send (an) email
+202|送料|そうりょう　postage
+203|家族|かぞく　a family; one's folks
+203|皇族|こうぞく　the Imperial Family; a member of the Imperial Family
+203|親族|しんぞく　a relative; a relation
+203|アイヌ族|アイヌぞく　Ainu (indigenous people of Japan)
+203|五人家族|ごにんかぞく　a family of five
+203|水族館|すいぞくかん　an aquarium
+204|乗り物|のりもの　a vehicle; a vessel; (a means of) transportation
+204|乗客|じょうきゃく　a passenger; a fare
+204|電車に乗る|でんしゃにのる　to take a train
+204|乗車する|じょうしゃする　to get on (a train [bus]); to get in (a car)
+204|乗せる|のせる　to give somebody a ride [lift]
+204|乗り換える|のりかえる　to change [transfer] (buses, trains)
+205|映像|えいぞう　an image; a screen image
+205|映る|うつる　to be reflected; to be imaged; to be projected
+205|出来映え|できばえ　finishing touches
+205|映画|えいが　a movie; a film; a motion picture
+205|映す|うつす　to reflect; to mirror; to project on the screen
+205|映画を見る|えいがをみる　to watch a movie [film]
+206|買う|かう　to buy; to get; to take; to purchase; to value
+206|売買|ばいばい　buying and selling; trade
+206|買い物袋|かいものぶくろ　a shopping bag
+206|買い物|かいもの　shopping; a purchase
+206|お買い得品|おかいどくひん　a bargain; a good buy
+206|安く買う|やすくかう　to buy [get] a thing cheap [for a low price]
+207|右手|みぎて　the right hand
+207|右側|みぎがわ　the right (side)
+207|右上|みぎうえ　the upper right
+207|右に曲がる|みぎにまがる　to turn (to the) right
+207|右折する|うせつする　to turn right; to make a right(hand) turn
+207|右利き|みぎきき　right-handedness
+208|病気になる|びょうきになる　to get sick; to fall ill
+208|病人|びょうにん　a patient; a sick person
+208|うつ病|うつびょう　depression
+208|病|やまい　a disease; (an) illness
+208|病む|やむ　to be ill; to fall ill
+208|病院|びょういん　a hospital; a clinic; a doctor's office
+209|早まる|はやまる　to be advanced; to be put [brought] forward
+209|早い|はやい　early
+209|早起きする|はやおきする　to get up early
+209|早める|はやめる　to quicken; to speed up; to advance
+209|早速|さっそく　at once; immediately; directly; promptly
+209|早退する|そうたいする　to leave (work, school) earlier than usual
+210|質問|しつもん　a question; an interrogation; an inquiry
+210|質屋|しちや　a pawnshop
+210|蛋白質|たんぱくしつ　protein
+210|質|しつ　quality; one's character; (a person's) disposition
+210|性質|せいしつ　(a) nature; (a) disposition; (a) character
+210|質問する|しつもんする　to ask a person a question
