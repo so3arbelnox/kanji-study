@@ -533,7 +533,7 @@ Title=JLPT 3 Practice Deck
 49|田|た　a rice field; a paddy field; a (rice) paddy
 49|田植え|たうえ　rice-planting
 49|田舎|いなか　the country; the countryside; rural districts
-49|田んぼ|田んぼ　a rice field; a paddy field; a (rice) paddy
+49|田んぼ|たんぼ　a rice field; a paddy field; a (rice) paddy
 49|水田|すいでん　a rice [paddy] field
 49|田畑|たはた　fields of rice and other crops; farms; the fields
 44|立つ|たつ　to stand; to rise (to one's feet)
@@ -678,7 +678,7 @@ Title=JLPT 3 Practice Deck
 114|小声|こごえ　a low voice; a whisper
 114|声をかける|こえをかける　to call out (to); to hail; to say something
 115|水泳|すいえい　swimming; a swim; bathing; a bathe
-115|月水金|げっすきん　Monday-Wednesday-Friday
+115|月水金|げっすいきん　Monday-Wednesday-Friday
 115|水|みず　water; cold water; (a) liquid; (a) fluid
 115|香水|こうすい　(a) perfume; (a) scent
 115|水曜日|すいようび　Wednesday
@@ -1246,3 +1246,63 @@ Title=JLPT 3 Practice Deck
 210|質|しつ　quality; one's character; (a person's) disposition
 210|性質|せいしつ　(a) nature; (a) disposition; (a) character
 210|質問する|しつもんする　to ask a person a question
+211|台風|たいふう　a typhoon
+211|アイロン台|アイロンだい　an ironing board
+211|一台|いちだい　one (machine); one (vehicle)
+211|土台|どだい　the foundation(s); the base
+211|台所|だいどころ　a kitchen
+211|九時台|くじだい　between nine and ten (o'clock)
+212|会議室|かいぎしつ　a conference room
+212|教室|きょうしつ　a classroom
+212|２３７号室|にひゃくさんじゅうしちごうしつ　room #237
+212|寝室|しんしつ　a bedroom
+212|和室|わしつ　a Japanese-style room
+212|更衣室|こういしつ　a dressing [changing] room; a locker room
+213|建てる|たてる　to build; to construct
+213|建物|たてもの　a building
+213|建つ|たつ　to erect; to be built
+213|建て前|たてまえ　a principle; a rule; one's public position
+213|建設|けんせつ　construction; erection; building
+213|家を建てる|いえをたてる　to build a [one's] house [home]
+214|南|みなみ　south
+214|南米|なんべい　South America
+214|東南アジア|とうなんアジア　Southeast Asia
+214|南極|なんきょく　the South Pole
+214|南側|みなみがわ　south side
+214|南口|みなみぐち　south entrance [exit] (of a station)
+215|運転する|うんてんする　to drive (a car); to run (a train)
+215|気分転換|きぶんてんかん　change of scenery; mental diversion
+215|回転|かいてん　turning; (a) revolution; (a) rotation; (a) spin
+215|運転手|うんてんしゅ　a driver; a chauffeur; an (crane) operator
+215|転ぶ|ころぶ　to fall (down, over); to tumble; to have a fall
+215|転がる|ころがる　to roll (over); to fall [tumble]; to lie down
+216|左に曲がる|ひだりにまがる　to turn (to the) left
+216|左側|ひだりがわ　the left (side)
+216|向かって左|むかってひだり　on the left as one faces (it)
+216|左右|さゆう　left and right
+216|左利き|ひだりきき　left-handedness
+216|左足|ひだりあし　the left leg
+217|医院|いいん　a clinic
+217|内科医|ないかい　a physician
+217|医学|いがく　medical science; medicine
+217|医者|いしゃ　a doctor; a medical practitioner; a surgeon
+217|医師|いし　a doctor; a medical practitioner; a surgeon
+217|外科医|げかい　a surgeon
+218|止める|とめる　to stop (something); to put an end to
+218|痛み止め|いたみどめ　a painkiller
+218|立ち止まる|たちどまる　to stop; to halt; to pause; to come to a stop
+218|中止|ちゅうし　discontinuation; suspension; cancellation
+218|止まる|とまる　to stop; to halt
+218|禁止|きんし　(a) prohibition; a ban
+219|字を書く|じをかく　to write letters [characters]; to write one letter
+219|ローマ字|ローマじ　Roman characters; the Latin alphabet
+219|大字|おおあざ　larger section (of a village)
+219|数字|すうじ　a numeral; a figure
+219|字幕|じまく　subtitles; a title; a caption
+219|赤字|あかじ　a deficit
+220|工事|こうじ　construction work
+220|工場|こうじょう　a factory; a plant; a workshop
+220|工業|こうぎょう　(an) industry; the manufacturing industry
+220|工芸品|こうげいひん　a handicraft
+220|大工|だいく　a carpenter
+220|人工の|じんこうの　artifical; manmade
