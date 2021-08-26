@@ -68,8 +68,11 @@ namespace KanjiApp
                 kanjiFile = new StreamReader(filename);
 
                 List<Card> cards = new List<Card>();
+                
+                lw_kanji.BeginUpdate();
 
                 lw_kanji.Clear();
+
                 String deckTitle = "";
                 String line;
 
@@ -108,6 +111,8 @@ namespace KanjiApp
 
                     lineNum++;
                 }
+
+                lw_kanji.EndUpdate();
 
                 Deck newDeck = new Deck(deckTitle, cards);
                 newDeck.FileName = filename;

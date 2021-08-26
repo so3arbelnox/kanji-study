@@ -1306,3 +1306,63 @@ Title=JLPT 3 Practice Deck
 220|工芸品|こうげいひん　a handicraft
 220|大工|だいく　a carpenter
 220|人工の|じんこうの　artifical; manmade
+221|寺|てら　a Buddhist temple
+221|尼寺|あまでら　a convent; a nunnery
+221|金閣寺|きんかくじ　Temple of the Golden Pavilion (of Kyoto)
+221|寺院|じいん　a (Buddhist) temple
+221|山寺|やまでら　a temple in a mountain; a temple on a hillside
+221|東大寺|とうだいじ　Todaiji Temple
+222|急行|きゅうこう　a rush; a hurry; an express (train)
+222|急ぐ|いそぐ　to hurry; to rush
+222|大急ぎで|おおいそぎで　in a great hurry
+222|急に|きゅうに　quickly; immediately; all of a sudden
+222|宅急便|たっきゅうびん　door-to-door parcel delivery service
+222|緊急|きんきゅう　an emergency
+223|意図|いと　an intent; an intention; a purpose; an aim
+223|図一|ずいち　figure 1; diagram [illustration] #1
+223|図表|ずひょう　a chart; a graph; a diagram
+223|図る|はかる　to attempt; to plot; to plan
+223|合図|あいず　a sign; a signal
+223|地図|ちず　a map
+224|黒猫|くろねこ　a black cat
+224|黒い|くろい　{adjective} black
+224|白黒|しろくろ　black and white [literally white and black]
+224|黒板|こくばん　a blackboard; a chalkboard
+224|黒|くろ　{noun} black
+224|真っ黒な|まっくろな　(as) black as ink [coal]; jet-black; inky-black
+225|県|けん　a prefecture
+225|石川県|いしかわけん　Ishikawa prefecture (of Chubu area)
+225|山口県|やまぐちけん　Yamaguchi prefecture (of Chugoku area)
+225|県庁|けんちょう　a prefectural office
+225|都道府県|とどうふけん　Japanese prefectures
+225|県立の|けんりつの　prefectural (hospital, school, etc.)
+226|生け花|いけばな　(the Japanese art of) flower arrangement
+226|花見|はなみ　cherry-blossom viewing
+226|花瓶|かびん　a (flower) vase
+226|両手に花|りょうてにはな　be between two beautiful women
+226|花を買う|はなをかう　to buy flowers
+226|花粉症|かふんしょう　a pollen allergy; hay fever; pollinosis
+227|和英辞典|わえいじてん　a Japanese-English dictionary
+227|英国|えいこく　England; the United Kingdom
+227|英語がうまい|えいごがうまい　be good at English
+227|英会話|えいかいわ　English conversation
+227|英文|えいぶん　(written) English; a composition in English
+227|英和辞典|えいわじてん　an English-Japanese dictionary
+228|走る|はしる　to run; to dash
+228|走り去る|はしりさる　to run away [off]; to drive off
+228|ゆっくり走る|ゆっくりはしる　to jog; to run (at a slow pace)
+228|暴走する|ぼうそうする　to drive recklessly; to be out of control
+228|競走|きょうそう　a race; a run; a running match; a dash
+228|走者|そうしゃ　a runner
+229|青年|せいねん　a young man; a youth; young people
+229|青信号|あおしんごう　a green light
+229|青い|あおい　{adjective} blue; green
+229|青春|せいしゅん　youth; the best time of one's life; one's prime
+229|真っ青な|まっさおな　deep blue; deathly [ghastly] pale; ashen
+229|青|あお　{noun} blue; green
+230|メル友|メルとも　an e-mail correspondence friend
+230|友達|ともだち　a friend; a pal; a partner; a companion
+230|友人|ゆうじん　a friend; a companion; company
+230|親友|しんゆう　a close friend; (one's) best friend
+230|女友達|おんなともだち　a [one's] girlfriend
+230|友達になる|ともだちになる　to make friends (with)
