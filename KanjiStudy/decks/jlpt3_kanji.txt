@@ -1366,3 +1366,63 @@ Title=JLPT 3 Practice Deck
 230|親友|しんゆう　a close friend; (one's) best friend
 230|女友達|おんなともだち　a [one's] girlfriend
 230|友達になる|ともだちになる　to make friends (with)
+231|返答|へんとう　an answer; a reply
+231|口答え|くちごたえ　back talk; a retort
+231|手答え|てごたえ　a response; a reaction; (an) effect; (a) result
+231|答える|こたえる　to answer (a question); to respond to
+231|答え|こたえ　an answer; a reply; a solution
+231|質問に答える|しつもんにこたえる　to answer a question
+232|火曜日|かようび　Tuesday
+232|花火|はなび　fireworks
+232|火をつける|ひをつける　to set fire (to); to light (a cigarette)
+232|強火|つよび　high flame or heat (in cooking)
+232|火木土|かもくど　Tuesday-Thursday-Saturday
+232|火事|かじ　a fire
+233|表紙|ひょうし　a front cover; a binding
+233|紙|かみ　paper
+233|手紙を書く|てがみをかく　to write (to) a person; to write a letter
+233|紙袋|かみぶくろ　a paper bag [sack]
+233|折り紙|おりがみ　origami (the art of folding paper)
+233|新聞紙|しんぶんし　(a piece of) newspaper
+234|歌|うた　a song; a ballad
+234|歌手|かしゅ　a singer
+234|歌声|うたごえ　singing voice
+234|演歌|えんか　a kind of melodramatic Japanese popular song
+234|歌う|うたう　to sing; to hum; to chant
+234|和歌山県|わかやまけん　Wakayama prefecture (of Kinki area)
+235|不注意|ふちゅうい　carelessness
+235|注目|ちゅうもく　notice; attention
+235|注文|ちゅうもん　an order; a request
+235|注射|ちゅうしゃ　(an) injection; (an) inoculation
+235|注ぐ|そそぐ　to pour (into); to irrigate; to water; to sprinkle
+235|注意する|ちゅういする　to be careful (of); to take notice; to advise
+236|赤い|あかい　{adjective} red; crimson
+236|赤ん坊|あかんぼう　a baby; an infant
+236|赤|あか　{noun} red; crimson; scarlet
+236|赤ちゃん|あかちゃん　a baby; an infant
+236|赤外線|せきがいせん　infrared rays
+236|赤信号|あかしんごう　a red light; a red [danger] signal
+237|働き者|はたらきもの　a hard worker
+237|労働|ろうどう　work; (manual) labor
+237|働く|はたらく　to work; to labor; to serve (at); to operate
+237|本屋で働く|ほんやではたらく　to work at a bookstore
+237|重労働|じゅうろうどう　heavy labor
+237|働き|はたらき　work; labor; ability; action; a function; operation
+238|春|はる　(in (the)) spring; springtime; the prime (of life)
+238|春巻|はるまき　an egg roll; a spring roll
+238|春休み|はるやすみ　a spring vacation [holiday]
+238|去年の春|きょねんのはる　last spring
+238|春夏秋冬|しゅんかしゅうとう　the four seasons
+238|新春|しんしゅん　the New Year
+239|遠くに|とおくに　far away [off]; a long way off; in the distance
+239|遠慮する|えんりょする　to hold [hang] back; to be modest
+239|遠回り|とおまわり　a roundabout way; a detour
+239|永遠|えいえん　eternity
+239|遠い|とおい　remote; distant (past, places); faraway
+239|遠足|えんそく　an excursion; a trip; a hike; an outing; a picnic
+240|美術館|びじゅつかん　an art gallery; a museum of art
+240|大使館|たいしかん　en embassy
+240|入館料|にゅうかんりょう　an admission fee
+240|体育館|たいいくかん　a gym; a gymnasium
+240|本館|ほんかん　a main building
+240|会館|かいかん　a hall; an assembly hall
