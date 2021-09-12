@@ -1426,3 +1426,63 @@ Title=JLPT 3 Practice Deck
 240|体育館|たいいくかん　a gym; a gymnasium
 240|本館|ほんかん　a main building
 240|会館|かいかん　a hall; an assembly hall
+241|一人旅|ひとりたび　traveling alone
+241|旅先で|たびさきで　while traveling; on one's journey
+241|海外旅行|かいがいりょこう　overseas [foreign] travel
+241|旅行する|りょこうする　to travel; to make a journey [trip, tour]
+241|新婚旅行|しんこんりょこう　a honeymoon; a wedding trip
+241|旅館|りょかん　a Japanese-style hotel
+242|経験|けいけん　(an) experience
+242|実験|じっけん　(an) experiment; a test
+242|期末試験|きまつしけん　a final exam; an end-of-term exam
+242|受験する|じゅけんする　to take an examination
+242|経験する|けいけんする　to experience; to go through (hardship)
+242|試験を受ける|しけんをうける　to take an exam
+243|写真|しゃしん　a photograph; a photo; a picture
+243|写る|うつる　to be photographed; to come out (well)
+243|写真を撮る|しゃしんをとる　to take a picture
+243|写生する|しゃせいする　to sketch; to paint [draw] from nature
+243|写す|うつす　to reproduce; to copy; to photograph
+243|複写|ふくしゃ　reproduction; duplication; a copy; a facsimile
+244|区別する|くべつする　to distinguish; to classify; to tell apart
+244|地区|ちく　a district; a section; an area; a zone; a quarter
+244|区役所|くやくしょ　a ward office
+244|区分|くぶん　(a) division; (a) classification; sorting; grouping
+244|品川区|しながわく　Shinagawa ward (of Toky)
+244|東京２３区|とうきょうにじゅうさんく　the 23 wards of Tokyo
+245|去る|さる　to leave; to go away
+245|死去|しきょ　a person's death
+245|忘れ去る|わすれさる　to forget completely
+245|消去する|しょうきょする　to eliminate; to erase
+245|立ち去る|たちさる　to leave; to go off [away] (from); to depart
+245|過去|かこ　the past; bygone days; one's past (life)
+246|研究|けんきゅう　research; studies; (a) study; investigation
+246|包丁を研ぐ|ほうちょうをとぐ　to sharpen a kitchen knife
+246|米を研ぐ|こめをとぐ　to wash (the) rice
+246|研究する|けんきゅうする　to study; to do research (on); to investigate
+246|研修|けんしゅう　study; training
+246|研究者|けんきゅうしゃ　a scholar
+247|飲む|のむ　to drink; to take (medicine); to swallow
+247|飲み込む|のみこむ　to swallow; to understand; to grasp
+247|飲みすぎる|のみすぎる　to drink too much; to smoke too much
+247|飲み物|のみもの　a drink; a beverage
+247|飲酒|いんしゅ　drinking alcohol
+247|水を飲む|みずをのむ　to drink some water
+248|肉|にく　meat; flesh
+248|肉屋|にくや　a butcher; a meat shop; a meat store
+248|鶏肉|とりにく　chicken; poultry; fowl
+248|焼肉|やきにく　Japanese dish of fried meat; Korean barbecue
+248|豚肉|ぶたにく　pork
+248|筋肉|きんにく　muscle
+249|服|ふく　clothes; a garment; a suit; apparel; attire
+249|洋服|ようふく　a suit; a dress; Western clothes
+249|夏服|なつふく　summer clothes; a garment for summer wear
+249|制服|せいふく　a (school, work) uniform
+249|和服|わふく　Japanese clothes; a kimono
+249|内服薬|ないふくやく　medicine taken internally
+250|銀座|ぎんざ　Ginza (district of Tokyo)
+250|銀行|ぎんこう　a bank
+250|金銀|きんぎん　silver and gold [literally gold and silver]
+250|銀|ぎん　silver
+250|銀色|ぎんいろ　the color silver; silveriness
+250|銀行口座|ぎんこうこうざ　a bank account
