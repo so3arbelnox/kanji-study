@@ -20,6 +20,13 @@ namespace KanjiApp
             BACK = 1
         }
 
+        public enum StudyOption
+        {
+            RANGE = 0,
+            AMOUNT = 1,
+            ALL = 2
+        }
+
         public StudyMode CurrentStudyMode { get; set; }
         public bool ShuffleDeck { get; set; }
         public bool UseRange { get; set; }
@@ -31,7 +38,7 @@ namespace KanjiApp
         List<Card> repeatCards = new List<Card>();
         List<Card> cards; // Cloned list of cards
         
-        public StudyForm(bool shuffleDeck, bool useRange, int start, int end)
+        public StudyForm(StudyOption studyOption, int start, int end, int amount)
         {
             InitializeComponent();
 
@@ -45,16 +52,10 @@ namespace KanjiApp
             currentCard = 0;
 
             cards = new List<Card>(SharedResources.CurrentDeck.Cards);
-            ShuffleDeck = shuffleDeck;
-            UseRange = useRange;
             CardIndexStart = start;
             CardIndexEnd = end;
 
-            if (ShuffleDeck)
-            {
-                cards.Shuffle();
-            }
-            else if (UseRange)
+            if (studyOption == StudyOption.RANGE)
             {
                 List<Card> copiedList = new List<Card>(cards);
                 cards = new List<Card>();
@@ -66,9 +67,24 @@ namespace KanjiApp
                         cards.Add(copiedList[i]);
                     }
                 }
+            }
+            else if (studyOption == StudyOption.AMOUNT)
+            {
+                int studyAmount = amount;
+                if (studyAmount > cards.Count()) { studyAmount = cards.Count(); }
 
                 cards.Shuffle();
+
+                List<Card> copiedList = new List<Card>(cards);
+                cards = new List<Card>();
+
+                for (int i = 0; i < studyAmount; i++)
+                {
+                    cards.Add(copiedList[i]);
+                }
             }
+
+            cards.Shuffle();
 
             btn_next.Text = "Reveal";
             btn_fail.Enabled = false;

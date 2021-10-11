@@ -120,19 +120,18 @@ namespace KanjiApp
                 // Check duplicate (testing)
                 List<String> cardFrontTextList = new List<String>();
                 
-                /*
+
                 foreach (Card card in newDeck.Cards)
                 {
                     if (cardFrontTextList.Contains(card.FrontText))
                     {
-                        Console.WriteLine("ID: " + card.ID + " Found duplicate: " + card.FrontText);
+                        Console.WriteLine("ID: " + card.BackText + " Found duplicate: " + card.FrontText);
                     }
                     else
                     {
                         cardFrontTextList.Add(card.FrontText);
                     }
                 }
-                */
 
                 SharedResources.CurrentDeck = newDeck;
                 lbl_entry_count.Text = "Entries: " + SharedResources.CurrentDeck.Cards.Count;

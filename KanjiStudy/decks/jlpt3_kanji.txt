@@ -1265,7 +1265,6 @@ Title=JLPT 3 Practice Deck
 213|建設|けんせつ　construction; erection; building
 213|家を建てる|いえをたてる　to build a [one's] house [home]
 214|南|みなみ　south
-214|南米|なんべい　South America
 214|東南アジア|とうなんアジア　Southeast Asia
 214|南極|なんきょく　the South Pole
 214|南側|みなみがわ　south side
@@ -1309,7 +1308,6 @@ Title=JLPT 3 Practice Deck
 221|寺|てら　a Buddhist temple
 221|尼寺|あまでら　a convent; a nunnery
 221|金閣寺|きんかくじ　Temple of the Golden Pavilion (of Kyoto)
-221|寺院|じいん　a (Buddhist) temple
 221|山寺|やまでら　a temple in a mountain; a temple on a hillside
 221|東大寺|とうだいじ　Todaiji Temple
 222|急行|きゅうこう　a rush; a hurry; an express (train)
@@ -1331,7 +1329,6 @@ Title=JLPT 3 Practice Deck
 224|黒|くろ　{noun} black
 224|真っ黒な|まっくろな　(as) black as ink [coal]; jet-black; inky-black
 225|県|けん　a prefecture
-225|石川県|いしかわけん　Ishikawa prefecture (of Chubu area)
 225|山口県|やまぐちけん　Yamaguchi prefecture (of Chugoku area)
 225|県庁|けんちょう　a prefectural office
 225|都道府県|とどうふけん　Japanese prefectures
@@ -1486,3 +1483,61 @@ Title=JLPT 3 Practice Deck
 250|銀|ぎん　silver
 250|銀色|ぎんいろ　the color silver; silveriness
 250|銀行口座|ぎんこうこうざ　a bank account
+251|紅茶|こうちゃ　(a cup of) tea; black tea
+251|緑茶|りょくちゃ　green tea
+251|茶色|ちゃいろ　brown
+251|お茶|おちゃ　tea
+251|お茶を入れる|おちゃをいれる　to make (a cup [pot] of) tea
+251|茶碗|ちゃわん　a (rice) bowl; a teacup
+252|研究室|けんきゅうしつ　a laboratory; a department office
+252|究める|きわめる　to master; to investigate thoroughly
+252|研究分野|けんきゅうぶんや　a field of study [research]
+252|学問を究める|がくもんをきわめる　to devote oneself to scholarship
+252|事例研究|じれいけんきゅう　a case study
+252|究極の|きゅうきょくの　ultimate; final; last
+253|洋品店|ようひんてん　a men's shop; a haberdasher's shop
+253|洋室|ようしつ　a Western-style room
+253|海洋|かいよう　the sea(s); the ocean
+253|東洋|とうよう　the East; the Orient
+253|西洋|せいよう　the West [Occident]
+253|洋食|ようしょく　Western-style food
+254|低温|ていおん　low temperature
+254|低下する|ていかする　to fall; to drop; to decline; to go down
+254|背が低い|せがひくい　short (person); be short [small] in stature
+254|低くする|ひくくする　to lower; to reduce; to lower (the volume)
+254|血圧が低い|けつあつがひくい　have low blood pressure
+255|薬|くすり　(a) medicine; a drug; a pill; an ointment
+255|薬を飲む|くすりをのむ　to take medicine
+255|目薬|めぐすり　eye drops
+255|薬品|やくひん　(a) medicine; a drug; a chemical
+255|薬局|やっきょく　a drugstore; a pharmacy
+255|薬指|くすりゆび　the ring finger
+256|林|はやし　a grove; a small wood; a copse
+256|杉林|すぎばやし　a (Japanese) cedar forest
+256|林道|りんどう　a path [trail] through the forest
+256|林業|りんぎょう　forestry
+256|雑木林|ぞうきばやし　a grove of mixed trees
+256|山林|さんりん　a forest (on a mountain)
+257|青森県|あおもりけん　Aomori prefecture (of the Tohoku area)
+257|森林|しんりん　a forest; a wood; the woods
+257|森|もり　a wood; woods; a grove; a forest
+257|森林浴|しんりんよく　walking in the woods [forest] (as therapy)
+257|森田さん|もりたさん　Mr. [Ms.] Morita
+257|森林公園|しんりんこうえん　a forest park
+258|兄|あに　one's older [elder] brother
+258|お兄さん|おにいさん　a (one's) older brother
+258|従兄弟|いとこ　a male cousin; a first [full] (male, boy) cousin
+258|兄弟|きょうだい　a sibling; siblings
+258|兄弟げんか|きょうだいげんか　a quarrel between brothers/sisters
+259|秋|あき　autumn; fall
+259|秋田県|あきたけん　Akita prefecture (of Tohoku area)
+259|来年の秋|らいねんのあき　next autumn; next fall
+259|晩秋|ばんしゅう　late autumn; late fall
+259|秋分の日|しゅうぶんのひ　Autumnal Equinox Day
+259|秋晴れ|あきばれ　a lovely, clear autumn day
+260|本堂|ほんどう　the main temple building
+260|堂々とした|どうどうとした　dignified (attitude); majestic (appearance)
+260|国会議事堂|こっかいぎじどう　the (Japanese) National Diet
+260|講堂|こうどう　a lecture hall [room]; an auditorium
+260|公会堂|こうかいどう　a public [town] hall
+260|食堂|しょくどう　a cafeteria; a dining hall
