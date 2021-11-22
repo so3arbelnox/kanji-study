@@ -1445,7 +1445,7 @@ Title=JLPT 3 Practice Deck
 244|地区|ちく　a district; a section; an area; a zone; a quarter
 244|区役所|くやくしょ　a ward office
 244|区分|くぶん　(a) division; (a) classification; sorting; grouping
-244|品川区|しながわく　Shinagawa ward (of Toky)
+244|品川区|しながわく　Shinagawa ward (of Tokyo)
 244|東京２３区|とうきょうにじゅうさんく　the 23 wards of Tokyo
 245|去る|さる　to leave; to go away
 245|死去|しきょ　a person's death

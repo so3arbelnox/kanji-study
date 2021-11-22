@@ -22,9 +22,8 @@ namespace KanjiApp
 
         public enum StudyOption
         {
-            RANGE = 0,
-            AMOUNT = 1,
-            ALL = 2
+            AMOUNT = 0,
+            ALL = 1
         }
 
         public StudyMode CurrentStudyMode { get; set; }
@@ -55,33 +54,28 @@ namespace KanjiApp
             CardIndexStart = start;
             CardIndexEnd = end;
 
-            if (studyOption == StudyOption.RANGE)
+            if (studyOption == StudyOption.AMOUNT)
             {
                 List<Card> copiedList = new List<Card>(cards);
-                cards = new List<Card>();
-
-                for (int i = 0; i < copiedList.Count; i++)
-                {
-                    if (copiedList[i].ID >= CardIndexStart && copiedList[i].ID <= CardIndexEnd)
-                    {
-                        cards.Add(copiedList[i]);
-                    }
-                }
-            }
-            else if (studyOption == StudyOption.AMOUNT)
-            {
                 int studyAmount = amount;
+
+                if (CardIndexStart > 0 && CardIndexEnd > 0) // Range specified
+                {
+                    cards = new List<Card>();
+
+                    for (int i = 0; i < copiedList.Count; i++)
+                        if (copiedList[i].ID >= CardIndexStart && copiedList[i].ID <= CardIndexEnd)
+                            cards.Add(copiedList[i]);
+
+                    copiedList = new List<Card>(cards); // Re-copy list based on new range
+                    copiedList.Shuffle();
+                }
+
                 if (studyAmount > cards.Count()) { studyAmount = cards.Count(); }
-
-                cards.Shuffle();
-
-                List<Card> copiedList = new List<Card>(cards);
                 cards = new List<Card>();
 
                 for (int i = 0; i < studyAmount; i++)
-                {
                     cards.Add(copiedList[i]);
-                }
             }
 
             cards.Shuffle();

@@ -31,25 +31,18 @@ namespace KanjiApp
             else if (rbtn_amount.Checked)
             {
                 int amount = (int)nm_amount.Value;
+                int start = -1;
+                int end = -1;
 
-                StudyForm sf = new StudyForm(StudyOption.AMOUNT, 0, 0, amount);
+                if (chkBoxFromRange.Checked)
+                {
+                    start = (int)nm_start.Value;
+                    end = (int)nm_end.Value;
+                }
+
+                StudyForm sf = new StudyForm(StudyOption.AMOUNT, start, end, amount);
                 sf.ShowDialog();
             }
-            else if (rbtn_range.Checked)
-            {
-                int start = (int)nm_start.Value;
-                int end = (int)nm_end.Value;
-
-                StudyForm sf = new StudyForm(StudyOption.RANGE, start, end, 0);
-                sf.ShowDialog();
-            }
-        }
-
-        private void rbtn_range_CheckedChanged(object sender, EventArgs e)
-        {
-            nm_amount.Enabled = false;
-            nm_start.Enabled = true;
-            nm_end.Enabled = true;
         }
 
         private void rbtn_amount_CheckedChanged(object sender, EventArgs e)
@@ -57,18 +50,32 @@ namespace KanjiApp
             nm_start.Enabled = false;
             nm_end.Enabled = false;
             nm_amount.Enabled = true;
+            chkBoxFromRange.Enabled = true;
         }
 
         private void rbtn_all_random_CheckedChanged(object sender, EventArgs e)
         {
-            nm_start.Enabled = false;
-            nm_end.Enabled = false;
             nm_amount.Enabled = false;
+            chkBoxFromRange.Enabled = false;
         }
 
         private void grp_box_Enter(object sender, EventArgs e)
         {
 
+        }
+
+        private void chkBoxFromRange_CheckedChanged(object sender, EventArgs e)
+        {
+            if (chkBoxFromRange.Checked)
+            {
+                nm_start.Enabled = true;
+                nm_end.Enabled = true;
+            }
+            else
+            {
+                nm_start.Enabled = false;
+                nm_end.Enabled = false;
+            }
         }
     }
 }
