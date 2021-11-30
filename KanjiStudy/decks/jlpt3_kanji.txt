@@ -1541,3 +1541,63 @@ Title=JLPT 3 Practice Deck
 260|講堂|こうどう　a lecture hall [room]; an auditorium
 260|公会堂|こうかいどう　a public [town] hall
 260|食堂|しょくどう　a cafeteria; a dining hall
+261|毎朝|まいあさ　every morning
+261|毎年|まいねん/まいとし　every year; annually
+261|毎回|まいかい　each [every] time
+261|毎日|まいにち　every [each] day; daily; per day; day by day
+261|毎週|まいしゅう　every week; weekly
+261|毎晩|まいばん　every night; night after night
+262|一週間|いっしゅうかん　for one week
+262|週末|しゅうまつ　weekend
+262|先々週|せんせんしゅう　the week before last
+262|今週|こんしゅう　this week
+262|来週|らいしゅう　next week
+262|週二日|しゅうふつか　two days a week
+263|軽い|かるい　light; slight; easy; mild
+263|軽快な|けいかいな　light; nimble (movement); sprightly; jaunty
+263|軽傷|けいしょう　a minor injury
+263|軽やかな|かろやかな　light; airy
+263|気軽な|きがるな　lighthearted
+263|口が軽い|くちがかるい　have a loose tongue
+264|暗い|くらい　dark; gloomy; dim; low
+264|真っ暗ない|まっくらな　pitch-dark; (as) dark as pitch
+264|暗くなる|くらくなる　to become [grow] dark [dim, melancholy]
+264|暗証番号|あんしょうばんごう　a code number; a PIN number
+264|暗号|あんごう　a code; a cipher
+264|暗記する|あんきする　to learn by heart; to commit to memory
+265|習う|ならう　to learn; to study; to take lessons (in)
+265|練習|れんしゅう　practice; training; (an) exercise
+265|習慣|しゅうかん　a habit; a way; a custom; a practice
+265|ピアノを習う|ピアノをならう　to learn [study, practice] piano
+265|復習する|ふくしゅうする　to review [go over] (one's lessons)
+265|予習する|よしゅうする　to prepare (for one's lessons)
+266|試食する|ししょくする　to sample (a food); to try (a food)
+266|試みる|こころみる　to try; to attempt (to do)
+266|試験|しけん　an examination; a test; an exam
+266|試み|こころみ　a trial; a test; an experiment; an attempt
+266|試す|ためす　to try (out); to test; to (make an) experiment
+266|試合|しあい　a game; a match; a tournament
+267|初夏|しょか　early summer
+267|夏休み|なつやすみ　the summer vacation [holidays]
+267|夏季|かき　summer season
+267|真夏|まなつ　midsummer
+267|夏ばてする|なつばてする　to suffer from the summer heat
+267|今年の夏|ことしのなつ　this summer
+268|弟|おとうと　one's younger brother
+268|兄弟|きょうだい　a sibling; siblings
+268|従兄弟|いとこ　a male cousin
+268|師弟|してい　teacher and student
+268|弟子|でし　a pupil; a disciple; a follower; an apprentice
+268|弟さん|おとうとさん　(somebody else's) younger brother
+269|耳|みみ　an ear; hearing; an edge; a border; a selvage
+269|耳かき|みみかき　an earpick
+269|耳鼻科|じびか　otolaryngology
+269|空耳|そらみみ　mishearing
+269|パンの耳|パンのみみ　the crust of a slice of bread　
+269|耳にする|みみにする　to hear (about); to learn
+270|池田さん|いけださん　Mr. [Ms.] Ikeda
+270|電池|でんち　a (cell) battery; a cell; an electric cell [battery]
+270|池|いけ　a pond
+270|用水地|ようすいち　a [water] reservoir
+270|単３電池|たんさんでんち　an AA-size battery; a double A battery
+270|溜池|ためいけ　a (holding) reservoir; an irrigation pond
