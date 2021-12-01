@@ -1601,3 +1601,62 @@ Title=JLPT 3 Practice Deck
 270|用水地|ようすいち　a [water] reservoir
 270|単３電池|たんさんでんち　an AA-size battery; a double A battery
 270|溜池|ためいけ　a (holding) reservoir; an irrigation pond
+271|短い|みじかい　short; brief
+271|短期|たんき　a short term [period]
+271|気が短い|きがみじかい　be short [quick]-tempered
+271|長短|ちょうたん　(relative) length; good and bad points
+271|短くする|みじかくする　to shorten; to cut a thing short; to curtail
+272|竹|たけ　(a) bamboo
+272|松竹梅|しょうちくばい　traditional three-tier ranking system
+272|竹馬|たけうま　(a pair of) stilts
+272|竹の子|たけのこ　a bamboo shoot [sprout]
+272|竹細工|たけざいく　a bamboo ware [work]
+272|竹林|ちくりん　a bamboo grove
+273|雨のち雪|あめのちゆき　rain then snow
+273|大雨|おおあめ　a heavy rain; a downpour
+273|小雨|こさめ　a drizzle; a light rain
+273|雨が降る|あめがふる　to rain
+273|雨戸|あまど　a (sliding) shutter
+273|梅雨|つゆ/ばいう　the rainy [wet] season; the monsoon
+274|定休日|ていきゅうび　a regular holiday {for a store}
+274|一休みする|ひとやすみする　to take [have] a (short) rest
+274|休まる|やすまる　to be [feel] rested; to be relieved
+274|休む|やすむ　to rest; to take a day off; to sleep
+274|休み|やすみ　(a) rest; a holiday; (a) vacation; a day off
+274|休日|きゅうじつ　a day off; a holiday
+275|鳥|とり　a bird; a hen; a COCK; a chicken; a fowl
+275|鳥取県|とっとりけん　Tottori prefecture (of Chugoku area)
+275|焼き鳥|やきとり　grilled [roast] chicken
+275|白鳥|はくちょう　a swan
+275|鳥肌|とりはだ　goose bumps; goose flesh; goose pimples
+275|小鳥|ことり　a bird; a little [small] bird; a songbird
+276|犬|いぬ　a dog
+276|秋田犬|あきたけん　a spitz (dog) of a Japanese breed
+276|犬を飼う|いぬをかう　to have [keep, raise, breed, own] a dog
+276|負け犬|まけいぬ　a loser; an underdog
+276|犬小屋|いぬごや　a doghouse; a kennel
+276|子犬|こいぬ　a puppy
+277|閉まる|しまる　to be shut; to be closed; to shut; to close
+277|閉じる|とじる　to close [shut] (a book, one's eyes, a meeting)
+277|閉会|へいかい　the closing (of a meeting)
+277|閉める|しめる　to shut; to close
+277|閉ざす|とざす　to shut; to close; to bolt; to lock; to blockade
+277|閉店する|へいてんする　to close (one's shop); to shut up a shop
+278|夕食|ゆうしょく　dinner; supper
+278|夕べ|ゆうべ　evening
+278|夕刊|ゆうかん　an evening paper
+278|夕立|ゆうだち　a (summer afternoon) shower
+278|夕日|ゆうひ　the evening sun; evening sunlight
+278|夕方|ゆうがた　evening
+279|午前|ごぜん　morning; A.M.
+279|午後|ごご　afternoon; P.M.
+279|午前中|ごぜんちゅう　in the morning; throughout the morning
+279|正午|しょうご　(at) noon; midday
+279|午前様|ごぜんさま　a person who stays out after midnight
+279|午後二時|ごごにじ　two (o'clock) in the afternoon; 2 P.M.
+280|数字に弱い|すうじによわい　have no [a poor] head for numbers
+280|弱点|じゃくてん　a weakness; a weak point; a shortcoming
+280|気が弱い|きがよわい　do not have the courage [guts, nerve] (to do)
+280|体が弱い|からだがよわい　to have a weak constitution
+280|弱る|よわる　to grow weak; to weaken
+280|弱まる|よわまる　to weaken; to abate
