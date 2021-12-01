@@ -1584,8 +1584,6 @@ Title=JLPT 3 Practice Deck
 267|夏ばてする|なつばてする　to suffer from the summer heat
 267|今年の夏|ことしのなつ　this summer
 268|弟|おとうと　one's younger brother
-268|兄弟|きょうだい　a sibling; siblings
-268|従兄弟|いとこ　a male cousin
 268|師弟|してい　teacher and student
 268|弟子|でし　a pupil; a disciple; a follower; an apprentice
 268|弟さん|おとうとさん　(somebody else's) younger brother
