@@ -1658,3 +1658,61 @@ Title=JLPT 3 Practice Deck
 280|体が弱い|からだがよわい　to have a weak constitution
 280|弱る|よわる　to grow weak; to weaken
 280|弱まる|よわまる　to weaken; to abate
+281|郵便局|ゆうびんきょく　a post office
+281|不便な|ふべんな　inconvenient; awkward
+281|便り|たより　news; correspondence; a letter
+281|便所|べんじょ　a restroom [bathroom]; a lavatory; a toilet
+281|小便|しょうべん　urine; pee; piss
+282|金魚|きんぎょ　a goldfish
+282|魚を食べる|さかなをたべる　to eat fish
+282|魚座|うおざ　Pisces (12th sign of the zodiac in astrology)
+282|魚屋|さかなや　a fish store [shop]; a fish market
+282|焼き魚|やきざかな　(a) grilled [broiled] fish
+282|魚釣り|さかなつり　fishing
+283|借金|しゃっきん　a debt; a loan
+283|借りる|かりる　to borrow; to have a loan; to rent
+283|借り物|かりもの　a borrowed thing
+283|貸し借り|かしかり　lending and borrowing
+283|借用する|しゃくようする　to borrow; to have the [a] loan (of)
+283|辞書を借りる|じしょをかりる　to borrow a dictionary
+284|ご飯|ごはん　cooked rice; a meal
+284|晩ご飯|ばんごはん　dinner; supper
+284|炊飯器|すいはんき　a rice cooker; a rice steamer
+284|朝飯|あさめし　breakfast
+284|夕飯|ゆうはん　dinner; an evening meal; supper
+284|ご飯を食べる|ごはんをたべる　to have one's meal
+285|駅員|えきいん　a station employee; a station attendant
+285|駅ビル|えきビル　a building built over a railroad station
+285|駅前|えきまえ　in front of a (train) station
+285|駅弁|えきべん　a box lunch sold at a railroad station
+285|駅に着く|えきにつく　to arrive at the station
+285|新宿駅|しんじゅくえき　Shinjuku station (of Tokyo)
+286|昼|ひる　noon; midday; the daytime
+286|昼寝|ひるね　an afternoon nap; a siesta
+286|昼休み|ひるやすみ　(a) lunch time [hour, break]
+286|昼間|ひるま　daytime; (during) the day
+286|昼ご飯|ひるごはん　lunch; luncheon
+286|昼食|ちゅうしょく　lunch; luncheon
+287|冬|ふゆ　winter
+287|初冬|しょとう　early winter
+287|冬物|ふゆもの　winter clothing
+287|真冬|まふゆ　(in) midwinter
+287|冬眠|とうみん　hibernation
+287|冬休み|ふゆやすみ　a winter vacation
+288|姉|あね　one's older sister
+288|姉妹|しまい　sisters
+288|お姉さん|おねえさん　a (one's) older sister
+288|義理の姉|ぎりのあね　one's older sister-in-law
+288|姉妹校|しまいこう　sister school
+288|姉貴|あねき　one's older sister
+289|第二水曜日|だいにすいようび　the second Wednesday of the month
+289|先週の金曜|せんしゅうのきんよう　last Friday
+289|曜日|ようび　day of the week
+289|来週の月曜|らいしゅうのげつよう　next Monday
+289|毎週日曜日|まいしゅうにちようび　every Sunday
+290|洗う|あらう　to wash; to cleanse; to purify
+290|皿を洗う|さらをあらう　to wash [do] the dishes
+290|洗顔する|せんがんする　to wash one's face
+290|洗濯|せんたく　laundry
+290|洗剤|せんざい　a cleanser; a detergent
+290|手を洗う|てをあらう　to wash one's hands
