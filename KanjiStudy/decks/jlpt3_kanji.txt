@@ -1716,3 +1716,61 @@ Title=JLPT 3 Practice Deck
 290|洗濯|せんたく　laundry
 290|洗剤|せんざい　a cleanser; a detergent
 290|手を洗う|てをあらう　to wash one's hands
+291|漢字|かんじ　a Chinese character (used in Japanese writing)
+291|痴漢|ちかん　a (train) groper; a molester; a pervert
+291|漢和辞典|かんわじてん　a Chinese-Japanese dictionary
+291|常用漢字|じょうようかんじ　the kanji for everyday use
+291|漢字で書く|かんじでかく　to write in kanji
+291|漢方薬|かんぽうやく　Chinese medicine
+292|生野菜|なまやさい　raw vegetables
+292|白菜|はくさい　(a) Chinese cabbage
+292|前菜|ぜんさい　an appetizer; (an) hors d'oeuvre; an antipasto
+292|菜の花|なのはな　rape blossoms
+292|山菜|さんさい　edible wild plants
+293|牛|うし　a cow; a bull; cattle
+293|狂牛病|きょうぎゅうびょう　mad-cow disease (BSE)
+293|牛乳|ぎゅうにゅう　(cow's) milk
+293|牛肉|ぎゅうにく　beef
+293|牛丼|ぎゅうどん　rice covered with beef and vegetables
+293|子牛|こうし　a calf
+294|妹|いもうと　one's younger sister
+294|従姉妹|いとこ　a female cousin
+294|妹さん|いもうとさん　(somebody else's) younger sister
+294|姉妹都市|しまいとし　sister cities
+294|義理の妹|ぎりのいもうと　one's younger sister-in-law
+295|寒い|さむい　cold; chilly
+295|寒冷地|かんれいち　a cold (northern) district
+295|寒気|さむけ　a chill; a shivering fit
+295|寒がる|さむがる　to be sensitive to the cold
+295|寒さ|さむさ　(the) cold; coldness
+295|寒がり|さむがり　a person exceedingly sensitive to the cold
+296|貸与|たいよ　a loan; lending
+296|貸本屋|かしほんや　a rental library
+296|貸す|かす　to lend; to advance (money); to rent (out)
+296|貸し切りの|かしきりの　reserved
+296|電話を貸す|でんわをかす　to let a person use the phone
+296|貸家|かしや　a house for rent
+297|勉強する|べんきょうする　to study; to prepare; to do one's lessons
+297|がり勉|がりべん　studying hard; grinding; a nerd; a swot
+297|勉強家|べんきょうか　a diligent student; a hard worker
+297|勉強|べんきょう　study; work
+297|猛勉強する|もうべんきょうする　to study [work] hard; to grind (away)
+297|勉強中|べんきょうちゅう　while studying
+298|毛糸|けいと　woolen yarn; worsted (yarn); knitting wool
+298|一糸乱れず|いっしみだれず　in precise order; in perfect coordination
+298|糸|いと　(a) thread; yarn; a string; a line
+298|抜糸する|ばっしする　to take out [remove] stitches
+298|糸口|いとぐち　a beginning; a start; a clue (to); the first step
+298|生糸|きいと　raw silk thread
+299|暑い|あつい　warm; hot; sultry
+299|猛暑|もうしょ　intense heat
+299|暑がり|あつがり　being sensitive to hot weather
+299|暑くなる|あつくなる　to get [become] warm [hot]
+299|蒸し暑い|むしあつい　muggy; sultry; humid; sticky; hot and sticky
+299|避暑地|ひしょち　a summer resort
+300|机|つくえ　a desk; a bureau
+300|机の上の本|つくえのうえのほん　a book(s) on the desk
+300|机下|きか　an honorific title (added to addressee's name on a letter)
+300|勉強机|べんきょうづくえ　a writing desk
+300|机でする仕事|つくえでするしごと　desk work
+300|机上の空論|きじょうのくうろん　an armchair theory [plan]
