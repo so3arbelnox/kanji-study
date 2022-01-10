@@ -46,7 +46,7 @@ namespace KanjiApp
             lbl_kanji.Parent = pictureBox1;
             lbl_kanji.Location = pos;
             lbl_kanji.BackColor = Color.Transparent;
-
+            
             CurrentStudyMode = StudyMode.FRONT;
             currentCard = 0;
 

@@ -73,9 +73,9 @@
             // 
             this.lbl_kanji.BackColor = System.Drawing.Color.Transparent;
             this.lbl_kanji.Font = new System.Drawing.Font("Yu Gothic UI", 72F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_kanji.Location = new System.Drawing.Point(45, 168);
+            this.lbl_kanji.Location = new System.Drawing.Point(45, 43);
             this.lbl_kanji.Name = "lbl_kanji";
-            this.lbl_kanji.Size = new System.Drawing.Size(579, 128);
+            this.lbl_kanji.Size = new System.Drawing.Size(579, 395);
             this.lbl_kanji.TabIndex = 3;
             this.lbl_kanji.Text = "忘れ物";
             this.lbl_kanji.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
