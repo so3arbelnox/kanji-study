@@ -1774,3 +1774,57 @@ Title=JLPT 3 Practice Deck
 300|勉強机|べんきょうづくえ　a writing desk
 300|机でする仕事|つくえでするしごと　desk work
 300|机上の空論|きじょうのくうろん　an armchair theory [plan]
+301|積極的な|せっきょくてきな　positive; active; aggressive; enterprising
+301|的|まと　a mark; a target; an object; the mark; the point
+301|消極的な|しょうきょくてきな　passive; halfhearted; unenterprising
+301|的確な|てきかくな　precise; accurate; exact; to the point
+301|比較的|ひかくてき　comparatively; relatively
+302|彼|かれ　he; him; one's boyfriend; one's lover; one's husband
+302|彼岸|ひがん　the equinoctial week (of Buddhist observance)
+302|彼の本|かれのほん　his book(s)
+302|彼氏|かれし　he; one's boyfriend [man]; one's lover
+302|彼等|かれら　they
+303|実は|じつは　really; in reality; to tell the truth; the fact is (that)
+303|実|み　(a) fruit; a nut; a berry; a seed
+303|果実|かじつ　(a) fruit; fruit(s)
+303|確実な|かくじつな　certain; sure; definite
+303|実る|みのる　to bear fruit; to fruit; to ripen; to grow ripe
+303|口実|こうじつ　an excuse; a pretext; (a) pretense
+304|本当の|ほんとうの　true; actual; real; genuine
+304|弁当|べんとう　a packed [box] lunch
+304|当てる|あてる　to hit [strike]; to expose; to apply; to guess; to win
+304|見当|けんとう　an estimate; a guess; a direction; bearings; aim
+304|当たる|あたる　to hit [strike] (on); to succeed; to win; to face
+304|適当な|てきとうな　fit; appropriate; OR careless; non-committal
+305|戦い|たたかい　(a) war; a battle; a fight; combat; a conflict
+305|戦|いくさ　(a) war; a battle; an ecounter; a campaign
+305|世界大戦|せかいたいせん　a world war
+305|戦争|せんそう　(a) war; warfare; a battle; a fight; combat
+305|決勝戦|けっしょうせん　the final round [match, game]; a play-off
+305|戦う|たたかう　to fight; to battle (a storm); to contend (with)
+306|性能|せいのう　efficiency; power; capacity; performance
+306|性格|せいかく　character; personality; (one's) nature
+306|性別|せいべつ　the distinction of sex (gender)
+307|絶対に|ぜったいに　absolutely
+307|一対一の|いったいいちの　one-to-one; man-to-man
+307|対策|たいさく　a measure; a countermeasure; a counterplan
+307|一対|いっつい　a pair (of); a couple (of)
+307|反対する|はんたいする　to oppose; to be opposed [object] (to)
+307|対象|たいしょう　the subject (of); the target (of criticism)
+308|玄関|げんかん　the entrance; the (entrance) hall; the (front) door
+308|関係する|かんけいする　to be related (to); to be connected (with)
+308|関連|かんれん　(a) relation; a relationship; (a) connection
+308|関心|かんしん　(an) interest; concern
+308|交通機関|こうつうきかん　a means of transportation; public transport
+308|関する|かんする　be connected with; be related to
+309|感謝|かんしゃ　(to give) thanks; gratitude
+309|感心する|かんしんする　to admire; to be deeply impressed (by)
+309|実感する|じっかんする　to actually feel; to realize
+309|感情的な|かんじょうてきな　emotional; sentimental
+309|感じる|かんじる　to feel; to be aware; to be impressed (by)
+310|勘定する|かんじょうする　to count; to reckon; to calculate
+310|決定する|けっていする　to decide [determine] (to do); to settle (on)
+310|予定|よてい　a schedule; a plan; a program; an estimate
+310|定規|じょうぎ　a (measuring) ruler; a rule; a square
+310|定期的に|ていきてきに　periodically; regularly; at regular intervals
+310|一定の|いっていの　fixed; definite; regular; settled; standard
