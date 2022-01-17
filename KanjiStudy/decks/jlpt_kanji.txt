@@ -1834,3 +1834,57 @@ Title=JLPT 3 Practice Deck
 311|政|まつりごと　the administration of government; politics
 311|政治家|せいじか　a polititcian; a statesman; a stateswoman
 311|行政|ぎょうせい　administration
+312|表す|あらわす　to show; to display; to indicate; to express
+312|現金|げんきん　cash; ready money; hard cash
+312|表現|ひょうげん　(an) expression; a representation
+312|現れる|あらわれる　to appear; to show up; to be revealed
+312|実現|じつげん　to put (a plan) into practice; to materialize
+312|現に|げんに　actually; with one's own eyes
+313|消化|しょうか　digestion; consumption; performance (of a job)
+313|強化する|きょうかする　to strengthen; to reinforce; to build up
+313|化ける|ばける　to take the shape [form](of); to turn [change](into)
+313|変化する|へんかする　to change [transform](into); to vary; to decline
+313|化粧|けしょう　(a) make-up (cosmetic)
+313|科学|かがく　chemistry
+314|身長|しんちょう　height (of body); stature
+314|身分|みぶん　(one's) social position [status]; a rank; origin
+314|独身の|どくしんの　single; unmarried; bachelor
+314|中身|なかみ　content(s); the interior; the substance
+314|刺身|さしみ　sashimi; sliced raw fish; slices of raw fish
+314|出身である|しゅっしんである　to come from; to be a graduate of (BGSU)
+315|相談|そうだん　(a) consultation; a talk; (a) conference
+315|相互の|そうごの　mutual; reciprocal
+315|首相|しゅしょう　the Prime Minister; the premier
+315|相手|あいて　a companion; a partner; an opponent; a rival
+315|相違|そうい　(a) difference; (a) disparity; a discrepancy; a gap
+315|相続する|そうぞくする　to inherit; to succeed (to)
+316|法律|ほうりつ　a law; (the) law
+316|文法|ぶんぽう　grammar
+316|憲法|けんぽう　the constitution (of a government)
+316|方法|ほうほう　the way (of doing); a method; a system; a means
+316|寸法|すんぽう　measurement; dimensions; size
+316|作法|さほう　manners; eitquette; form
+317|感情|かんじょう　feeling(s); emotion; sentiment; passion
+317|事情|じじょう　the situation; the state of things; circumstances
+317|苦情|くじょう　a complaint; a grievance; objection(s)
+317|表情|ひょうじょう　(an) expression; a look
+317|情報|じょうほう　information; intelligence; a report; news; a tip
+317|友情|ゆうじょう　(a) friendship
+318|方向|ほうこう　a direction; a way; a course
+318|向く|むく　to turn one's head [face](toward); to look (to)
+318|傾向|けいこう　a tendency (to, toward); a trend; an inclination
+318|子供向け|こどもむけ　(a book) for children; children's (museum)
+318|振り向く|ふりむく　to turn one's face [head](to, toward)
+318|向かい|むかい　(on) the opposite [other] side
+319|平均|へいきん　an average; the mean; balance
+319|平日|へいじつ　a weekday
+319|公平な|こうへいな　fair; unbiased; impartial; unprejudiced; just
+319|平らな|たいらな　flat; even; smooth; level; horizontal
+319|平仮名|ひらがな　hiragana; the Japanese cursive syllabary
+319|平等|びょうどう　equality; impartiality
+319|成人|せいじん　an adult; a grown-up
+320|作成する|さくせいする　to make (out)(a list); to draw up; to prepare
+320|成績|せいせき　a result; a record; grades; marks
+320|成分|せいぶん　an ingredient; a component; a constituent
+320|賛成する|さんせいする　to approve (of); to agree; to support (a bill)
+320|成る|なる　to become; to get; to grow; to be; to begin to do
