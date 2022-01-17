@@ -1828,3 +1828,9 @@ Title=JLPT 3 Practice Deck
 310|定規|じょうぎ　a (measuring) ruler; a rule; a square
 310|定期的に|ていきてきに　periodically; regularly; at regular intervals
 310|一定の|いっていの　fixed; definite; regular; settled; standard
+311|政策|せいさく　(a) policy; political measures
+311|政治|せいじ　politics; government; political affairs
+311|政府|せいふ　the government [administration]; the cabinet
+311|政|まつりごと　the administration of government; politics
+311|政治家|せいじか　a polititcian; a statesman; a stateswoman
+311|行政|ぎょうせい　administration
