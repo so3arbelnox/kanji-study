@@ -1839,7 +1839,7 @@ Title=JLPT 3 Practice Deck
 312|表現|ひょうげん　(an) expression; a representation
 312|現れる|あらわれる　to appear; to show up; to be revealed
 312|実現|じつげん　to put (a plan) into practice; to materialize
-312|現に|げんに　actually; with one's own eyes
+312|現に|げんに　actually; with one's own eyes; for instance
 313|消化|しょうか　digestion; consumption; performance (of a job)
 313|強化する|きょうかする　to strengthen; to reinforce; to build up
 313|化ける|ばける　to take the shape [form](of); to turn [change](into)
@@ -1882,7 +1882,7 @@ Title=JLPT 3 Practice Deck
 319|平らな|たいらな　flat; even; smooth; level; horizontal
 319|平仮名|ひらがな　hiragana; the Japanese cursive syllabary
 319|平等|びょうどう　equality; impartiality
-319|成人|せいじん　an adult; a grown-up
+320|成人|せいじん　an adult; a grown-up
 320|作成する|さくせいする　to make (out)(a list); to draw up; to prepare
 320|成績|せいせき　a result; a record; grades; marks
 320|成分|せいぶん　an ingredient; a component; a constituent
