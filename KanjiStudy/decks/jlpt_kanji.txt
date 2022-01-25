@@ -1948,3 +1948,64 @@ Title=JLPT 3 Practice Deck
 330|代表|だいひょう　a representation; a delegate; a delegation
 330|公表する|こうひょうする　to announce (officially); to release
 330|表面|ひょうめん　the surface; the face; the outside [exterior]
+331|予報|よほう　a forecast; (a) prediction
+331|情報|じょうほう　information; intelligence; a report; news; a tip
+331|電報|でんぽう　a telegram; a wire; a telegraphic message
+331|大雨注意報|おおあめちゅういほう　a heavy rain warning
+331|報いる|むくいる　to reward; to repay; to get one's revenge
+331|報告する|ほうこくする　to report; to make a report (of); to inform (of)
+332|無駄|むだ　uselessness; waste
+332|無い|ない　there is no...; be gone; be missing; do not have
+332|無理な|むりな　unreasonable; unjust; unnatural; impossible; compulsory
+332|無料の|むりょうの　free (of charge)
+332|無くなる|なくなる　to be lost; to be missing; to run short; to be gone
+332|無事|ぶじ　safety; security; peace; good health
+333|要するに|ようするに　in short; in a word; to sum up; taking all in all
+333|必要な|ひつような　necessary; needed; required; indispensable
+333|要点|ようてん　the main point; the gist; the substance
+333|要求する|ようきゅうする　to claim; to demand; to request; to require
+333|要る|いる　to need; to must have; to require; to want
+333|重要な|じゅうような　important; essential; principal
+334|変わる|かわる　to change; to alter; to undergo a change
+334|変化|へんか　(a) change; (a) variation; (a) transformation
+334|変える|かえる　to change; to alter; to transform; to reform [amend]
+334|気が変わる|きがかわる　to change one's mind
+334|変更|へんこう　(a) change; (an) alteration; (a) modification
+334|変な|へんな　strange; odd; queer; curious; peculiar
+334|変態|へんたい　(a) pervert (e.g. balloon fetish lolicon)
+335|結婚する|けっこんする　to marry; to get married; to get hitched
+335|結局|けっきょく　finally; after all; in the end; in the long run
+335|結ぶ|むすぶ　to tie (up); to knot; to fasten; to join; to unite (with)
+335|結果|けっか　a result; a consequence; an effect; the upshot
+335|結論|けつろん　a conclusion; a concluding remark
+335|結構な|けっこうな　nice; good; fine; excellent; splendid
+336|神話|しいんわ　a myth; mythology
+336|精神的な|せいしんてきな　mental; spiritual; moral
+336|神戸|こうべ　Kobe city (of Hyogo prefecture)
+336|神様|かみさま　God; Jehova; Allah; a god; a goddess; a diety
+336|神経|しんけい　one's nerves; a nerve
+336|精神|せいしん　spirit; mind; soul; will; a motive
+337|伝記|でんき　a biography; a life (story)
+337|日記|にっき　a diary; a journal; a daybook
+337|記号|きごう　a mark; a sign; a symbol
+337|記録する|きろくする　to write down; to make a record (of); to enter
+337|記入する|きにゅうする　to enter; to write (down); to fill out [in]
+337|記事|きじ　a news story; an article; a report; an account
+338|平和|へいわ　peace; harmony
+338|和風|わふう　Japanese style
+338|和英辞典|わえいじてん　a Japanese-English dictionary
+338|和服|わふく　Japanese clothes; a kimono
+338|和む|なごむ　to become friendly; to calm down
+338|漢和辞典|かんわじてん　a Japanese dictionary of Chinese characters
+339|公にする|おおやけにする　to publish; to release; to make public
+339|公式|こうしき　a formula; formulas
+339|公共の|こうきょうの　public; common
+339|公衆|こうしゅう　the general public; the public at large; the masses
+339|公園|こうえん　a park; a public garden park; a square
+339|公害|こうがい　(environmental) pollution; contamination
+340|兵士|へいし　a soldier; a private; (the) troops
+340|核兵器|かくへいき　a nuclear weapon; nuclear arms
+340|兵役|へいえき　military service
+340|徴兵制度|ちょうへいせいど　the conscription system
+340|兵庫県|ひょうごけん　Hyogo prefecture (of the Kinki region)
+340|兵隊|へいたい　a soldier; a serviceman; (the) troops
