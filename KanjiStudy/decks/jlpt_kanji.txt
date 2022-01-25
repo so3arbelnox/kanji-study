@@ -1888,3 +1888,63 @@ Title=JLPT 3 Practice Deck
 320|成分|せいぶん　an ingredient; a component; a constituent
 320|賛成する|さんせいする　to approve (of); to agree; to support (a bill)
 320|成る|なる　to become; to get; to grow; to be; to begin to do
+321|軍隊|ぐんたい　an army; troops; the (armed) forces; the military
+321|軍手|ぐんて　work gloves
+321|空軍|くうぐん　an air force; an air service
+321|海軍|かいぐん　the navy; the naval forces
+321|陸軍|りくぐん　the army
+321|アメリカ軍|アメリカぐん　the United States Army
+322|神経|しんけい　one's nerves; a nerve
+322|経る|へる　to pass; to go by; to go through; to experience
+322|経由で|けいゆで　via...; by way of...; through
+322|経済|けいざい　the economy; finance; economy
+322|経験する|けいけんする　to experience; to go through (hardship)
+322|経営する|けいえいする　to manage (a hotel); to run; to operate
+323|信用|しんよう　trust; credit; confidence; reliance
+323|信号|しんごう　a signal; a traffic light [signal]; signaling
+323|信仰|しんこう　(religious) faith; belief
+323|自身|じしん　confidence; self-confidence
+323|通信|つうしん　correspondence; communication; news
+323|信じる|しんじる　to believe; to accept as true; to be convinced
+324|正面|しょうめん　the front; the facade
+324|方面|ほうめん　a district; a direction; a field; an aspect; a side
+324|地面|じめん　the surface of the earth; land; ground; a lot; a plot
+324|面倒臭い|めんどうくさい　(be) troublesome; (be) bothersome
+324|面白い|おもしろい　interesting; funny; satisfactory
+324|面接する|めんせつする　to have an interview (with)
+325|連れ|つれ　a companion; company
+325|連想|れんそう　association (of ideas)
+325|関連する|かんれんする　to be related (to); to be connected (with)
+325|連絡する|れんらくする　to connect [be connected](with); to contact
+325|連れる|つれる　to take [bring] a person with one
+325|連続する|れんぞくする　to continue; to go on; to last
+326|原因|げんいん　a cause; the origin; the source
+326|原理|げんり　a principle; a theory; a tenet; a law
+326|原稿|げんこう　a manuscript; a draft; copy; notes
+326|野原|のはら　a field; fields
+326|原産の|げんさんの　native (e.g. the native flowers of Hawaii)
+326|原料|げんりょう　raw materials; an ingredient
+327|ジェット機|ジェットき　a jet (plane)
+327|機能する|きのうする　to function; to work
+327|扇風機|せんぷうき　an electric fan; a ceiling fan
+327|交通機関|こうつうきかん　a means of transportation; public transport
+327|機会|きかい　(an) opportunity; a chance; an occasion
+327|機嫌がいい|きげんがいい　be in a good mood; be cheerful
+328|奇数|きすう　an odd number
+328|数字|すうじ　a numeral; a figure
+328|偶数|ぐうすう　an even number
+328|数|かず　(a) number; a figure
+328|数える|かぞえる　to count; to reckon; to calculate; to enumerate
+328|数学|すうがく　mathematics; math; maths
+329|美容|びよう　beauty; a good figure
+329|美容院|びよういん　a beauty salon [shop, parlor]
+329|美人|びじん　a beautiful woman; a beauty; a pretty girl
+329|美しい|うつくしい　beautiful (women); lovely; fine (voice) noble
+329|美術|びじゅつ　fine art; the fine arts; art
+329|美人薄命|びじんはくめい　Rare beauties die young.
+330|発表する|はっぴょうする　to announce; to publish; to make known
+330|表す|あらわす　to show; to display; to indicate; to express
+330|表紙|ひょうし　a front cover; a binding
+330|代表|だいひょう　a representation; a delegate; a delegation
+330|公表する|こうひょうする　to announce (officially); to release
+330|表面|ひょうめん　the surface; the face; the outside [exterior]
