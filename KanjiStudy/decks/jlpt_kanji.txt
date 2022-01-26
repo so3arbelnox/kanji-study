@@ -1560,7 +1560,7 @@ Title=JLPT 3 Practice Deck
 263|気軽な|きがるな　lighthearted
 263|口が軽い|くちがかるい　have a loose tongue
 264|暗い|くらい　dark; gloomy; dim; low
-264|真っ暗ない|まっくらな　pitch-dark; (as) dark as pitch
+264|真っ暗な|まっくらな　pitch-dark; (as) dark as pitch
 264|暗くなる|くらくなる　to become [grow] dark [dim, melancholy]
 264|暗証番号|あんしょうばんごう　a code number; a PIN number
 264|暗号|あんごう　a code; a cipher
@@ -1903,7 +1903,7 @@ Title=JLPT 3 Practice Deck
 323|信用|しんよう　trust; credit; confidence; reliance
 323|信号|しんごう　a signal; a traffic light [signal]; signaling
 323|信仰|しんこう　(religious) faith; belief
-323|自身|じしん　confidence; self-confidence
+323|自信|じしん　confidence; self-confidence
 323|通信|つうしん　correspondence; communication; news
 323|信じる|しんじる　to believe; to accept as true; to be convinced
 324|正面|しょうめん　the front; the facade
@@ -1972,7 +1972,7 @@ Title=JLPT 3 Practice Deck
 334|気が変わる|きがかわる　to change one's mind
 334|変更|へんこう　(a) change; (an) alteration; (a) modification
 334|変な|へんな　strange; odd; queer; curious; peculiar
-334|変態|へんたい　(a) pervert (e.g. balloon fetish lolicon)
+334|変態|へんたい　(a) pervert
 335|結婚する|けっこんする　to marry; to get married; to get hitched
 335|結局|けっきょく　finally; after all; in the end; in the long run
 335|結ぶ|むすぶ　to tie (up); to knot; to fasten; to join; to unite (with)
