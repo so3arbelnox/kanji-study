@@ -2009,3 +2009,121 @@ Title=JLPT 3 Practice Deck
 340|徴兵制度|ちょうへいせいど　the conscription system
 340|兵庫県|ひょうごけん　Hyogo prefecture (of the Kinki region)
 340|兵隊|へいたい　a soldier; a serviceman; (the) troops
+341|治める|おさめる　to rule [reign](over); to govern (the people)
+341|治す|なおす　to cure; to heal; to remedy
+341|自治|じち　self-government[-rule]; autonomy
+341|治る|なおる　to get well; to be cured (of); to recover from
+341|治療|ちりょう　(medical) treatment
+342|思い込む|おもいこむ　to be convinced that...; to imagine that...
+342|払い込む|はらいこむ　to pay; to pay (funds) in; to pay up; to deposit
+342|人込み|ひとごみ　a crowd (of people)
+342|申し込む|もうしこむ　to apply (for enrollment); to propose
+342|込める|こめる　to include; to count (in); to load  (a gun with a shot)
+342|飛び込む|とびこむ　to jump in [into a thing]; to dash [rush] into
+343|受ける|うける　to get; to have; to take; to incur; to accept
+343|受話器|じゅわき　a (telephone) receiver; a handset; earphones
+343|受験する|じゅけんする　to take an examination
+343|受付|うけつけ　receipt; acceptance; a reception desk
+343|引き受ける|ひきうける　to take on (a job); to answer for; to take over
+343|受け取る|うけとる　to receive; to get; to accept; to come to hand
+344|島|しま　an island; an isle; an islet
+344|八丈島|はちじょうじま　Hachijo Island (of Tokyo)
+344|広島県|ひろしまけん　Hiroshima prefecture (of Chugoku area)
+344|列島|れっとう　a chain of islands; an archipelago
+344|半島|はんとう　a peninsula
+344|島国|しまぐに　an island country [nation]
+345|解説|かいせつ　(an) explanation; (an) interpretation
+345|解ける|とける　to get [come] loose; to be solved; to be removed
+345|解放する|かいほうする　to release; to free; to liberate
+345|解く|とく　to untie; to undo; to solve; to work out; to resolve
+345|解決する|かいけつする　to solve (a problem); to resolve; to settle
+345|誤解|ごかい　(a) misunderstanding; (a) misinterpretation
+346|延期する|えんきする　to put off; to postpone; to defer; to adjourn
+346|時期|じき　time; a period; a season; the time of (the) year
+346|予期する|よきする　to expect; to hope [look] for; to anticipate
+346|定期の|ていきの　regular; periodic(al)
+346|期限|きげん　a period (of time); a term; a time limit; a deadline
+346|期待する|きたいする　to hope for; to anticipate; to expect
+347|同様に|どうように　similarly; alike; equally; in the same way (as)
+347|様子|ようす　the state of affairs [things]; (an) appearance; a look
+347|逆様の|さかさまの　upside-down; inverted; reverse; inverse
+347|様々な|さまざまな　various; all sorts [kinds] of; all manner of
+347|模様|もよう　a pattern; a design; circumstances; state of things
+348|活字|かつじ　(a piece of) a printing [movable] type; a type; printed text**
+348|活躍する|かつやくする　to be active; to play an active part; to flourish
+348|生活する|せいかつする　to live; to make a living; to support oneself
+348|活用する|かつようする　to live; to make a living; to support oneself
+348|活気|かっき　vigor; spirit; energy; animation
+348|活動|かつどう　activity; action
+349|組織|そしき　(an) organization; formation; structure; (a) tissue
+349|番組|ばんぐみ　a (television, radio) program
+349|組む|くむ　to braid; to cross (one's legs); to team up (with)
+349|組み立てる|くみたてる　to put [fit, piece] together; to assemble
+349|三人組|さんにんぐみ　a trio
+349|組合|くみあい　an association; a guild; a union
+350|指|ゆび　a finger; a thumb; a toe
+350|人差し指|ひとさしゆび　the index finger; the first finger
+350|指定する|していする　to appoint; to name; to designate; to specify
+350|指す|さす　to point to [at]; to indicate; to mean; to refer to
+350|小指|こゆび　the little finger; the pinkie
+350|目指す|めざす　to go toward; to head for; to aim (at, for, to do)
+351|能力|のうりょく　ability; power(s); capacity; competence
+351|可能である|かのうである　it is possible (for one) to do; one can do
+351|可能である|かのうである　it is possible (for one) to do; one can do
+351|機能|きのう　a function; a faculty
+351|才能のある|さいのうのある　talented; gifted; able
+351|能率|のうりつ　efficiency
+351|知能|ちのう　intelligence; intellect; mental faculties
+352|紅葉|もみじ　a (Japanese) maple; red leaves; autumnal tints
+352|言葉|ことば　speech; language; a word; a phrase; a term
+352|葉書|はがき　a postcard; a postal card
+352|葉|は　a leaf; a needle; a blade; a frond; foliage; greenery
+352|言葉遣い|ことばづかい　wording; expression; a way of speaking
+352|紅葉|こうよう　autumn leaves; the colors of autumn
+353|次第|しだい　order, the state of things, circumstances, depending on*
+353|第一位|だいいちい　the first place [rank]; the foremost position
+353|第三者|だいさんしゃ　a third person [party]; an outsider
+353|第六感|だいろっかん　a sixth sense; a hunch; (an) intuition
+353|落第する|らくだいする　to fail [flunk] (an exam); to be rejected
+353|次第に|しだいに　gradually; by degrees; little by little
+354|合流する|ごうりゅうする　to join; to merge; to meet; to flow together
+354|一流の|いちりゅうの　first-class; first-rate; top-ranking; the best
+354|流れる|ながれる　to flow; to run; to roll; to surge; to float; to drift
+354|流行の|りゅうこうの　fashionable; popular; stylish vogue
+354|電流|でんりゅう　an electric current; a current of electricity
+354|流す|ながす　to pour; to splash; to drain; to float; to wash off
+355|当然の|とうぜんの　natural; just; right; rightful; deserved; due
+355|自然に|じぜんに　naturally; unaffectedly; spontaneously
+355|天然の|てんねんの　natural; native; spontaneous; wild
+355|全然|ぜんぜん　(not) at all; utterly; simply; entirely; quite
+355|突然（に）|とつぜん（に）　suddenly; all of a sudden; unexpectedly
+355|偶然|ぐうぜん　(a) chance; accident; a coincidence; by accident
+356|最初の|さいしょの　the first; the earliest; the initial; the original
+356|初め|はじめ　the beginning; the opening; the start; the outset
+356|初旬|しょじゅん　the first 10 days [the early part] of the month
+356|初歩|しょほ　the first steps; the rudiments; the elements
+356|初級|しょきゅう　the beginner's course (in)
+356|初めて|はじめて　for the first time (in one's life); first
+357|存在する|そんざいする　to exist; to be; to remain; to be extant
+357|滞在|たいざい　a stay; a visit; a residence; a sojourn
+357|現在|げんざい　the present time; at present; currently; now
+357|在学する|ざいがくする　to be in [at] school [college]
+357|在る|ある　there is [are]; to be; to exist
+358|調味料|ちょうみりょう　a seasoning; a spice; a condiment
+358|強調する|きょうちょうする　to emphasize; to stress; to underscore
+358|調べる|しらべる　to study; to examine; to look into; to check (out)
+358|調節する|ちょうせつする　to regulate (prices); to adjust; to control
+358|調査|ちょうさ　(an) investigation; (an) examination; (an) inquiry
+358|順調な|じゅんちょうな　satisfactory; fair; fine; favorable; smooth
+359|笑い|わらい　a laugh; laughter; a smile; a chuckle; a giggle
+359|苦笑する|くしょうする　to give a wry smile; to force a laugh
+359|笑顔|えがお　a smiling face
+359|談笑|だんしょう　a pleasant chat; (a) friendly talk
+359|笑う|わらう　to laugh; to smile; to chuckle; to giggle; to grin
+359|微笑む|ほほえむ　to smile; to break into a smile
+360|議員|ぎいん　a member of the Diet, Congress or Parliament
+360|議会|ぎかい　an [a national] assembly; the Diet; Congress
+360|議長|ぎちょう　the president; the chairperson; the chairman
+360|不思議な|ふしぎな　wonderful; marvelous; strange; mysterious
+360|会議室|かいぎしつ　a conference room
+360|議論|ぎろん　(an) argument; (a) discussion; (a) debate [dispute]
