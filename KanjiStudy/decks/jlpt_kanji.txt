@@ -647,7 +647,7 @@ Title=JLPT 3 Practice Deck
 109|九時|くじ　nine o'clock
 109|九月|くがつ　September
 109|九日|ここのか　the ninth day of the month; nine days
-110|次第|しだい　order; the state of things; circumstances
+110|次第|しだい　order; the state of things; circumstances; depending on*
 110|次第に|しだいに　gradually; by degrees; little by little
 110|次ぐ|つぐ　to rank [come, be] next [second] to; to come after
 110|次の|つぎの　next; following; coming; second
@@ -1475,7 +1475,6 @@ Title=JLPT 3 Practice Deck
 249|洋服|ようふく　a suit; a dress; Western clothes
 249|夏服|なつふく　summer clothes; a garment for summer wear
 249|制服|せいふく　a (school, work) uniform
-249|和服|わふく　Japanese clothes; a kimono
 249|内服薬|ないふくやく　medicine taken internally
 250|銀座|ぎんざ　Ginza (district of Tokyo)
 250|銀行|ぎんこう　a bank
@@ -1846,24 +1845,18 @@ Title=JLPT 3 Practice Deck
 313|変化する|へんかする　to change [transform](into); to vary; to decline
 313|化粧|けしょう　(a) make-up (cosmetic)
 313|科学|かがく　chemistry
-314|身長|しんちょう　height (of body); stature
 314|身分|みぶん　(one's) social position [status]; a rank; origin
 314|独身の|どくしんの　single; unmarried; bachelor
-314|中身|なかみ　content(s); the interior; the substance
 314|刺身|さしみ　sashimi; sliced raw fish; slices of raw fish
 314|出身である|しゅっしんである　to come from; to be a graduate of (BGSU)
 315|相談|そうだん　(a) consultation; a talk; (a) conference
 315|相互の|そうごの　mutual; reciprocal
-315|首相|しゅしょう　the Prime Minister; the premier
 315|相手|あいて　a companion; a partner; an opponent; a rival
 315|相違|そうい　(a) difference; (a) disparity; a discrepancy; a gap
 315|相続する|そうぞくする　to inherit; to succeed (to)
 316|法律|ほうりつ　a law; (the) law
-316|文法|ぶんぽう　grammar
 316|憲法|けんぽう　the constitution (of a government)
-316|方法|ほうほう　the way (of doing); a method; a system; a means
 316|寸法|すんぽう　measurement; dimensions; size
-316|作法|さほう　manners; eitquette; form
 317|感情|かんじょう　feeling(s); emotion; sentiment; passion
 317|事情|じじょう　the situation; the state of things; circumstances
 317|苦情|くじょう　a complaint; a grievance; objection(s)
@@ -1880,7 +1873,6 @@ Title=JLPT 3 Practice Deck
 319|平日|へいじつ　a weekday
 319|公平な|こうへいな　fair; unbiased; impartial; unprejudiced; just
 319|平らな|たいらな　flat; even; smooth; level; horizontal
-319|平仮名|ひらがな　hiragana; the Japanese cursive syllabary
 319|平等|びょうどう　equality; impartiality
 320|成人|せいじん　an adult; a grown-up
 320|作成する|さくせいする　to make (out)(a list); to draw up; to prepare
@@ -1898,19 +1890,16 @@ Title=JLPT 3 Practice Deck
 322|経る|へる　to pass; to go by; to go through; to experience
 322|経由で|けいゆで　via...; by way of...; through
 322|経済|けいざい　the economy; finance; economy
-322|経験する|けいけんする　to experience; to go through (hardship)
 322|経営する|けいえいする　to manage (a hotel); to run; to operate
 323|信用|しんよう　trust; credit; confidence; reliance
 323|信号|しんごう　a signal; a traffic light [signal]; signaling
 323|信仰|しんこう　(religious) faith; belief
-323|自信|じしん　confidence; self-confidence
 323|通信|つうしん　correspondence; communication; news
 323|信じる|しんじる　to believe; to accept as true; to be convinced
 324|正面|しょうめん　the front; the facade
 324|方面|ほうめん　a district; a direction; a field; an aspect; a side
 324|地面|じめん　the surface of the earth; land; ground; a lot; a plot
 324|面倒臭い|めんどうくさい　(be) troublesome; (be) bothersome
-324|面白い|おもしろい　interesting; funny; satisfactory
 324|面接する|めんせつする　to have an interview (with)
 325|連れ|つれ　a companion; company
 325|連想|れんそう　association (of ideas)
@@ -1921,36 +1910,26 @@ Title=JLPT 3 Practice Deck
 326|原因|げんいん　a cause; the origin; the source
 326|原理|げんり　a principle; a theory; a tenet; a law
 326|原稿|げんこう　a manuscript; a draft; copy; notes
-326|野原|のはら　a field; fields
 326|原産の|げんさんの　native (e.g. the native flowers of Hawaii)
 326|原料|げんりょう　raw materials; an ingredient
 327|ジェット機|ジェットき　a jet (plane)
 327|機能する|きのうする　to function; to work
 327|扇風機|せんぷうき　an electric fan; a ceiling fan
-327|交通機関|こうつうきかん　a means of transportation; public transport
-327|機会|きかい　(an) opportunity; a chance; an occasion
 327|機嫌がいい|きげんがいい　be in a good mood; be cheerful
 328|奇数|きすう　an odd number
-328|数字|すうじ　a numeral; a figure
 328|偶数|ぐうすう　an even number
 328|数|かず　(a) number; a figure
 328|数える|かぞえる　to count; to reckon; to calculate; to enumerate
-328|数学|すうがく　mathematics; math; maths
 329|美容|びよう　beauty; a good figure
-329|美容院|びよういん　a beauty salon [shop, parlor]
 329|美人|びじん　a beautiful woman; a beauty; a pretty girl
 329|美しい|うつくしい　beautiful (women); lovely; fine (voice) noble
 329|美術|びじゅつ　fine art; the fine arts; art
 329|美人薄命|びじんはくめい　Rare beauties die young.
 330|発表する|はっぴょうする　to announce; to publish; to make known
-330|表す|あらわす　to show; to display; to indicate; to express
-330|表紙|ひょうし　a front cover; a binding
 330|代表|だいひょう　a representation; a delegate; a delegation
 330|公表する|こうひょうする　to announce (officially); to release
 330|表面|ひょうめん　the surface; the face; the outside [exterior]
 331|予報|よほう　a forecast; (a) prediction
-331|情報|じょうほう　information; intelligence; a report; news; a tip
-331|電報|でんぽう　a telegram; a wire; a telegraphic message
 331|大雨注意報|おおあめちゅういほう　a heavy rain warning
 331|報いる|むくいる　to reward; to repay; to get one's revenge
 331|報告する|ほうこくする　to report; to make a report (of); to inform (of)
@@ -1965,7 +1944,6 @@ Title=JLPT 3 Practice Deck
 333|要点|ようてん　the main point; the gist; the substance
 333|要求する|ようきゅうする　to claim; to demand; to request; to require
 333|要る|いる　to need; to must have; to require; to want
-333|重要な|じゅうような　important; essential; principal
 334|変わる|かわる　to change; to alter; to undergo a change
 334|変化|へんか　(a) change; (a) variation; (a) transformation
 334|変える|かえる　to change; to alter; to transform; to reform [amend]
@@ -1979,24 +1957,18 @@ Title=JLPT 3 Practice Deck
 335|結果|けっか　a result; a consequence; an effect; the upshot
 335|結論|けつろん　a conclusion; a concluding remark
 335|結構な|けっこうな　nice; good; fine; excellent; splendid
-336|神話|しいんわ　a myth; mythology
+336|神話|しんわ　a myth; mythology
 336|精神的な|せいしんてきな　mental; spiritual; moral
 336|神戸|こうべ　Kobe city (of Hyogo prefecture)
 336|神様|かみさま　God; Jehova; Allah; a god; a goddess; a diety
-336|神経|しんけい　one's nerves; a nerve
 336|精神|せいしん　spirit; mind; soul; will; a motive
 337|伝記|でんき　a biography; a life (story)
-337|日記|にっき　a diary; a journal; a daybook
 337|記号|きごう　a mark; a sign; a symbol
 337|記録する|きろくする　to write down; to make a record (of); to enter
 337|記入する|きにゅうする　to enter; to write (down); to fill out [in]
 337|記事|きじ　a news story; an article; a report; an account
 338|平和|へいわ　peace; harmony
-338|和風|わふう　Japanese style
-338|和英辞典|わえいじてん　a Japanese-English dictionary
-338|和服|わふく　Japanese clothes; a kimono
 338|和む|なごむ　to become friendly; to calm down
-338|漢和辞典|かんわじてん　a Japanese dictionary of Chinese characters
 339|公にする|おおやけにする　to publish; to release; to make public
 339|公式|こうしき　a formula; formulas
 339|公共の|こうきょうの　public; common
@@ -2022,15 +1994,12 @@ Title=JLPT 3 Practice Deck
 342|飛び込む|とびこむ　to jump in [into a thing]; to dash [rush] into
 343|受ける|うける　to get; to have; to take; to incur; to accept
 343|受話器|じゅわき　a (telephone) receiver; a handset; earphones
-343|受験する|じゅけんする　to take an examination
 343|受付|うけつけ　receipt; acceptance; a reception desk
 343|引き受ける|ひきうける　to take on (a job); to answer for; to take over
-343|受け取る|うけとる　to receive; to get; to accept; to come to hand
 344|島|しま　an island; an isle; an islet
 344|八丈島|はちじょうじま　Hachijo Island (of Tokyo)
 344|広島県|ひろしまけん　Hiroshima prefecture (of Chugoku area)
 344|列島|れっとう　a chain of islands; an archipelago
-344|半島|はんとう　a peninsula
 344|島国|しまぐに　an island country [nation]
 345|解説|かいせつ　(an) explanation; (an) interpretation
 345|解ける|とける　to get [come] loose; to be solved; to be removed
@@ -2065,27 +2034,20 @@ Title=JLPT 3 Practice Deck
 350|人差し指|ひとさしゆび　the index finger; the first finger
 350|指定する|していする　to appoint; to name; to designate; to specify
 350|指す|さす　to point to [at]; to indicate; to mean; to refer to
-350|小指|こゆび　the little finger; the pinkie
 350|目指す|めざす　to go toward; to head for; to aim (at, for, to do)
 351|能力|のうりょく　ability; power(s); capacity; competence
-351|可能である|かのうである　it is possible (for one) to do; one can do
 351|可能である|かのうである　it is possible (for one) to do; one can do
 351|機能|きのう　a function; a faculty
 351|才能のある|さいのうのある　talented; gifted; able
 351|能率|のうりつ　efficiency
 351|知能|ちのう　intelligence; intellect; mental faculties
 352|紅葉|もみじ　a (Japanese) maple; red leaves; autumnal tints
-352|言葉|ことば　speech; language; a word; a phrase; a term
-352|葉書|はがき　a postcard; a postal card
 352|葉|は　a leaf; a needle; a blade; a frond; foliage; greenery
 352|言葉遣い|ことばづかい　wording; expression; a way of speaking
 352|紅葉|こうよう　autumn leaves; the colors of autumn
-353|次第|しだい　order, the state of things, circumstances, depending on*
 353|第一位|だいいちい　the first place [rank]; the foremost position
 353|第三者|だいさんしゃ　a third person [party]; an outsider
-353|第六感|だいろっかん　a sixth sense; a hunch; (an) intuition
 353|落第する|らくだいする　to fail [flunk] (an exam); to be rejected
-353|次第に|しだいに　gradually; by degrees; little by little
 354|合流する|ごうりゅうする　to join; to merge; to meet; to flow together
 354|一流の|いちりゅうの　first-class; first-rate; top-ranking; the best
 354|流れる|ながれる　to flow; to run; to roll; to surge; to float; to drift
@@ -2098,7 +2060,6 @@ Title=JLPT 3 Practice Deck
 355|全然|ぜんぜん　(not) at all; utterly; simply; entirely; quite
 355|突然（に）|とつぜん（に）　suddenly; all of a sudden; unexpectedly
 355|偶然|ぐうぜん　(a) chance; accident; a coincidence; by accident
-356|最初の|さいしょの　the first; the earliest; the initial; the original
 356|初め|はじめ　the beginning; the opening; the start; the outset
 356|初旬|しょじゅん　the first 10 days [the early part] of the month
 356|初歩|しょほ　the first steps; the rudiments; the elements
@@ -2117,7 +2078,6 @@ Title=JLPT 3 Practice Deck
 358|順調な|じゅんちょうな　satisfactory; fair; fine; favorable; smooth
 359|笑い|わらい　a laugh; laughter; a smile; a chuckle; a giggle
 359|苦笑する|くしょうする　to give a wry smile; to force a laugh
-359|笑顔|えがお　a smiling face
 359|談笑|だんしょう　a pleasant chat; (a) friendly talk
 359|笑う|わらう　to laugh; to smile; to chuckle; to giggle; to grin
 359|微笑む|ほほえむ　to smile; to break into a smile
@@ -2125,5 +2085,4 @@ Title=JLPT 3 Practice Deck
 360|議会|ぎかい　an [a national] assembly; the Diet; Congress
 360|議長|ぎちょう　the president; the chairperson; the chairman
 360|不思議な|ふしぎな　wonderful; marvelous; strange; mysterious
-360|会議室|かいぎしつ　a conference room
 360|議論|ぎろん　(an) argument; (a) discussion; (a) debate [dispute]
