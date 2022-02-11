@@ -2086,3 +2086,62 @@ Title=JLPT 3 Practice Deck
 360|議長|ぎちょう　the president; the chairperson; the chairman
 360|不思議な|ふしぎな　wonderful; marvelous; strange; mysterious
 360|議論|ぎろん　(an) argument; (a) discussion; (a) debate [dispute]
+361|直す|なおす　to mend; to repair; to reform; to correct
+361|直前に|ちょくぜんに　immediately [right, directly] before; just before
+361|正直な|しょうじきな　honest; straightforward; upright; truthful
+361|垂直の|すいちょくの　perpendicular; vertical; plumb; sheer
+361|直ちに|ただちに　at once; immediately; instantly; right away
+361|直る|なおる　to be mended; [repaired, restored, corrected]
+362|保つ|たもつ　to keep (up); to retain; to maintain [preserve]
+362|保存する|ほぞんする　to preserve; to keep; to conserve; *to save (to the hard drive, cloud, etc)
+362|保険|ほけん　insurance
+362|保証|ほしょう　a guarantee; (a) warranty; an assurance
+362|保育園|ほいくえん　a nursery school; a day nursery
+362|保健|ほけん　(preservation of) health [hygiene]; sanitation
+363|工夫する|くふうする　to work out [devise] a plan; to invent; to think out
+363|夫|おっと　a husband; one's husband [old man]
+363|夫婦|ふうふ　man [husband] and wife; a (married) couple
+363|大丈夫(な)|だいじょうぶ(な)　safe; all right; O.K.; surely; certainly
+363|夫人|ふじん　a wife; Mrs.
+363|丈夫な|じょうぶな　healthy; (physically) fit; strong; robust
+364|予選|よせん　a heat; a preliminary (contest); (a) preelection
+364|選ぶ|えらぶ　to choose; to pick out; to select; to elect
+364|選挙|せんきょ　(an) election
+364|選手|せんしゅ　a team member; a (tennis) player; an athlete
+364|選択する|せんたくする　to choose; to select; to opt (for)
+364|当選する|とうせんする　to be elected; to be voted into office
+365|人権|じんけん　human rights; personal rights; civil liberties
+365|親権|しんけん　parental authority
+365|権威|けんい　authority; power; an authority (on)
+365|権力|けんりょく　power; authority
+365|権利がある|けんりがある　to have a [the] right (to do); to be entitled
+365|著作権|ちょさくけん　(a) copyright
+366|制度|せいど　a system; an institution; an organization
+366|制作する|せいさくする　to manufacture; to produce; to make
+366|制限|せいげん　(a) restriction [limitation] (on); conditions
+366|制服|せいふく　a (school) uniform
+366|体制|たいせい　a system; an organization; (a) structure
+366|専制|せんせい　despotism; autocracy; absolutism
+367|続々|ぞくぞく　one after another; in (rapid) succession
+367|続く|つづく　to continue; to go on; to follow; to succeed
+367|手続き|てつづき　formalities; procedures; steps
+367|接続する|せつぞくする　to connect; to join; to link
+367|続ける|つづける　to continue; to keep up; to proceed (with)
+367|連続|れんぞく　continuity; continuance; succession; a series
+368|宣伝|せんでん　publicity; advertisement; propaganda
+368|手伝う|てつだう　to help; to assist; to aid
+368|伝える|つたえる　to tell [report, inform] a person; to convey
+368|伝統|でんとう　(a) tradition
+368|伝言|でんごん　a message
+368|お手伝いさん|おてつだいさん　a maid; a hand; a hired help
+369|参加|さんか　participation
+369|加わる|くわわる　to grow [increase] in; to join (in); to be applied
+369|増加する|ぞうかする　to increase; to grow; to step up (production)
+369|加える|くわえる　to add [sum] up; to add (to)
+369|追加|ついか　(an) addition; a supplement
+370|救助する|きゅうじょする　to rescue; to save; to relieve; to aid
+370|助手|じょしゅ　an aid; an assistant; a helper
+370|援助|えんじょ　help; assistance; aid; support
+370|助ける|たすける　to save; to rescue; to help; to aid; to support
+370|助教授|じょきょうじゅ　an assistant [associate] professor
+370|助かる|たすかる　to be saved [rescued]; to survive (a disaster)
