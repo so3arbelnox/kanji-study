@@ -2145,3 +2145,62 @@ Title=JLPT 3 Practice Deck
 370|助ける|たすける　to save; to rescue; to help; to aid; to support
 370|助教授|じょきょうじゅ　an assistant [associate] professor
 370|助かる|たすかる　to be saved [rescued]; to survive (a disaster)
+371|欠点|けってん　a fault; a defect; a blemish; a flaw; a weak point
+371|要点|ようてん　the main point; the gist; the substance
+371|句読点|くとうてん　punctuation marks
+371|焦点|しょうてん　the focus; the focal point; the point (at issue)
+371|弱点|じゃくてん　a weakness; a weak point; a shortcoming
+371|点数|てんすう　a mark; a grade; a score; the number of items
+372|外務省|がいむしょう　the Ministry of Foreign Affairs
+372|務める|つとめる　to perform one's duties; to play [act] (a part)
+372|事務|じむ　business (matters); affairs; office [clerical] work
+372|義務|ぎむ　(a) duty; an obligation; responsiblity; burden
+372|事務所|じむしょ　an office
+372|公務|こうむ　official business [duties]; public duties
+373|一件|いっけん　an affair; a matter; a case
+373|要件|ようけん　business; thing to be done
+373|件数|けんすう　number (of matters or cases)
+373|事件|じけん　(an event; an incident; a happening
+373|人件費|じんけんひ　labor [payroll] costs; personnel expenses
+373|条件|じょうけん　a condition; terms; a stipulation
+374|命|いのち　life; one's life span
+374|生命|せいめい　life; existence; the life; the soul
+374|命令|めいれい　an order; orders; a command; a decree
+374|命じる|めいじる　to order; to command; to appoint
+374|一生懸命|いっしょうけんめい　[do] as well as one can
+374|寿命|じゅみょう　life; one's life span; a lifetime
+375|三番目の|さんばんめの　the third (seat)
+375|番組|ばんぐみ　a (television, radio) program
+375|番号|ばんごう　a number
+375|順番|じゅんばん　order; a turn
+375|交番|こうばん　a police box; a koban
+375|当番|とうばん　duty; watch; turn (to wash the dishes)
+376|落とす|おとす　to drop; to let a thing fall; to lose; to remove
+376|お洒落|おしゃれ　dressing up; putting on nice clothes; making up
+376|落ち着く|おちつく　to settle (down); to settle in; to keep calm
+376|落第する|らくだいする　to fail [flunk] (an exam); to be rejected
+376|落(と)し物|おとしもの　a lost article [item]; lost property
+377|受け付ける|うけつける　to accept; to receive; to listen to; to follow
+377|見付ける|みつける　to find; to find out; to discover; to detect
+377|片付ける|かたづける　to put a thing in order; to settle; to finish
+377|気付く|きづく　to notice (a thing, that...); to become aware (of)
+377|付き合う|つけあう　to associate [keep company] with
+377|日付|ひづけ　a date
+378|得|とく　(a) profit; gain; advantage; benefit
+378|納得する|なっとくする　to agree [consent] (to); to be convinced (of)
+378|損得|そんとく　loss and gain; profit and loss; interests
+378|得る|える／うる　to get; to come by; to obtain; to acquire; to win
+378|得意である|とくいである　to be good [skillful] at; to be clever in
+378|心得る|こころえる　to know; to understand; to be well informed
+379|井戸|いど　a (water) well
+379|戸|と　a door; a sliding door; a shutter
+379|戸棚|とだな　a cabinet; a cupboard; a closet; a wardrobe
+379|雨戸|あまど　a (sliding) shutter
+379|一戸建て|いっこだて　a detached house
+379|瀬戸物|せともの　ceramics; china; pottery; porcelain; earthenware
+380|間違い|まちがい　a mistake; an error; a slip; a lapse; an accident
+380|相違する|そういする　to be different (from); to differ; to vary; to disagree
+380|違う|ちがう　to be different (from); to vary (from); to be mistaken
+380|間違える|まちがえる　to make a mistake; to commit an error
+380|違反する|いはんする　to break (a law, one's promise); to disobey
+380|勘違いする|かんちがいする　to guess wrong; to misunderstand
