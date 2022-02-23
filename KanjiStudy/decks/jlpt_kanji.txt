@@ -2204,3 +2204,122 @@ Title=JLPT 3 Practice Deck
 380|間違える|まちがえる　to make a mistake; to commit an error
 380|違反する|いはんする　to break (a law, one's promise); to disobey
 380|勘違いする|かんちがいする　to guess wrong; to misunderstand
+381|吉|きち　good luck [fortune]; auspiciousness
+381|大吉|だいきち　great [excellent] luck (in omikuji fortune telling)
+381|不吉な|ふきつな　ominous; sinister; evil; ill; unlucky; inauspicious
+381|吉報|きっぽう　good [great, happy] news; good tidings
+381|不吉な予感|ふきつなよかん　an ominous feeling [premonition, foreboding]
+381|吉日|きちじつ　a lucky day; an auspicious day
+382|自殺|じさつ　(a) suicide
+382|殺菌する|さっきんする　to sterilize; to pasteurize; to disinfect
+382|殺す|ころす　to kill; to murder; to supress; to stifle; to smother
+382|息を殺す|いきをころす　to hold one's breath
+382|殺人|さつじん　homicide; murder; manslaughter
+382|殺到する|さっとうする　to rush [pour] (in); to rush to (a place)
+383|置く|おく　to put; to lay; to set; to place; to leave
+383|装置|そうち　(a) device; equipment; (an) apparatus; fittings
+383|置時計|おきどけい　a table clock; a clock (on a table)
+383|処置|しょち　management; disposition; disposal; a step
+383|物置|ものおき　a lumber room; a storeroom; a shed; a barn
+384|修士|しゅうし　a master; a master's degree; a Master of Arts [Science]
+384|武士|ぶし　a samurai; a warrior
+384|紳士|しんし　a gentleman
+384|学士|がくし　a bachelor; a bachelor's degree; a college graduate
+384|兵士|へいし　a soldier; a private; (the) troops
+384|博士|はかせ　an expert    はくし　a doctorate; Ph.D.
+385|返す|かえす　to return; to give back; to pay back; to repay
+385|返事|へんじ　an answer; a reply
+385|繰り返す|くりかえす　to repeat; to do something over; to reprise
+385|裏返す|うらがえす　to turn [flip] over; to turn (a shirt) inside out
+385|返る|かえる　to be restored; to be given back
+385|引っ繰り返る|ひっくりかえる　to be overturned; to be upset; to fall over
+386|論文|ろんぶん　an essay; a treatise; a thesis; an article
+386|議論する|ぎろんする　to argue; to discuss; to debate; to dispute
+386|論じる|ろんじる　to discuss; to argue; to debate; to deal with
+386|勿論|もちろん　of course; needless to say; naturally; certainly
+386|概論|がいろん　an outline (of); an introduction (to)
+386|結論|けつろん　a conclusion; a concluding remark
+387|交際する|こうさいする　to keep company [socalize, mix](with)
+387|実際|じっさい　the truth; the fact; reality; actual condition
+387|手際が良い|てぎわがよい　be skillful [clever, efficient](in doing, at)
+387|食事の際に|しょくじのさいに　when eating; while eating
+387|国際的な|こくさいてきな　international
+387|際立つ|きわだつ　to be conspicious; to be prominent; to stand out
+388|歳月|さいげつ　time; years
+388|何歳ですか|なんさいですか　How old are you?
+388|万歳|ばんざい　Banzai!; a cheer; Hurrah!
+388|歳暮|せいぼ　a year-end gift; the end of the year; the year-end
+388|二十歳|はたち　twenty (years of age); one's twentieth year
+388|歳末|さいまつ　the end of the year; the year-end
+389|天井|てんじょう　a ceiling; a roof
+389|井戸|いど　a well
+389|市井の人|しせいのひと　an ordinary citizen; the man in the street
+389|井戸を掘る|いどをほる　to dig [bore, drill, sink] a well
+389|天井裏|てんじょううら　the ceiling cavity; an attic
+389|井戸端会議|いどばたかいぎ　housewives' gossip; water cooler gossip
+390|反省|はんせい　searching one's conscience; self-examination
+390|反対|はんたい　opposition; (an) objection; the reverse; the opposite
+390|反映する|はんえいする　to reflect; to be reflected
+390|反抗する|はんこうする　to oppose; to resist; to disobey; to defy; to rebel
+390|反する|はんする　to go [be] against; to be opposed to; to violate
+390|違反|いはん　(a) violation; an offense; (a) transgression
+391|長方形|ちょうほうけい　a rectangle; an oblong
+391|形|かたち　(a) form; (a) shape; (an) appearance; a figure
+391|山形産|やまがたさん　produced in Yamagata
+391|正方形|せいほうけい　a square
+391|人形|にんぎょう　a doll; a puppet; a marionette; a dummy
+391|図形|ずけい　a figure; a diagram
+392|勝|かつ　to win (a battle, a game); to win [gain] a victory
+392|優勝|ゆうしょう　a victory; a championship
+392|勝ち|かち　(a) victory; a win; a conquest
+392|勝敗|しょうはい　victory or defeat; the outcome of a battle
+392|勝手に|かってに　as one pleases [likes]; selfishly; freely
+392|勝負|しょうぶ　victory or defeat; a match; a game; a contest
+393|必要な|ひつような　necessary; needed; required; indispensable
+393|必死に|ひっしに　desperately; frantically
+393|必需品|ひつじゅひん　necessaries; necessities; requisites; a must
+393|必ずしも|かならずしも　(not) always [necessarily]
+393|必ず|かならず　always; invariably; certainly; surely; inevitably
+393|不必要な|ふひつような　unnecessary; needless; superfluous
+394|係|かかり　a charge; a duty; a person in charge
+394|関係|かんけい　(a) relationship; (a) connection; (a) relation
+394|連係プレー|れんけいプレー　close [good] teamwork
+394|案内系|あんないけい　a guide; a clerk at the information desk
+394|係る|かかわる　to be involved in; to have a hand in
+394|係数|けいすう　a coefficient
+395|自由に|じゆうに　as one pleases; freely; without restraint
+395|由来|ゆらい　the origin; the history; the source; originally
+395|理由|りゆう　(a) reason; cause; a rationale; an excuse
+395|経由で|けいゆで　via...; by way of...; through
+395|不自由な|ふじゆうな　inconvenient; uncomfortable; disabled
+395|由緒ある|ゆいしょある　of noble birth; historic (building)
+396|愛する|あいする　to love; to be fond of; to care for
+396|愛情|あいじょう　love; affection
+396|愛|あい　love (for a person, of a thing); affection (for)
+396|愛犬|あいけん　one's pet dog
+396|愛想のよい|あいそうのよい　friendly; amiable; affable; hospitable
+396|愛着がある|あいちゃくがある　to be attached (to); to be fond (of)
+397|放れる|はなれる　to free oneself (of); to get free
+397|放す|はなす　to let a thing [a person] go [off, loose]; to release
+397|放送|ほうそう　TV broadcasting; a radio [television] broadcast
+397|解放|かいほう　freeing; release; liberation; emancipation
+397|放る|ほうる　to throw; to toss; to leave a thing undone; to abandon
+397|開放する|かいほうする　to open; to give free access (to)
+398|確か|たしか　maybe; probably; if I am not mistaken
+398|確認する|かくにんする　to confirm; to check; to verify; to identify
+398|確率|かくりつ　a probability
+398|確かめる|たしかめる　to make sure (of); to confirm; to verify
+398|正確な|せいかくな　correct; accurate; exact; punctual
+398|確実な|かくじつな　certain; sure; definite
+399|過去|かこ　the past; bygone days; one's past (life)
+399|過ぎる|すぎる　to pass (by, through); to wear away; to expire
+399|過程|かてい　a process; a course
+399|過半数|かはんすう　the greater part [number](of); the majority; the lion's share
+399|通過する|つうかする　to pass (through); to go [get] through
+399|過ごす|すごす　to spend; to pass; to get through (the night)
+400|出張|しゅっちょう　a business trip; an official tour [trip]
+400|欲張りな|よくばりな　greed; grasping; possessive; avaricious
+400|頑張る|がんばる　to do one's best; to perserve; to keep it up
+400|主張|しゅちょう　an argument; a claim; (an) assertion
+400|緊張する|きんちょうする　to get [become] tense; to be strained
+400|引っ張る|ひっぱる　to pull; to draw; to drag; to stretch (over)
