@@ -2383,3 +2383,63 @@ Title=JLPT 3 Practice Deck
 410|果たす|はたす　to carry out; to finish; to accomplish; to achieve
 410|結果|けっか　a result; a consequence; an effect; the upshot
 410|効果|こうか　(an) effect; effectiveness; efficacy; a result
+411|呼ぶ|よぶ　to call; to send for (a doctor); to invite; to attract
+411|連呼する|れんこする　to call [shout] (one's name) repeatedly
+411|呼び出す|よびだす　to call; to summon; to subpoena; to page
+411|深呼吸|しんこきゅう　a deep breath; deep breathing
+411|呼び掛ける|よびかける　to call (out to); to speak to; to address
+411|呼応する|こおうする　to call out to one another; to act in concert
+412|武士|ぶし　a samurai; a warrior
+412|武力|ぶりょく　military power; force; force of arms
+412|武器|ぶき　a weapon; arms
+412|武道|ぶどう　the military [martial] arts
+412|文武両道|ぶんぶりょうどう　scholarship and the martial arts
+412|武者|むしゃ　a warrior; a soldier
+413|共通の|きょうつうの　common (to)
+413|共産党|きょうさんとう　the Communist Party
+413|公共の|こうきょうの　public; common
+413|共稼ぎ|ともかせぎ　a two-income family
+413|共同|きょうどう　cooperation; collaboration; partnership
+413|共に|ともに　together; along with; both (A and B); neither
+414|残り|のこり　what is left; the rest; the remainder; the surplus
+414|残高|ざんだか　(bank) balance
+414|残る|のこる　to remain; to stay; to stop; to be left over [behind]
+414|残す|のこす　to leave behind; to leave a thing undone; to save
+414|残業|ざんぎょう　overtime work
+414|残念な|ざんねんな　regrettable; unfortunate; disappointing
+415|評判|ひょうばん　(a) reputation; fame; popularity; (a) rumor
+415|批判する|ひはんする　to criticize; to pass judgment (on)
+415|判断|はんだん　(a) decision; (a) judment; (an) inference
+415|判子|はんこ　a (personal) seal [stamp] (used for signature)
+415|裁判|さいばん　a trial; a hearing; a suit; a lawsuit; judgment; justice
+415|判事|はんじ　a judge; a justice; the bench
+416|役目|やくめ　a duty; one's business; a role; an office
+416|役立つ|やくだつ　to be helpful; to be useful; to serve the purpose
+416|役割|やくわり　a part; a role
+416|役人|やくにん　a government official [officer]; a civil servant
+416|役者|やくしゃ　an actor; an actress; a player
+416|重役|じゅうやく　a (company) director; an executive
+417|古城|こじょう　an old [ancient] castle
+417|大阪城|おおさかじょう　Osaka-jo; Osaka Castle
+417|城|しろ　a castle; a fort; a fortress; a stronghold; a citadel
+417|宮城県|みやぎけん　Miyagi prefecture (of the Tohoku region)
+417|城跡|しろあと　the ruins [site] of a castle
+417|城下町|じょうかまち　a castle town
+418|その他|そのた　and others; and so on [so forth]; et cetera
+418|自他|じた　self and other; oneself and others
+418|他の|たの　other; another; the rest of
+418|他人|たにん　another person; others; an outsider; a stranger
+418|他殺|たさつ　murder; homicide
+418|排他的な|はいたてきな　exclusive
+419|総会|そうかい　a general meeting [assembly]
+419|総合する|そうごうする　to synthesize; to put [piece] together
+419|総額|そうがく　the total amount; the sum; the sum total
+419|総理大臣|そうりだいじん　the Prime Minister; the Premier
+419|総合的な|そうごうてきな　overall; comprehensive; synthetic
+419|総領事館|そうりょうじかん　a consulate general
+420|芸術|げいじゅつ　(an) art; (fine) arts
+420|美術|びじゅつ　fine art; the fine arts; art
+420|技術|ぎじゅつ　an art; (a) skill; (a) technique; technology
+420|学術|がくじゅつ　science; learning; scholarship
+420|手術|しゅじゅつ　an [a surgical] operation; surgery
+420|腹話術|ふくわじゅつ　ventriloquism
