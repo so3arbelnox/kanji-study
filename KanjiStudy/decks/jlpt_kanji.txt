@@ -2341,3 +2341,45 @@ Title=JLPT 3 Practice Deck
 403|空想|くうそう　a [an idle] fancy; a daydream; (a) fantasy
 403|発送|はっそう　an idea; a way of thinking; an approach
 403|感想|かんそう　one's thoughts [impression(s), sentiment(s)]
+404|警官|けいかん　a police officer; a policeman; a cop
+404|器官|きかん　an organ (of the body)
+404|官僚|かんりょう　a govt. official; a bureaucrat; (the) bureaucracy
+404|官能的な|かんのうてきな　sensual (novel)
+404|裁判官|さいばんかん　a judge; a justice; the court; the bench
+404|官庁|かんちょう　a government office [agency]
+405|交ざる|まざる　to be [get] mixed (with); to be mingled (with)
+405|交通|こうつう　traffic; transportation; transport
+405|交差|こうさ　crossing; intersection; crossing-over
+405|交換する|こうかんする　to exchange one thing for another
+405|交じる|まじる　to be [get] mixed (with); to be mingled (with)
+405|交番|こうばん　a police box; a koban
+406|配達する|はいたつする　to deliver
+406|気配り|けくばり　attention; care; (have, show) consideration
+406|気配|けはい　an indication; a sign
+406|配る|くばる　to distribute; to hand [pass] out; to serve (food)
+406|支配する|しはいする　to rule; to govern; to control; to direct
+406|心配する|しんぱいする　to worry; to be anxious [concerned] (about)
+407|若干の|じゃっかんの　some; a number of (people); a few; a little
+407|若年|じゃくねん　(early) youth
+407|若い|わかい　young; youthful; inexperienced; immature
+407|若々しい|わかわかしい　young(-looking); youthful; fresh; blooming
+407|若しくは|もしくは　or; othewise
+407|老若男女|ろうにゃくなんにょ　men and women of all ages
+408|投資する|とうしする　to invest (in); to sink (money in an enterprise)
+408|資源|しげん　a (natural) resource; (natural) resources
+408|資本|しほん　(a) capital; a fund; an asset
+408|資格|しかく　capacity; qualification(s); competence; a right
+408|資料|しりょう　material; data
+408|資金|しきん　funds; a fund; (a) capital
+409|常識|じょうしき　common sense; common knowledge
+409|非常に|ひじょうに　very (much); greatly; extremely; exceedingly
+409|日常の|にちじょうの　every day; daily; usual; routine; ordinary
+409|異常|いじょう　abnormality
+409|常に|つねに　always; all the time; ordinarily; commonly
+409|非常口|ひじょうぐち　an emergency exit [door]; a fire exit
+410|果たして|はたして　sure enough; just as one thought; as expected; really
+410|果実|かじつ　(a) fruit; fruit(s)
+410|果物|くだもの　a fruit; fruit
+410|果たす|はたす　to carry out; to finish; to accomplish; to achieve
+410|結果|けっか　a result; a consequence; an effect; the upshot
+410|効果|こうか　(an) effect; effectiveness; efficacy; a result
