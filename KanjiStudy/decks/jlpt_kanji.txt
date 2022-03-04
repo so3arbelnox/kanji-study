@@ -2323,3 +2323,21 @@ Title=JLPT 3 Practice Deck
 400|主張|しゅちょう　an argument; a claim; (an) assertion
 400|緊張する|きんちょうする　to get [become] tense; to be strained
 400|引っ張る|ひっぱる　to pull; to draw; to drag; to stretch (over)
+401|予約|よやく　booking; reservation; subscription; an appointment
+401|約|やく　about; nearly; some; approximately
+401|約束する|やくそくする　to promise; to give one's word; to agree
+401|節約する|せつやくする　encompasing; saving
+401|婚約する|こんやくする　to get [become] engaged (to marry)
+401|契約する|けいやくする　to contract; to make an agreement (with)
+402|状況|じょうきょう　the state of affairs; conditions; the situation
+402|表彰状|ひょうしょうじょう　a certificate of recomendation
+402|状態|じょうたい　the state (of things); condition; the situation
+402|液状の|えきじょうの　liquefied; liquid (soap); a fluid
+402|現状|げんじょう　the (present) state (of things); the status quo
+402|症状|しょうじょう　a symptom; the condition of a patient
+403|連想する|れんそうする　to associate (one thing wiht another)
+403|想像|そうぞう　imagination; (a) fancy; (a) guess [conjecture]
+403|理想|りそう　an ideal
+403|空想|くうそう　a [an idle] fancy; a daydream; (a) fantasy
+403|発送|はっそう　an idea; a way of thinking; an approach
+403|感想|かんそう　one's thoughts [impression(s), sentiment(s)]
