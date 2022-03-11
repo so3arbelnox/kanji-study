@@ -2443,3 +2443,63 @@ Title=JLPT 3 Practice Deck
 420|学術|がくじゅつ　science; learning; scholarship
 420|手術|しゅじゅつ　an [a surgical] operation; surgery
 420|腹話術|ふくわじゅつ　ventriloquism
+421|支配|しはい　control; superintendence; rule; government; sway
+421|支度|したく　arrangements; preparations; (an) outfit; equipment
+421|支払う|しはらう　to pay; to settle (one's debts); to disburse (funds)
+421|支える|ささえる　to support; to prop up; to maintain; to sustain
+421|支給する|しきゅうする　to provide [supply, furnish] a person with something
+421|支出|ししゅつ　expenses; (an) outlay; (an) expenditure
+422|両方|りょうほう　both sides
+422|両立する|りょうりつする　to be consistent [compatible] (with)
+422|両側|りょうがわ　both sides
+422|両手に花|りょうてにはな　be between two beautiful women
+422|両替|りょうがえ　money changing
+422|車両|しゃりょう　vehicles; cars; a (railroad) coach; a carriage
+423|団地|だんち　a housing development; an apartment complex
+423|座布団|ざぶとん　a cushion; a zabuton
+423|集団|しゅうだん　a group; a mass; a crowd
+423|布団|ふとん　bedding; bedclothes; a set of futon(s)
+423|団結する|だんけつする　to unite; to stand together
+423|団体|だんたい　an organization; a group; an association
+424|応じる|おうじる　to answer [reply, respond]; to accept; to agree
+424|応対する|おうたいする　to receive (visitors); to wait on (guests)
+424|応用する|おうようする　to put (theory) to practicl use; to apply
+424|応援|おうえん　to help; assistance; support; cheering
+424|応接|おうせつ　(a) reception
+424|一応|いちおう　largely; for the most part; tentatively; just in case
+425|済ませる|すませる　to finish; to get over with; to settle; to pay back
+425|経済|けいざい　the eceonomy; finance; economy; thrift
+425|済む|すむ　to end; to come to an end [a close]; to be over
+425|返済|へんさい　return; (a) payment; (a) repayment
+425|仕事を済ます|しごとをすます　to finish one's work
+425|点検済み|てんけんずみ　inspection completed; checked up
+426|内線|ないせん　indoor [internal] wiring; an extension (ext.)
+426|下線|かせん　an underline
+426|直線|ちょくせん　a straight line
+426|曲線|きょくせん　a curved line; a curve
+426|線路|せんろ　a track; a line; a railroad [railway] track [line]
+426|新幹線|しんかんせん　a bullet train; a high-speed train
+427|建設する|けんせつする　to build; to construct; to erect; to establish
+427|設ける|もうける　to provide; to prepare; to arrange; to establish
+427|創設|そうせつ　foundation; establishment
+427|施設|しせつ　an institution; an establishment; facilities
+427|設定する|せっていする　to establish (a regulation); to set up (a fund)
+427|設備|せつび　equipment; facilities; accommodation(s)
+428|供える|そなえる　to offer; to make an offering (to)
+428|提供する|ていきょうする　to offer; to present; to supply [provide]
+428|供給|きょうきゅう　supply; service
+428|子供|こども　a child
+428|供養|くよう　a memorial service for the dead
+428|供え物|そなえもの　an offering (to)
+429|同格|どうかく　the same rank; apposition
+429|格が上がる|かくがあがる　to rise in rank
+429|格好のいい|かこうのいい　attractive; nice-looking; shapely; stylish
+429|価格|かかく　(a) price; (a) value
+429|合格|ごうかく　success in an examination; passing an exam
+429|性格|せいかく　character; personality; (one's) nature
+430|打つ|うつ　to hit; to punch; to knock; to strike; to typewrite
+430|打ち消す|うちけす　to deny; to give denial to (the rumor); to refute
+430|打者|だしゃ　a (baseball) batter
+430|打破する|だはする　to break down; to overthrow; to abolish
+430|打合せ|うちあわせ　a business meeting; an appointment; a previous arrangement
+430|打ち合わせる|うちあわせる　to make arrangements; to fix (the time)
