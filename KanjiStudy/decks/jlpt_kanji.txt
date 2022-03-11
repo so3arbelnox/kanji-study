@@ -2503,3 +2503,63 @@ Title=JLPT 3 Practice Deck
 430|打破する|だはする　to break down; to overthrow; to abolish
 430|打合せ|うちあわせ　a business meeting; an appointment; a previous arrangement
 430|打ち合わせる|うちあわせる　to make arrangements; to fix (the time)
+431|運勢|うんせい　fortune; luck; one's star
+431|情勢|じょうせい　the state of affairs; things; conditions
+431|勢い|いきおい　power; force; energy; vigor; spirit(s); influence
+431|姿勢|しせい　(a) posture [pose]; an attitude; a stance
+431|大勢の|おおぜいの　a great [large] number (of people)
+431|優勢な|ゆうせいな　superior; leading; dominant; predominant
+432|御免なさい|ごめんなさい　[I'm] Sorry.  / Excuse [Pardon] me.
+432|御馳走|ごちそう　a treat; a (splendid) dinner; a feast; hospitality
+432|御手洗い|おてあらい　a toilet; a bathroom; a lavatory; a rest room
+432|御覧になる|ごらんになる　[humble form] to see; to inspect
+432|制御する|せいぎょする　to control; to bring a thing under control
+432|御辞儀|おじぎ　a bow [curtsy]
+433|断る|ことわる　to refuse; to reject; to turn down; to decline
+433|断定|だんてい　a conclusion; a decision
+433|診断|しんだん　(a) diagnosis
+433|判断する|はんだんする　to judge; to conclude; to infer; to interpret
+433|横断する|おうだんする　to cross; to go [walk, travel, sail, fly] across
+433|油断する|ゆだんする　to relax one's guard; to be off (one's) guard
+434|正式の|せいしきの　formal (procedure); proper; official; legal
+434|和式|わしき　Japanese style
+434|儀式|ぎしき　a ceremony; a function; a service; (a) ritual [rite]
+434|形式的な|けいしきてきな　formal; perfunctory
+434|公式の|こうしきの　formal; official
+434|葬式|そうしき　a funeral (service); a funeral [burial] rites
+435|技師|ぎし　an engineer; a technical expert
+435|教師|きょうし　a teacher; a mentor; an instructor; a professor
+435|医師|いし　a doctor; a medical practitioner
+435|講師|こうし　a lecturer; a speaker; a panelist; an instructor
+435|恩師|おんし　one's (former) teacher
+435|漁師|りょうし　a fisherman; a fisherwoman
+436|政党|せいとう　(a member of) a political party
+436|悪党|あくとう　a villain
+436|甘党|あまとう　a person fond of sweets
+436|与党|よとう　the Government party; the party in power
+436|自民党|じみんとう　the Liberal Democratic Party
+436|党|とう　party (political)
+437|報告|ほうこく　a report
+437|予告する|よこくする　to notify [announce] beforehand
+437|告げる|つげる　to tell a person (about); to let a person know
+437|告げ口する|つげぐちする　to inform on a person; to tip a person off
+437|警告|けいこく　(a) warning; a caution; (an)admonition
+437|広告|こうこく　(an) advertisement; an ad
+438|深い|ふかい　deep; thick; dense; profound; close; intimate
+438|深夜|しんや　midnight; the dead of night
+438|深刻な|しんこくな　serious; grave; somber
+438|興味深い|きょうみぶかい　very interesting; of great interest
+438|深まる|ふかまる　to get [become] deeper; to deepen
+438|深呼吸をする|しんこうきゅうをする　to breathe deeply; to take a deep breath
+439|存在|そんざい　existence; being
+439|保存|ほぞん　preservation; conservation; save (a file)**
+439|存ずる|ぞんずる　to know; to be aware (of); to think; to believe
+439|生存する|せいぞんする　to exist; to live; to survive
+439|依存|いぞん　dependence; reliance
+439|存じる|ぞんじる　to know; to be aware (of); to think; to believe
+440|競争|きょうそう　(a) competition; rivalry; a contest; a race
+440|争う|あらそう　to compete (with a person for a thing); to fight
+440|言い争い|いいあらそい　(an) argument (with, about); a quarrel
+440|論争|ろんそう　a dispute; a controversy
+440|一刻を争う|いっこくをあらそう　to be in a race [fight] against time
+440|戦争|せんそう　(a) war; warfare; a battle; a fight; combat
