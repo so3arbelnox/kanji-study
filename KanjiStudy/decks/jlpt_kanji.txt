@@ -2184,7 +2184,7 @@ Title=JLPT 3 Practice Deck
 377|見付ける|みつける　to find; to find out; to discover; to detect
 377|片付ける|かたづける　to put a thing in order; to settle; to finish
 377|気付く|きづく　to notice (a thing, that...); to become aware (of)
-377|付き合う|つけあう　to associate [keep company] with
+377|付き合う|つきあう　to associate [keep company] with
 377|日付|ひづけ　a date
 378|得|とく　(a) profit; gain; advantage; benefit
 378|納得する|なっとくする　to agree [consent] (to); to be convinced (of)
@@ -2269,7 +2269,7 @@ Title=JLPT 3 Practice Deck
 391|正方形|せいほうけい　a square
 391|人形|にんぎょう　a doll; a puppet; a marionette; a dummy
 391|図形|ずけい　a figure; a diagram
-392|勝|かつ　to win (a battle, a game); to win [gain] a victory
+392|勝つ|かつ　to win (a battle, a game); to win [gain] a victory
 392|優勝|ゆうしょう　a victory; a championship
 392|勝ち|かち　(a) victory; a win; a conquest
 392|勝敗|しょうはい　victory or defeat; the outcome of a battle
@@ -2330,7 +2330,7 @@ Title=JLPT 3 Practice Deck
 401|婚約する|こんやくする　to get [become] engaged (to marry)
 401|契約する|けいやくする　to contract; to make an agreement (with)
 402|状況|じょうきょう　the state of affairs; conditions; the situation
-402|表彰状|ひょうしょうじょう　a certificate of recomendation
+402|表彰状|ひょうしょうじょう　a certificate of commendation
 402|状態|じょうたい　the state (of things); condition; the situation
 402|液状の|えきじょうの　liquefied; liquid (soap); a fluid
 402|現状|げんじょう　the (present) state (of things); the status quo
@@ -2354,7 +2354,7 @@ Title=JLPT 3 Practice Deck
 405|交じる|まじる　to be [get] mixed (with); to be mingled (with)
 405|交番|こうばん　a police box; a koban
 406|配達する|はいたつする　to deliver
-406|気配り|けくばり　attention; care; (have, show) consideration
+406|気配り|きくばり　attention; care; (have, show) consideration
 406|気配|けはい　an indication; a sign
 406|配る|くばる　to distribute; to hand [pass] out; to serve (food)
 406|支配する|しはいする　to rule; to govern; to control; to direct
@@ -2550,7 +2550,7 @@ Title=JLPT 3 Practice Deck
 438|深刻な|しんこくな　serious; grave; somber
 438|興味深い|きょうみぶかい　very interesting; of great interest
 438|深まる|ふかまる　to get [become] deeper; to deepen
-438|深呼吸をする|しんこうきゅうをする　to breathe deeply; to take a deep breath
+438|深呼吸をする|しんこきゅうをする　to breathe deeply; to take a deep breath
 439|存在|そんざい　existence; being
 439|保存|ほぞん　preservation; conservation; save (a file)**
 439|存ずる|ぞんずる　to know; to be aware (of); to think; to believe
