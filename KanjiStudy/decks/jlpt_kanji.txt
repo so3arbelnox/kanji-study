@@ -2563,3 +2563,63 @@ Title=JLPT 3 Practice Deck
 440|論争|ろんそう　a dispute; a controversy
 440|一刻を争う|いっこくをあらそう　to be in a race [fight] against time
 440|戦争|せんそう　(a) war; warfare; a battle; a fight; combat
+441|覚える|おぼえる　to remember; to memorize; to learn [master]
+441|覚ます|さます　to wake up; to awake; to disillusion; to sober up
+441|目覚まし時計|めざましどけい　an alarm clock
+441|感覚|かんかく　a sense; (a) sensation; (a) feeling
+441|覚悟|がくご　(a) resolution; readiness; resignation
+441|覚める|さめる　to wake up; to awake; to come to one's senses
+442|歴史|れきし　history; a history
+442|世界史|せかいし　world history; the history of the world
+442|史上最大の|しじょうさいだいの　the greatest (tank battle) in history
+442|史料|しりょう　historical records [documents, material]
+442|近代史|きんだいし　modern history
+442|史跡|しせき　a historical site; a place of historical interest
+443|内側の|うちがわの　inside; inner; interior
+443|側近|そっきん　a close adviser; an aide
+443|両側|りょうがわ　both sides
+443|右側|みぎがわ　the right (side)
+443|側面|そくめん　the side; the flank; an aspect
+443|側|そば　the side; vicinity; proximity
+444|飛ばす|とばす　to (let) fly; to blow off; to scatter; to speed up
+444|飛ぶ|とぶ　to fly; to flutter; to be scattered (away); to skip (over)
+444|飛び込む|とびこも　to jump in [into a thing]; to dash [rush] into
+444|宇宙飛行士|うちゅうひこうし　an astronaut; a cosmonaut; a spaceman
+444|飛び出す|とびだす　to fly [jump, dash] out; to protrude; to appear
+444|飛行場|ひこうじょう　an airfield; an airport; a flying field [ground]
+445|参加する|さんかする　to take part (in); to join; to participate (in)
+445|持参する|じさんする　to take [bring] (something) with one
+445|参議院|さんぎいん　the House of Councilors
+445|参る|まいる　to go; to come; to pay a visit (to)
+445|参考|さんこう　reference; consultation
+445|お参りする|おまいりする　to visit [go to pray at] a shrine or temple
+446|不可|ふか　(letter grade of) F; fail; failure; disapproval
+446|可決する|かけつする　to approve [pass] (a bill); to carry (a motion)
+446|可能な|かのうな　possible
+446|可|か　the minimum passing grade; a (bare) pass; a D
+446|可燃物|かねんぶつ　combustibles; (in)flammable materials
+446|許可|きょか　permission; leave; approval; sanction; license
+447|営む|いとなむ　to run (a hotel); to keep (a store); to do business
+447|非営利団体|ひえいりだんたい　a nonprofit organization (NPO)
+447|経営|けいえい　management; administration; operation
+447|運営する|うんえいする　to manage; to run; to operate
+447|営業|えいぎょう　business; dealings; trade; sales; operation(s)
+447|自営業|じえいぎょう　an independent business
+448|政府|せいふ　the government [administration]; the cabinet
+448|大阪府|おおさかふ　Osaka prefecture (of Western Japan)
+448|幕府|ばくふ　the shogunate
+448|都道府県|とどうふけん　Japanese prefectures
+448|京都府|きょうとふ　Kyoto prefecture (Japan's former capital)
+448|連邦政府|れんぽうせいふ　the Federal Government
+449|突然（に）|とつぜん（に） suddenly; all of a sudden; unexpectedly
+449|突く|つく　to push; to thrust; to poke; to stab; to prick; to gore
+449|煙突|えんとつ　a chimney; a stovepipe
+449|突き当り|つきあたり　the end [bottom](of the street)
+449|突っ込む|つっこむ　to stick [cram, pack] something (into); to plunge (into)
+449|衝突|しょうとつ　a collision; a (car) crash; a pileup; a conflict
+450|第一巻|だいいっかん　the first volume; volume one (of a series)
+450|巻頭|かんとう　the beginning [opening page] of a book
+450|巻く|まく　to wind (up); to roll (up); to wrap; to be covered (with)
+450|手巻寿司|てまきずし　hand-rolled [-wrapped] sushi  **often written as 手巻き寿司
+450|巻き込む|まきこむ　to roll up in; ;to engulf; to drag in; to involve (in)
+450|取り巻く|とりまく　to surround; to encircle; to gather around (something)
