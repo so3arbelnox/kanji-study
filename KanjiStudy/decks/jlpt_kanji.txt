@@ -2623,3 +2623,63 @@ Title=JLPT 3 Practice Deck
 450|手巻寿司|てまきずし　hand-rolled [-wrapped] sushi  **often written as 手巻き寿司
 450|巻き込む|まきこむ　to roll up in; ;to engulf; to drag in; to involve (in)
 450|取り巻く|とりまく　to surround; to encircle; to gather around (something)
+451|容易な|よういな　easy; simple; hands-down (victories)
+451|容器|ようき　a container; a receptacle; a vessel
+451|容積|ようせき　(cubic) capacity; volume; bulk
+451|美容|びよう　beauty; a good figure
+451|内容|ないよう　content(s); import; substance; matter
+451|形容詞|けいようし　an adjective; an epithet
+452|体育|たいいく　physical training; pyscial education [PE]
+452|教育|きょういく　education; schooling; training; upbrining
+452|育つ|そだつ　to grow (up); to be brought up; to be bred
+452|保育園|ほいくえん　a mursery school; a day nursery
+452|育てる|そだてる　to bring up; to raise; to educate; to develop
+452|育児|いくじ　child-rearing; child [baby, infant] care
+453|仲介する|ちゅうかいする　to mediate between
+453|介護|かいご　care (of the sick); mursing (an invalid)
+453|魚介類|ぎょかいるい　seafood
+453|介して|かいして　through (as in "through my friend Ms. A")
+453|紹介|しょうかい　(an) introduction; (a) presentation
+453|厄介な|やっかいな　troblesome; annoying; burdensome
+454|構える|かまえる　to take a posture; to stand ready (for)
+454|構成|こうせい　(a) construction; structure; composition; a setup
+454|構造|こうぞう　(a) structure; (a) construction; (a) make
+454|結構な|けっこうな　nice; good; fine; excellent; splendid
+454|構う|かまう　to mind; to care about; to care for; to look after
+454|お構いなく|おかまいなく　Please don't trouble yourself on my account.
+455|認める|みとめる　to recognize; to acknowledge; to admit
+455|承認する|しょうにんする　to approve; to admit; to acknowledge
+455|確認|かくにん　confirmation; verification; identification
+455|認可する|にんかする　to approve; to permit; to give license (to)
+455|認定|にんてい　authorization; acknowledgement; approval
+455|誤りを認める|あやまりをみとめる　to admit to a mistake
+456|単位|たんい　a unit; a credit; a denomination
+456|位置|いち　a place; a position; one's status [standing]
+456|位|くらい　(a) grade; (a) rank
+456|地位|ちい　a position; one's [social] standing [status]
+456|一位|いちい　the first place [rank]; the foremost position
+456|どの位|どのくらい　how much; how many; how far; how long
+457|発達する　|はったつする　to develop; to grow
+457|速達|そくたつ　express delivery; special delivery
+457|達する|たっする　to reach; to arrive at [in]; to achieve; to amount to
+457|上達する|じょうたつする　to make progress (in); to advance (in)
+457|友達|ともだち　a friend; a pal; a partner; a companion
+457|配達|はいたつ　delivery
+458|お宮|おみや　a (Shinto) shrine
+458|子宮|しきゅう　the womb; the uterus
+458|宮殿|きゅうでん　a palace
+458|神宮|じんぐう　a (Shinto) shrine
+458|宮内庁|くないちょう　the Imperial Household Agency
+458|お宮参り|おみやまいり　taking one's baby [child] to a Shinto shrine
+459|守る|まもる　to protect (from); to defend; to guard; to obey
+459|お守り|おまもり　a (good-luck) charm; a talisman; an amulet
+459|子守歌|こもりうた　a lullaby; a cradle song
+459|留守番電話|るすばんでんわ　an answering machine
+459|留守にする|るすにする　to be away from home; to be not at home
+459|厳守する|げんしゅする　to observe (a rule) strictly
+460|肥満|ひまん　obesity; fatness
+460|不満な|ふまんな　dissatisfied; discontented; unsatisfactory
+460|満員の|まんいんの　full (of people); crowded (cars)
+460|満足する|まんぞくする　to be happy (with); to be satisfied (with)
+460|満点|まんてん　a perfect score; full marks
+460|満ちる|みちる　to become full (of); to rise; to flow; to expire
