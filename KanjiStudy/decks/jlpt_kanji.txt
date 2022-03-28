@@ -2683,3 +2683,122 @@ Title=JLPT 3 Practice Deck
 460|満足する|まんぞくする　to be happy (with); to be satisfied (with)
 460|満点|まんてん　a perfect score; full marks
 460|満ちる|みちる　to become full (of); to rise; to flow; to expire
+461|消費する|しょうひする　to consume; to spend
+461|消しゴム|けしゴム　an eraser; a rubber
+461|消化する|しょうかする　to digest; to consume; to absorb; to understand
+461|消防署|しょうぼうしょ　a fire station
+461|取り消す|とりけす　to cancel (an order); to withdraw; to take back
+461|消える|きえる　to go out; to fade out; to disappear; to fade
+462|責任|せきにん　(a) responsiblity; (a) liability; one's duty
+462|就任|しゅうにん　assumption of office; inauguration
+462|責任を取る|せきにんをとる　to admit that one is responsible (for)
+462|任せる|まけせる　to entrust; to leave something in a person's hands
+462|委任|いにん　(a) commission; delegation; commitment
+462|主任|しゅにん　a chief (official); a head; a manager
+463|貯蔵する|ちょぞうする　to store; to lay [put] a thing up [by]
+463|地蔵|じぞう　Jizo (a bodhisattva, savior of the helpless)
+463|蔵|くら　a warehouse; a storehouse; a granary
+463|内蔵する|ないぞうする　to have a thing built-in
+463|酒蔵|さかぐら　a wine cellar [vault]; a sake brewery
+463|冷蔵庫|れいぞうこ　a refrigerator; an icebox; the fridge
+464|人造の|じんぞうの　artificial; man-made; imitation; synthetic
+464|造船|ぞうせん　shipbuilding
+464|製造|せいぞう　manufacture; production
+464|改造|かいぞう　(an) alteration; remodeling; (a) reorganization
+464|造る|つくる　to make [manufacture]; to build; to brew; to coin
+464|構造|こうぞう　(a) structure; (a) construction; (a) make
+465|居眠り|いねむり　a nap; a catnap; a snooze; a doze; a siesta
+465|居酒屋|いざかや　an izakaya; a (Japanese-style) bar
+465|芝居|しばい　a play; a drama; a dramatic performance; an act
+465|居る|いる　there is [are]; to be; to exist; to live; to be present
+465|住居|じゅうきょ　a house; a dwelling; a residence
+465|居間|いま　a living room; a parlor; a sitting room
+466|大根|だいこん　a Chinese [Japanese] (white) radish
+466|根拠|こんきょ　a basis; ground(s); authority; evidence
+466|羽根|はね　a shuttlecock  **in hanetsuki (Japanese badminton) 
+466|垣根|かきね　a fence; a hedge; a barrier; one's defenses
+466|根|ね　a root; the origin; the (root) cause; nature
+466|屋根|やね　a roof
+467|予備|よび　preparation(s); a reserve; a spare; an extra
+467|予約する|よやくする　to make a reservation; to book (tickets)
+467|予測|よそく　an estimate; a projection; a forecast
+467|予算|よさん　an estimate (for, of); a budget
+467|予習する|よしゅうする　to prepare (for one's lesson's)
+467|予定|よてい　a schedule; a plan; a program; an estimate
+468|通路|つうろ　a passage; a passageway; a way; a path(way)
+468|路上|ろじょう　(on, in) the street [road]
+468|道路|どうろ　a road; a street; a highway; a thoroughfare
+468|線路|せんろ　a track; a line; a railroad [railway] track [line]
+468|家路につく|いえじにつく　to start [set out] for home
+468|針路|しんろ　a course; a flight path
+469|座る|すわる　to sit down; to take a seat; to be seated
+469|即座に|そくざに　immediately; instantly; at once; promptly
+469|星座|せいざ　a constellation
+469|正座する|せいざする　to sit on one's heels with one's back straight
+469|居座る|いすわる　to stay on; to remain (in office)
+469|座敷|ざしき　a room floored with tatami mats; a parlor
+470|基礎|きそ　a foundation; a base; a basis; groundwork
+470|基地|きち　a base
+470|基本|きほん　a foundation; a basis; fundamentals; a standard
+470|基づく|もとづく　to be based on; to be grounded (in)
+470|基準|きじゅん　a standard; a measure; a criterion [criteria]
+470|基盤|きばん　a base; a basis; a foundation; bedrock
+471|客|きゃく　a visitor; a guest; a customer; a patron; a client
+471|客間|きゃくま　a guest room
+471|観客|かんきゃく　a spectator; an [the] audience; a visior
+471|客席|きゃくせき　a seat (in a stadium)
+471|乗客|じょうきゃく　a passenger; a fare
+471|客観的な|きゃっかんてきな　objective (view)
+472|船|ふね　a ship; a vessel; a boat; a steamer
+472|宇宙船|うちゅうせん　a spaceship; a spacecraft
+472|造船|ぞうせん　shipbuilding
+472|風船|ふうぜん　a balloon
+472|船長|せんちょう　a captain; a skipper; the length of a ship
+472|船便で|ふなびんで　by ship [water, sea]; (send a letter) by sea
+473|追う|おう　to run after; to chase; to trail; to drive away; to herd
+473|追い付く|おいつく　to catch up (with); to overtake; to gain on
+473|追記|ついき　a postscript (P.S.)
+473|追加する|ついかする　to add a thing (to); to make an addition (to)
+473|追い掛ける|おいかける　to run after [chase] (a person); to pursue
+473|追い越す|おいこす　to pass; to get ahead (of); to outrun; to surpass
+474|検査|けんさ　(an) inspection; (an) examination; a test; a check
+474|審査する|しんさする　to judge; to examine; to inspect; to investigate
+474|巡査|じゅんさ　a policeman; a cop; a police officer
+474|血液検査|けつえきけんさ　a blood test
+474|調査する|ちょうさする　to investigate (into); to examine; to find out
+474|監査|かんさ　inspection; an audit; auditing
+475|背|せい　height; stature
+475|背中|せなか　the back (of the body)
+475|背負う|せおう　to carry on one's back; to be burdened with
+475|背広|せびろ　a (business) suit
+475|背|せ　the back; height; stature; the back (side)
+475|背く|そむく　to go [act] against; to be contrary; to disobey
+476|観測|かんそく　(an) observation; a survey
+476|観念|かんねん　an idea; a notion; a sense; preparedness
+476|価値観|かちかん　(one's) values; one's sense of values
+476|観客|かんきゃく　a pectator; an [the] audience; a visitor
+476|観光|かんこう　sightseeing; tourism
+476|観察する|かんさつする　to observe; to watch (closely); to look at
+477|利息|りそく　interest (on a deposit [loan])
+477|息抜き|いきぬき　(take) a rest; a breather; (a) breathing space
+477|溜息|ためいき　a sigh
+477|息子|むすこ　a son; a boy
+477|休息|きゅうそく　(a) rest; repose; (a) respite
+478|物価|ぶっか　prices (of commodities)
+478|定価|ていか　the list [marked, regular, fixed] price
+478|高価な|こうかな　expensive; high-priced; costly
+478|価格|かかく　(a) price; (a) value
+478|評価する|ひょうかする　to value; to estimate the value (of)
+478|価値|かち　value; worth; merit; a value
+479|主将|しゅしょう　the (team) captain
+479|大将|たいしょう　a (full) general; an admiral; a chief; a leader
+479|将棋|しょうぎ　Shogi; the Japanese version of chess
+479|将来|しょうらい　(the) future
+479|将軍|しょうぐん　a general; a shogun
+479|将来性のある|しょうらいせいのある　promising; hopeful; with a bright future
+480|改めて|あらためて　(over) again; another time; afresh; anew
+480|改正|かいせい　(a) revision; (an) amendment; (an) improvement
+480|改める|あらためる　to change; to alter; to revise; to examine
+480|改札|かいさつ　the examination of tickets; a ticket gate
+480|改造する|かいぞうする　to alter; to remodel; to revamp; to reorganize
+480|改善する|かいぜんする　to improve; to make a thing better
