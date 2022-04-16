@@ -120,6 +120,11 @@ namespace KanjiApp
                 {
                     if (repeatCards.Count > 0)
                     {
+                        int cardCount = cards.Count;
+                        int repeatCardCount = repeatCards.Count;
+                        int correctCardCount = cards.Count - repeatCards.Count;
+                        MessageBox.Show(String.Format("Correct: {0}\nMissed: {1}\nTotal Score {2}%", correctCardCount, repeatCardCount, Math.Round(correctCardCount * 100.0 / cardCount, 0)));
+
                         cards = new List<Card>(repeatCards);
                         repeatCards.Clear();
 
