@@ -2776,7 +2776,7 @@ Title=JLPT 3 Practice Deck
 476|観測|かんそく　(an) observation; a survey
 476|観念|かんねん　an idea; a notion; a sense; preparedness
 476|価値観|かちかん　(one's) values; one's sense of values
-476|観客|かんきゃく　a pectator; an [the] audience; a visitor
+476|観客|かんきゃく　a spectator; an [the] audience; a visitor
 476|観光|かんこう　sightseeing; tourism
 476|観察する|かんさつする　to observe; to watch (closely); to look at
 477|利息|りそく　interest (on a deposit [loan])

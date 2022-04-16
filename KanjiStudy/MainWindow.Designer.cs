@@ -72,6 +72,7 @@
             this.lw_kanji.HideSelection = false;
             this.lw_kanji.Location = new System.Drawing.Point(25, 171);
             this.lw_kanji.MaximumSize = new System.Drawing.Size(1194, 677);
+            this.lw_kanji.MultiSelect = false;
             this.lw_kanji.Name = "lw_kanji";
             this.lw_kanji.ShowItemToolTips = true;
             this.lw_kanji.Size = new System.Drawing.Size(1167, 626);

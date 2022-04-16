@@ -61,24 +61,21 @@ namespace KanjiApp
         }
         public bool LoadDeck(String filename)
         {
-            StreamReader kanjiFile = null;
+            String deckTitle = "";
+            List<Card> cards = new List<Card>();
 
             try
             {
-                kanjiFile = new StreamReader(filename);
+                IEnumerable<String> fileLines = File.ReadLines(filename);
 
-                List<Card> cards = new List<Card>();
-                
                 lw_kanji.BeginUpdate();
-
                 lw_kanji.Clear();
-
-                String deckTitle = "";
-                String line;
 
                 int lineNum = 0;
 
-                while ((line = kanjiFile.ReadLine()) != null)
+                //List<ListViewItem> listViewItems = new List<ListViewItem>();
+
+                foreach (String line in fileLines)
                 {
                     if (line.StartsWith("Title="))
                     {
@@ -105,6 +102,8 @@ namespace KanjiApp
                         itemToAdd = new ListViewItem(cardText[1]);
                         itemToAdd.Tag = cards.Count; // Set tag to index, should be current count before add
                         itemToAdd.ToolTipText = cardText[2];
+
+                        //listViewItems.Add(itemToAdd);
                         lw_kanji.Items.Add(itemToAdd);
                         cards.Add(new Card(Int32.Parse(cardText[0]), cardText[1], cardText[2]));
                     }
@@ -112,34 +111,8 @@ namespace KanjiApp
                     lineNum++;
                 }
 
+                //lw_kanji.Items.AddRange(listViewItems.ToArray());
                 lw_kanji.EndUpdate();
-
-                Deck newDeck = new Deck(deckTitle, cards);
-                newDeck.FileName = filename;
-
-                // Check duplicate (testing)
-                List<String> cardFrontTextList = new List<String>();
-                
-
-                foreach (Card card in newDeck.Cards)
-                {
-                    if (cardFrontTextList.Contains(card.FrontText))
-                    {
-                        Console.WriteLine("ID: " + card.BackText + " Found duplicate: " + card.FrontText);
-                    }
-                    else
-                    {
-                        cardFrontTextList.Add(card.FrontText);
-                    }
-                }
-
-                SharedResources.CurrentDeck = newDeck;
-                lbl_entry_count.Text = "Entries: " + SharedResources.CurrentDeck.Cards.Count;
-                lbl_card_count.Text = "Cards: " + getUniqueCardCount().ToString();
-
-                Properties.Settings.Default["LOADED_DECK"] = filename;
-                Properties.Settings.Default.Save();
-                return true;
             }
             catch (Exception ex)
             {
@@ -147,11 +120,35 @@ namespace KanjiApp
                 Console.WriteLine("Failed to load deck: " + ex.Message);
                 return false;
             }
-            finally
+
+            Deck newDeck = new Deck(deckTitle, cards);
+            newDeck.FileName = filename;
+
+            //lw_kanji.Visible = false;
+            // Check duplicate (testing)
+            /*
+            List<String> cardFrontTextList = new List<String>();
+
+            foreach (Card card in newDeck.Cards)
             {
-                if (kanjiFile != null)
-                    kanjiFile.Close();
+                if (cardFrontTextList.Contains(card.FrontText))
+                {
+                    Console.WriteLine("ID: " + card.BackText + " Found duplicate: " + card.FrontText);
+                }
+                else
+                {
+                    cardFrontTextList.Add(card.FrontText);
+                }
             }
+            */
+
+            SharedResources.CurrentDeck = newDeck;
+            lbl_entry_count.Text = "Entries: " + SharedResources.CurrentDeck.Cards.Count;
+            lbl_card_count.Text = "Cards: " + getUniqueCardCount().ToString();
+
+            Properties.Settings.Default["LOADED_DECK"] = filename;
+            Properties.Settings.Default.Save();
+            return true;
         }
 
         private int getUniqueCardCount()
