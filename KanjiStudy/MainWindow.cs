@@ -24,7 +24,11 @@ namespace KanjiApp
         public MainWindow()
         {
             InitializeComponent();
+            this.Shown += MainWindow_Shown;
+        }
 
+        private void MainWindow_Shown(object sender, EventArgs e)
+        {
             if (Properties.Settings.Default["LOADED_DECK"] != null && !String.IsNullOrEmpty(Properties.Settings.Default["LOADED_DECK"].ToString()))
             {
                 if (!LoadDeck(Properties.Settings.Default["LOADED_DECK"].ToString()))
