@@ -2802,3 +2802,63 @@ Title=JLPT 3 Practice Deck
 480|改札|かいさつ　the examination of tickets; a ticket gate
 480|改造する|かいぞうする　to alter; to remodel; to revamp; to reorganize
 480|改善する|かいぜんする　to improve; to make a thing better
+481|失敗|しっぱい　failure; defeat; a mistake; a blunder; a flop
+481|失う|うしなう　to lose; to miss
+481|失礼な|しつれいな　rude; impolite; discourteous; impertinent
+481|過失|かしつ　a fault; a mistake; a blunder; an error
+481|失業する|しつぎょうする　to lose one's job; to get fired
+481|失恋|しつれん　unrequited love; disappointment in love
+482|温泉|おんせん　a hot [thermal] spring; a spa
+482|源泉徴収|げんせんちょうしゅう　deducting tax from income at source
+482|源泉|げんせん　a source; the fountainhead
+482|間欠泉|かんけつせん　a geyser
+482|冷泉|れいせん　a cold [mineral] spring [spa]
+482|泉|いずみ　a spring; a fountain; a wellspring (of knowledge)
+483|老人|ろうじん　an old [elderly, aged] person; the old [aged]
+483|老眼|ろうがん　farsightedness due to old age; prebyopia
+483|老ける|ふける　to grow [become] old; to advance in years
+483|初老の|しょろうの　elderly; middle-aged
+483|老いる|おいる　to grow old; to age
+483|敬老の日|けいろうのひ　Respect-for-the-Aged [Seniors'] Day
+484|仲良し|なかよし　a good [an intimate] friend; a pal; a buddy
+484|改良する|かいりょうする　to improve (a plan); to reform
+484|良好な|りょうこうな　good; fine; excellent; satisfactory
+484|心地良い|ここちよい　comfortable; pleasant; agreeable
+484|良い天気|よいてんき　good [favorable] weather
+484|不良|ふりょう　bad [poor] quality; badness; evil; depravity
+485|展示|てんじ　exhibition; display
+485|指示する|しじする　to instruct; to issue instructions (to); to show
+485|表示|ひょうじ　(an) indication; (an) expression
+485|掲示する|けいじする　to post [put up] a notice (on a wall)
+485|示す|しめす　to show; to point a thing out; to tell; to indicate
+485|指し示す|さししめす　to point (to, at); to point out; to indicate
+486|番号|ばんごう　a number
+486|号泣する|ごうきゅうする　to weep bitter tears; to sob loudly
+486|符号|ふごう　a mark; a sign; a symbol; a code
+486|信号|しんごう　a signal; a traffic light [signal]; signaling
+486|暗証番号|あんしょうばんごう　a code number; a PIN number
+486|記号|きごう　a mark; a sign; a symbol
+487|像|ぞう　an image; a picture; a portarit; a figure [statue]
+487|肖像画|しょうぞうが　a portrait; a painted image
+487|映像|えいぞう　an image; a reflection
+487|画像|がぞう　a picture; an image; a portrait
+487|想像する|そうぞうする　to imagine; to fancy; to suppose; to see
+487|現像|げんぞう　developing (film); development
+488|職|しょく　work; employment; job; a position; an opening
+488|職人|しょくにん　a craftsman; an artisan; a workman
+488|就職する|しゅうしょくする　to find work [employment]; to get a job
+488|職に就く|しょくにつく　to get [obtain] a job; to gain employment
+488|職場|しょくば　one's place of work; a workplace
+488|職業|しょくぎょう　a job; an occupation; a profession; a trade
+489|王様|おうさま　a king; a monarch; His Majesty (the King)
+489|王|おう　a king; a ruler; a sovereign; a monarch
+489|国王|こくおう　a king; a monarch; a sovereign
+489|王子|おうじ　a Royal prince; a prince of the blood (royal)
+489|王女|おうじょ　a Royal princess; a princess of the blood
+489|女王|じょおう　a queen
+490|標識|ひょうしき　a sign; a mark; a signal; a marker
+490|常識|じょうしき　common sense; common knowledge
+490|知識|ちしき　knowledge; information; book learning; theory
+490|認識する|にんしきする　to recognize; to understand; to realize
+490|意識|いしき　consciousness; one's senses
+490|識別する|しきべつする　to distinguish [discriminate]; to discern
