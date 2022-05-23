@@ -2862,3 +2862,33 @@ Title=JLPT 3 Practice Deck
 490|認識する|にんしきする　to recognize; to understand; to realize
 490|意識|いしき　consciousness; one's senses
 490|識別する|しきべつする　to distinguish [discriminate]; to discern
+491|警告する|けいこくする　to warn; to caution; to admonish
+491|警察|けいさつ　the police
+491|警報機|けいほうき　an alarm
+491|警官|けいかん　a police officer; a policeman; a cop
+491|警備する|けいびする　to guard; to keep guard; to defend; to police
+491|警察犬|けいさつけん　a police dog
+492|俳優|はいゆう　an actor; an actress
+492|女優|じょゆう　a woman actor; an actress
+492|優しい|やさしい　gentle(-mannered); tender; affectionate; kind
+492|優秀な|ゆうしゅうな　excellent; superior; distinguished
+492|優勝|ゆうしょう　a victory; a championship
+492|優れる|すぐれる　to be better; to be superior; to excel (at tennis)
+493|投票する|とうひょうする　to vote (for, against); to cast a ballot (for)
+493|投資|とうし　(an) investment
+493|投げ付ける|なげつける　to throw [fling] a thing (at); to throw down
+493|投手|とうしゅ　a (baseball) pitcher
+493|投げる|なげる　to throw; to hurl; to pitch; to abandon; to throw away
+493|投書|とうしょ　a contribution; a letter (to the editor)
+494|細かい|こまかい　small; fine; detailed; exact; stingy; thrifty; subtle
+494|細心の|さいしんの　careful; meticulous; scrupulous; prudent
+494|細かいお金|こまかいおかね　small change; a small sum of money
+494|細い|ほそい　thin; narrow; fine; slim; slender
+494|心細い|こころぼそい　helpless and uneasy; hopeless; lonely
+494|細工|さいく　work; handicraft; craftsmanship; a trick; a device
+495|結局|けっきょく　finally; after all; in the end; in the long run
+495|局所麻酔|きょくしょますい　local anesthesia
+495|郵便局|ゆうびんきょく　a post office
+495|薬局|やっきょく　a drugstore; a pharmacy
+495|テレビ局|テレビきょく　a television [TV] station
+495|局面|きょくめん　phase (of events); situation; the position of a game
