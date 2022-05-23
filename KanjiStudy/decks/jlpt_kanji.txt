@@ -2892,3 +2892,33 @@ Title=JLPT 3 Practice Deck
 495|薬局|やっきょく　a drugstore; a pharmacy
 495|テレビ局|テレビきょく　a television [TV] station
 495|局面|きょくめん　phase (of events); situation; the position of a game
+496|盗難|とうなん　(a) robbery; (a) theft; (a) burglary
+496|困難な|こんなんな　difficult; hard; troublesome; trying
+496|難しい|むずかしい　hard; difficult; tough; troublesome; sullen; glum
+496|災難|さいなん　a misfortune; (a) disaster; (a) calamity; a catastrophe
+496|非難する|ひなんする　to criticize (for); to blame (for); to censure
+496|有り難い|ありがたい　kind; welcome; gracious; thankful
+497|種類|しゅるい　a kind; a sort; a variety; a species; a type
+497|人種|じんしゅ　a race; an ethnic group
+497|種|たね　a seed; a pip; a kernel; sperm; semen; a breed
+497|機種|きしゅ　kinds [types] of airplanes [machines]; a model
+497|一種|いっしゅ　a kind; a sort; a species; a variety
+497|悩みの種|なやみのたね　a source of anxiety; a cause of anguish
+498|念を入れる|ねんをいれる　to pay attention (to); to be careful (in doing)
+498|念じる|ねんじる　to wish; to pray (silently); to recite in one's mind
+498|記念|きねん　commemoration
+498|念を押す|ねんをおす　to remind a person (of); to make sure (of, that)
+498|残念な|ざんねんな　regrettable; unfortunate; disappointing
+498|観念|かんねん　an idea; a notion; a sense; preparedness
+499|寄る|よる　to come near; to meet; to get together; to stop over
+499|片寄る|かたよる　to lean (toward); to be biased; to be one-sided
+499|近寄る|ちかよる　to go [come] near; to step up to; to approach
+499|年寄り|としより　an old man [woman]; a senior (citizen)
+499|寄付|きふ　(a) contribution; (a) donation
+499|最寄りの|もよりの　the nearest; nearby
+500|商社|しょうしゃ　a trading company [firm]
+500|商売|しょうばい　business; trade; commerce; an occupation
+500|商品|しょうひん　a commodity; a product; merchandise; goods
+500|商業|しょうぎょう　commerce; business; trade
+500|商う|あきなう　to deal in (imported goods); to sell
+500|商店|しょうてん　a store; a shop
