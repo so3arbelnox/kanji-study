@@ -2979,3 +2979,64 @@ Title=JLPT 3 Practice Deck
 510|差し上げる|さしあげる　to lift (up); to raise; to give; to present
 510|交差する|こうさする　to cross [intersect] (each other)
 510|交差点|こうさてん　a crossing; an intersection; a crossroads
+511|苦い|にがい　(be, taste) bitter, sullen
+511|苦手|にがて　an undesirable opponent; one's weak point
+511|苦情|くじょう　a complaint; a grievance; objection(s)
+511|苦痛|くつう　(a) pain; a pang; suffering; agony; anguish
+511|苦しい|くるしい　painful; strenuous; hard; difficult; poor; destitute
+511|苦労する|くろうする　to have a hard time; to endure hardships
+512|容器|ようき　a container; a receptacle; a vessel
+512|器用な|きような　skillful; clever; dexterous
+512|器械|きかい　an instrument; an apparatus; an appliance
+512|食器|しょっき　tableware; a dinner [table] service
+512|受話器|じゅわき　a (telephone) receiver; a handset; earphones
+512|楽器|がっき　a musical instrument; an insturment
+513|収まる|おさまる　to be put (in); to be restored; to be settled
+513|収入|しゅうにゅう　(an) income; earnings; revenue(s); receipts
+513|収める|おさめる　to gain; to achieve; to put (back) in place
+513|領収する|りょうしゅうする　to receive (payment)
+513|収穫|しゅうかく　a crop; a harvest; a yield; the fruit (of labor)
+513|吸収する|きゅうしゅうする　to absorb; to soak up; to suck in
+514|普段|ふだん　usually; ordinarily; customarily; most of the time
+514|普段|ふだん　usually; ordinarily; customarily; most of the time
+514|階段|かいだん　stairs; staircase; stairway; a flight of stairs
+514|手段|しゅだん　a means; a way; a measure; a step; a device
+514|一段と|いちだんと　greater; more; further
+514|値段が安い|ねだんがやすい　inexpensive; the price (of a thing) is low
+514|段階|だんかい　a rank; a grade; a level; a gradation; a stage
+515|異常な|いじょうな　unusual; extraordinary; abnormal; singular
+515|異国|いこく　a foreign country; a strange land
+515|異例の|いれいの　exceptional; singular; inprecedented
+515|異なる|ことなる　to be different (from); to vary; to diverge
+515|意義がある|いぎがある　to have an objection (to)
+515|異性|いせい　the opposite sex; the other sex
+516|血友病|けつゆうびょう　hemophilia
+516|出血する|しゅっけつする　to bleed; to lose blood; to hemorrage
+516|輸血する|ゆけつする　to give a blood transfusion (to)
+516|血圧|けつあつ　blood pressure
+516|血|ち　blood; ancestry; birth; lineage
+516|血液|けつえき　blood
+517|渡す|わたす　to carry [take] across; to hand (over); to pay
+517|見渡す|みわたす　to look out (over the sea [a lake]); to look around
+517|渡る|わたる　to go [walk] across; to cross; to emigrate [migrate]
+517|渡航|とこう　a voyage; a passage
+517|手渡す|てわたす　to hand [deliver] a thing to a person
+517|渡米する|とべいする　to vist [go to] America [the United States]
+518|与える|あたえる　to give; to present (a person with a thing)　to give; to present (a person with a thing)
+518|授与する|じゅよする　to present [give] (an award to a person)
+518|与党|よとう　the Government party; the party in power
+518|関与する|かんよする　to participate (in); to take part (in)
+518|分け与える|わけあたえる　to distribute; to dispense; to hand out
+518|給与|きゅうよ　an allowance; pay; a salary; wages
+519|信条|しんじょう　a principle; a belief; a creed; a credo
+519|箇条書きする|かじょうがきする　to itemize
+519|条約|じょうやく　a treaty; a pact; an agreement; a convention
+519|要件|じょうけん　a condition; terms; a stipulation
+519|条例|じょうれい　regulations; rules; a law; a by-law; an act
+519|条件をのむ|じょうけんをのむ　to accept the [a person's] terms
+520|演習|えんしゅう　(a) practice; an excercise; (a) drill; a seminar
+520|演奏する|えんそうする　to perform (music); to give a recital; to play
+520|演劇|えんげき　drama; dramatic art; theater (arts); a play
+520|演説する|えんぜつする　to make [deliver, give] a speech
+520|演技|えんぎ　performance; acting
+520|講演|こうえん　a lecture; a talk; an address
