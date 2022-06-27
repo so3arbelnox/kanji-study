@@ -2922,3 +2922,60 @@ Title=JLPT 3 Practice Deck
 500|商業|しょうぎょう　commerce; business; trade
 500|商う|あきなう　to deal in (imported goods); to sell
 500|商店|しょうてん　a store; a shop
+501|谷川|たにがわ　a mountain stream [torrent]
+501|谷|たに　a valley, a ravine; a gorge; a trough
+501|峡谷|きょうこく　a gorge; a ravine; a glen; a canyon
+501|渓谷|けいこく　a ravine; a canyon; a (steep-walled) valley
+501|谷底|たにぞこ　the bottom of a ravine [gorge]; the valley floor
+501|谷間|たにま　a ravine; a gorge; a valley; cleavage
+502|災害|さいがい　a disaster; a calamity
+502|利害|りがい　(one's) interests; advantages and disadvantages
+502|損害|そんがい　damage; (an) injury; (a) loss; harm; casualties
+502|被害|ひがい　damage; harm; injury
+502|公害|こうがい　(environmental) pollution; contamination
+502|障害|しょうがい　an obstacle; a hindrance; a disorder; a disability
+503|奥さん|おくさん　a married lady; Mrs.; one's wife
+503|奥|おく　the interior; the inner part; the heart; the depths
+503|奥歯|おくば　a molar; a back tooth
+503|奥深い|おくぶかい　deep (forest); profound; abstruse; recondite
+503|奥州|おうしゅう　Oshu district (of northern Japan)
+503|奥行(き)|おくゆき　depth
+504|僕|ぼく　I, myself (used by men in addressing peers or inferiors)
+504|公僕|こうぼく　a civil [public] servant
+504|僕達|ぼくたち　we; us
+505|佐賀県|さがけん　Saga Prefecture (located in northwest Kyushu)
+505|中佐|ちゅうさ　a lieutenant colonel; a commander
+505|補佐する|ほさする　to assist; to aid; to help; to counsel; to advise
+505|少佐|しょうさ　a major; a lieutenant [wing] commander
+505|大佐|たいさ　a colonel; a captain
+505|佐藤さん|さとうさん　Mr. [Ms., Mrs.] Sato
+506|頼む|たのむ　to ask; to beg; to trust (in); to order; to hire
+506|信頼|しんらい　trust (in); confidence (in); reliance (on)
+506|頼もしい|たのもしい　dependable; reliable; hopeful; promising
+506|頼る|たよる　to rely (on); to look to for help; to fall back on
+506|依頼する|いらいする　to request [ask] a person to do; to rely on
+506|頼み|たのみ　(a) request; a favor; reliance; confidence; trust
+507|横書きする|よこがきする　to write horizontally (from left to right)
+507|横|よこ　the side; the flank; the width
+507|横切る|よこぎる　to cross; to go [cut] across; to fly across; to traverse
+507|横断歩道|おうだんほどう　a pedestrian crossing; a crosswalk
+507|横着な|おうちゃくな　lazy; remiss; brazen; cocky; cheeky
+507|横暴|おうぼう　oppression; tyranny
+508|再三|さいさん　again and again; over and over; repeatedly
+508|再来週|さらいしゅう　the week after next
+508|再来年|さらいねん　the year after next; two years from now
+508|再来月|さらいげつ　the month after next
+508|再開する|さいかいする　to meet again
+508|再び|ふたたび　twice; for the second time; again; once more
+509|増加|ぞうか　(an) increase; (a) gain; (a) rise
+509|増す|ます　to increase (in number); to gain; to grow; to rise
+509|増える|ふえる　to increase; to gain; to multiply; to rise; to breed
+509|増大|ぞうだい　enlargement; augmentation; (an) increase
+509|増減する|ぞうげんする　to increase and [or] decrease; to fluctuate
+509|増やす|ふやす　to increase; to raise; to add to; to multiply
+510|差|さ　(a) difference; a gap; (a) disparity; (a) balance
+510|差別|さべつ　discrimination
+510|人差し指|ひとさしゆび　the index finger; the first finger
+510|差し上げる|さしあげる　to lift (up); to raise; to give; to present
+510|交差する|こうさする　to cross [intersect] (each other)
+510|交差点|こうさてん　a crossing; an intersection; a crossroads
