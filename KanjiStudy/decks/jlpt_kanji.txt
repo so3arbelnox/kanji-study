@@ -3040,3 +3040,33 @@ Title=JLPT 3 Practice Deck
 520|演説する|えんぜつする　to make [deliver, give] a speech
 520|演技|えんぎ　performance; acting
 520|講演|こうえん　a lecture; a talk; an address
+521|計算する|けいさんする　to calculate; to reckon; to count; to sum
+521|割り算|わりざん　division (math)
+521|引き算|ひきざん　subtraction
+521|掛け算する|かけざんする　to multiply; to do multiplication
+521|算数|さんすう　arithmetic; calculation
+521|予算|よさん　an estimate (for, of); a budget
+522|警備|けいび　defense; guard
+522|設備|せつび　equipment; facilities; accommodation(s)
+522|予備|よび　preparation(s); a reserve; a spare; an extra
+522|準備する|じゅんびする　to prepare oneself (for); to arrange (for)
+522|備える|そなえる　to get a thing ready (for); to provide (for)
+522|整備|せいび　preparation; maintenance; service; a tune-up
+523|独り|ひとり　one person; one man
+523|独り言|ひとりごと　talking to oneself; a monologue
+523|独特の|どくとくの　special; unique; peculiar (to)
+523|独りで|ひとりで　alone; by oneself; for oneself
+523|独立する|どくりつする　to be [become] independent
+523|独身の|どくしんの　single; unmarried; bachelor
+524|抽象的な|ちゅうしょうてきな　abstract
+524|像|ぞう　an elephant
+524|対象|たいしょう　the subject (of); the target (of criticism)
+524|印象|いんしょう　(an) impression
+524|象牙|ぞうげ　ivory; an elephant tusk
+524|現象|げんしょう　a phenomenon (phenomena)
+525|清書|せいしょ　a fair [clean] copy
+525|清い|きよい　clean; clear; pure; platonic (love)
+525|清める|きよめる　to purify; to make a thing pure; to cleanse
+525|清潔な|せいけつな　clean; neat; pure; unpolluted
+525|清掃する|せいそうする　to clean
+525|清まる|きよまる　to be purified; to be cleansed
