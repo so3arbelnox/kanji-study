@@ -3070,3 +3070,15 @@ Title=JLPT 3 Practice Deck
 525|清潔な|せいけつな　clean; neat; pure; unpolluted
 525|清掃する|せいそうする　to clean
 525|清まる|きよまる　to be purified; to be cleansed
+526|演技する|えんぎする　to act; to play; to perform
+526|技|わざ　a performance; an art; a (judo) waza; a maneuver
+526|技術|ぎじゅつ　an art; (a) skill; (a) technique; technology
+526|技を磨く|わざをみがく　to improve one's skill
+526|競技|きょうぎ　a game; a match; a competition; an event
+526|技師|ぎし　an engineer; a technical expert
+527|中州|なかす　a river sandbar; a sandbank; a shoal
+527|本州|ほんしょう　Honshu; the main island of Japan
+527|九州|きゅうしゅう　southernmost of Japan's main islands
+527|テキサス州|テキサスしゅう　the State of Texas
+527|三角州|さんかくす　a delta
+527|欧州|おうしゅう　Europe
