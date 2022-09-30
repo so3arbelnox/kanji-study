@@ -3082,3 +3082,21 @@ Title=JLPT 3 Practice Deck
 527|テキサス州|テキサスしゅう　the State of Texas
 527|三角州|さんかくす　a delta
 527|欧州|おうしゅう　Europe
+528|申し込む|もうしこむ　to apply (for enrollment); to propose
+528|申す|もうす　to say; to talk (about); to state; to remark (on)
+528|申し上げる|もうしあげる　to tell; to say; to state; to mention; to relate
+528|申し訳ない|もうしわけない　to be very sorry for ...; to have no excuse for ...
+528|申告|しんこく　a report; a statement; a declaration; a return
+528|申請|しんせい　(an) application; (a) request; (a) petition
+529|例を挙げる|れいをあげる　to give [cite] an example [instance]
+529|例える|たとえる　to compare [liken] sth. (to); to use a metaphor
+529|例外|れいがい　an exception
+529|例文|れいぶん　an example [illustrative] sentence
+529|例えば|たとえば　for example; for instance; e.g.
+529|実例|じつれい　an example [instance]; a case in point
+530|景品|けいひん　a (free) gift; a giveaway
+530|風景|ふうけい　a landscape; scenery; a view; a sight; a scene
+530|光景|こうけい　a spectacle; a sight; a scene; a view
+530|景気|けいき　business (conditions); the market
+530|背景|はいけい　a background; scenery; the (social) background
+530|景色|けしき　scenery; a view; a lanscape; a scene
