@@ -3100,3 +3100,33 @@ Title=JLPT 3 Practice Deck
 530|景気|けいき　business (conditions); the market
 530|背景|はいけい　a background; scenery; the (social) background
 530|景色|けしき　scenery; a view; a lanscape; a scene
+531|大統領|だいとうりょう　the President (of the United States)
+531|領事|りょうじ　a consul
+531|領収書|りょうしゅうしょ　a receipt
+531|占領する|せんりょうする　to capture; to take; to seize; to occupy
+531|領域|りょういき　(a) territory; (a) domain; a field; a sphere
+531|要領|ようりょう　the (main) point; the gist; the knack; the hang
+532|抜く|ぬく　to pull [draw] out; to extract; to take out; to leave out
+532|抜本的な|ばっぽんてきな　radical; drastic
+532|栓抜き|せんぬき　a corkscrew; a bottle opener
+532|息抜き|いきぬき　(take) a rest; a breather; (a) breathing space
+532|抜ける|ぬける　to come [fall] out [off]; to go by; to escape
+532|選抜|せんばつ　selection; choice; picking out
+533|歩道橋|ほどうきょう　a footbridge; a pedestrian overpass
+533|桟橋|さんばし　a pier; a jetty; a wharf; a quay
+533|鉄橋|てっきょう　a railway bridge; a railroad bridge
+533|石橋|いしばし　a stone bridge
+533|橋渡しする|はしわたしする　to mediate (between); to arbitrate
+533|陸橋|りっきょう　a bridge (over a roadway); an overpass
+534|文芸|ぶんげい　literature; literary art; art and literature
+534|園芸|えんげい　gardening; horticulture; floriculture
+534|芸術|げいじゅつ　(an) art; (fine) arts
+534|手芸|しゅげい　handicrafts; craftwork
+534|芸人|げいにん　a performer; an artiste; an entertainer
+534|芸能|げいのう　public entertainment; the performing arts
+535|型|かた　a model; a pattern; an impression; a formula
+535|典型的な|てんけいてきな　typical; representative; ideal
+535|典型|てんけい　a model; a type; a pattern
+535|大型の|おおがたの　big; large; large-scale; large-sized; king-size(d)
+535|原型|げんけい　a model; a prototype; an archetype; a mold
+535|血液型|けつえきがた　a blood type [group]
