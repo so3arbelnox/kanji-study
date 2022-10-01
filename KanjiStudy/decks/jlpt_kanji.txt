@@ -3130,3 +3130,33 @@ Title=JLPT 3 Practice Deck
 535|大型の|おおがたの　big; large; large-scale; large-sized; king-size(d)
 535|原型|げんけい　a model; a prototype; an archetype; a mold
 535|血液型|けつえきがた　a blood type [group]
+536|絶える|たえる　to be discontinued; to cease; to become extinct
+536|連絡を絶つ|れんらくをたつ　to cut off communications (with)
+536|絶対に|ぜったいに　absolutely
+536|絶滅|ぜつめつ　extermination; eradication; extinction
+536|絶えず|たえず　constantly; incessantly; all the time; always
+536|絶やす|たやす　to root out; to put an end to; to run [be] out (of)
+537|香水|こうすい　(a) perfume; (a) scent
+537|香辛料|こうしんりょう　a spice; (cooking) spices
+537|香り|かおり　(a) smell; (a) scent; an aroma; (a) fragrance
+537|香川県|かがわけん　Kagawa prefecture (of Shikoku island)
+537|芳香剤|ほうこうざい　an aromatic
+537|香る|かおる　to smell sweet; to be fragrant
+538|負ける|まける　to lose (a game); to be beaten; to be defeated
+538|負け|まけ　a loss; a lost game; (a) defeat
+538|負担する|ふたんする　to bear; to shoulder; to foot [pick up] (the bill)
+538|言い負かす|いいまかす　to defeat a person in an argument
+538|勝負する|しょうぶする　to play; to fight; to have a match [bout]
+538|背負う|せおう　to carry on one's back; to be burdened with
+539|福祉|ふくし　welfare; well-being
+539|裕福な|ゆうふくな　rich; wealthy; well-off; well-to-do; affluent
+539|福井県|ふくいけん　Fukui prefecture (of the Chubu region)
+539|祝福する|しゅくふくする　to bless; to give a person one's blessing
+539|福袋|ふくぶくろ　a grab bag; a "mystery shopping bag"
+539|幸福な|こうふくな　happy; lucky; fortunate
+540|大企業|だいきぎょう　a big [large] corporation; big business
+540|企画|きかく　planning; a plan; a project; arrangements
+540|企てる|くわだてる　to try; to attempt; to plan; to plot; to aim
+540|中小企業|ちゅうしょうきぎょう　small and medium-sized enterprises
+540|企画書|きかくしょ　a proposal; a planning document
+540|殺害を企てる|さつがいをくわだてる　to attempt murder
