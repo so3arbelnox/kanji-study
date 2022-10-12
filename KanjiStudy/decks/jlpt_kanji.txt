@@ -3160,3 +3160,64 @@ Title=JLPT 3 Practice Deck
 540|中小企業|ちゅうしょうきぎょう　small and medium-sized enterprises
 540|企画書|きかくしょ　a proposal; a planning document
 540|殺害を企てる|さつがいをくわだてる　to attempt murder
+541|球|たま　a ball a bulb (i.e. a light bulb)
+541|地球|ちきゅう　the earth [Earth]; the globe
+541|野球|やきゅう　(play) baseball
+541|球場|きゅうじょう　a baseball field; a ballpark
+541|赤血球|せっけっきゅう　a red blood cell; an erythocyte
+541|電球|でんきゅう　a light bulb; an electric light bulb
+542|酒|さけ　liquor; (alcoholic) drink; booze; sake; wine
+542|居酒屋|いざかや　an izakaya; a (Japanese-style) bar
+542|酒場|さかば　a bar; a tavern; a saloon; a pub
+542|日本酒|にほんしゅ　sake
+542|飲酒運転
+|いんしゅうんてん　drunken driving
+542|地酒|じざけ　(a) local sake
+543|君|きみ　you; Hey, you!; Hey there!
+543|君達|きみたち　you (plural, informal)
+543|君臨する|くんりんする　to rule (over); re reign; to dominate
+543|君が代|きみがよ　Kimigayo (title of Japanese national anthem)
+543|君主|くんしゅ　a monarch; a sovereign; a ruler
+543|西田君|にしだくん　Mr. Nishida; Ms. Nishida
+544|量る|はかる　to measure; to weigh; to guess; to surmise
+544|測量する|そくりょうする　to measure; to survey; to take a survey (of)
+544|大量|たいりょう　a large [great] quantity (of); a lot (of)
+544|分量|ぶんりょう　a quantity; volume; mesure; an amount; a dose
+544|量が多い|りょうがおおい　be large in quantity
+544|重量|じゅうりょう　weight
+545|診察|しんさつ　(a) medical examination
+545|察する|さっする　to guess; to judge; to see [realize]; to feel (for)
+545|推察|すいさつ　a guess; (an) inference; (a) conjecture
+545|警察|けいさつ　the police
+545|観察する|かんさつする　to observe; to watch (closely); to look at
+545|警察官|けいさつかん　a police officer; a policeman [policewoman]
+546|望み|のぞみ　a wish; a desire; ambition(s); (a) hope; a chance
+546|希望する|きぼうする　to hope [wish] (to do); to desire; to expect
+546|高望みする|たかのぞみする　to be overambitious; to aim too high
+546|望遠鏡|ぼうえんきょう　a telescope
+546|失望|しつぼう　loss of hope; despair; dissapointment
+546|望む|のぞむ　to wish; to desire; to want; to expect; to hope (that)
+547|永久に|えいきゅうに　permanently; perpetually; eternally
+547|久しい|ひさしい　long; long-continued; longstanding
+547|耐久性|たいきゅうせい　durability; persistence; lasting quality
+547|久しぶりに|ひさしぶりに　after a long time [absence; separation]
+547|持久力|じきゅうりょく　endurance; stamina; perseverance
+547|恒久の|こうきゅうの　lasting; everlasting; permanent; eternal
+548|婚約|こんやく　an engagement; a betrothal
+548|結婚式|けっこんしき　a wedding ceremony
+548|離婚する|りこんする　to divorce; to get [be] divorced
+548|結婚|けっこん　marriage; matrimony
+548|求婚|きゅうこん　a proposal [offer] of marriage; courtship
+548|新婚旅行|しんこんりょこう　one's honeymoon
+549|単に|たんに　only; merely; just; simply; solely; alone
+549|単なる|たんなる　mere; simple
+549|単位|たんい　a unit; a credit; a denomination
+549|単語|たんご　a word
+549|簡単な|かんたんな　simple; easy; straightforward; light; brief
+549|単純な|たんじゅんな　simple; simple-minded
+550|押収する|おうしゅうする　to seize; to confiscate; to impound
+550|押す|おす　to push; to shove; to press (a button); to stamp
+550|押し花|おしばな　a pressed flower
+550|押さえる|おさえる　to press [hold] down; to catch; to arrest
+550|押入れ|おしいれ　a sliding-door closet [cupboard]
+550|押印する|おういんする　to seal; to affix a seal
