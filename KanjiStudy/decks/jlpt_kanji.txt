@@ -3164,7 +3164,7 @@ Title=JLPT 3 Practice Deck
 541|地球|ちきゅう　the earth [Earth]; the globe
 541|野球|やきゅう　(play) baseball
 541|球場|きゅうじょう　a baseball field; a ballpark
-541|赤血球|せっけっきゅう　a red blood cell; an erythocyte
+541|赤血球|せっけっきゅう　a red blood cell; an erythrocyte
 541|電球|でんきゅう　a light bulb; an electric light bulb
 542|酒|さけ　liquor; (alcoholic) drink; booze; sake; wine
 542|居酒屋|いざかや　an izakaya; a (Japanese-style) bar
