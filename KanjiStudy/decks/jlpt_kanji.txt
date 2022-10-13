@@ -3170,8 +3170,7 @@ Title=JLPT 3 Practice Deck
 542|居酒屋|いざかや　an izakaya; a (Japanese-style) bar
 542|酒場|さかば　a bar; a tavern; a saloon; a pub
 542|日本酒|にほんしゅ　sake
-542|飲酒運転
-|いんしゅうんてん　drunken driving
+542|飲酒運転|いんしゅうんてん　drunken driving
 542|地酒|じざけ　(a) local sake
 543|君|きみ　you; Hey, you!; Hey there!
 543|君達|きみたち　you (plural, informal)
