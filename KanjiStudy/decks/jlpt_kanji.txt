@@ -3220,3 +3220,63 @@ Title=JLPT 3 Practice Deck
 550|押さえる|おさえる　to press [hold] down; to catch; to arrest
 550|押入れ|おしいれ　a sliding-door closet [cupboard]
 550|押印する|おういんする　to seal; to affix a seal
+551|割れる|われる　to (be) split; to crack; to be cracked; to break
+551|割引|わりびき　(a) discount; (a) reduction
+551|役割|やくわり　a part; a role
+551|一割|いちわり　ten percent; (take) 10% (off the price)
+551|時間割|じかんわり　a timetable
+551|割り算|わりざん　division (math)
+552|限る|かぎる　to set a limit (to); to limit; to be the best (for)
+552|制限する|せいげんする　to restrict; to limit; to put restrictions (on)
+552|無限|むげん　infinity; eternity
+552|期限|きげん　a peroid (of time); a term; a time limit; a deadline
+552|限り|かぎり　a limit; limits; bounds
+552|限度|げんど　a limit; limits; bounds
+553|戻す|もどす　to return; to give back; to restore; to vomit
+553|巻き戻す|まきもどす　to rewind (the film); to set back (one's watch)
+553|元に戻す|もとにもどす　to put a thing back; to return to a former state
+553|戻る|もどる　to go [come, get] back; to return; to turn back
+553|返戻する|へんれいする　to return; to give back
+553|払戻す|はらいもどす　to refund; to pay back; to repay
+554|科目|かもく　a subject; a couse (of study); a curriculum
+554|百科事典|ひゃっかじてん　an encyclopedia
+554|外科|げか　(the science of) surgery; the surgical department
+554|学科|がっか　a subject of study; a school course; department
+554|科学|かがく　science
+554|教科書|きょうかしょ　a textbook; a schoolbook
+555|請求する|せいきゅうする　to ask for; to demand; to claim; to request
+555|求める|もとめる　to ask for; to request; to look for; to buy; to get
+555|請求書|せいきゅうしょ　a bill; an account
+555|要求|ようきゅう　a demand; a request; a claim; a requirement
+555|追い求める|おいもとめる　to chase; to pursue; to seek after
+555|欲求|よっきゅう　want(s); demands; requirements; an urge
+556|案外|あんがい　unexpectedly; contrary to one's expectation
+556|案|あん　an idea; a plan; a scheme; a proposal; a draft
+556|案じる|あんじる　to be anxious (about); to devise (a scheme)
+556|提案する|ていあんする　to propose; to suggest; to make an offer
+556|答案|とうあん　an answer
+556|案内する|あんないする　to guide; to lead; to show; to conduct
+557|会談|かいだん　a talk; a conference
+557|筆談する|ひつだんする　to converse in writing
+557|雑談する|ざつだんする　to chat (with); to engage in small talk (with)
+557|冗談|じょうだん　a joke; a jest; a wisecrack; a prank; a trick
+557|談話|だんわ　(a) talk; (a) conversation; a comment; a remark
+557|相談する|そうだんする　to consult; to discuss; to take counsel
+558|降りる|おりる　to get [go, come] down; to get off (the train)
+558|下降|かこう　a fall; a drop; a descent; a decline; a downturn
+558|昇降機|しょうこうき　an elevator; a lift
+558|降る|ふる　to fall; to come down; to rain; to snow
+558|降ろす|おろす　to drop (a passenger) off; to unload; to demote
+558|以降|いこう　after (this); from now on; in (the) future; hereafter
+559|妻|つま　a wife
+559|妻子|さいし　one's wife and children; one's family
+559|愛妻家|あいさいか　a devoted husband
+559|人妻|ひとづま　a married woman; someone else's wife
+559|稲妻|いなづま　(a flash [bolt] of) lightning
+559|夫妻|ふさい　man [husband] and wife
+560|国境|こっきょう　the boundary; the border; the frontier
+560|境界|きょうかい　a boundary; a border; a demarcation
+560|境|さかい　a boundary; a border; the frontier
+560|県境|けんざかい　the prefectural border [boundary]
+560|環境|かんきょう　(an) environment; the surroundings; a milieu
+560|境目|さかいめ　a borderline (between); a boundary line
