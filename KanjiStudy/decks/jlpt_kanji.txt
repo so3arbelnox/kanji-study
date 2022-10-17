@@ -3031,7 +3031,7 @@ Title=JLPT 3 Practice Deck
 519|信条|しんじょう　a principle; a belief; a creed; a credo
 519|箇条書きする|かじょうがきする　to itemize
 519|条約|じょうやく　a treaty; a pact; an agreement; a convention
-519|要件|じょうけん　a condition; terms; a stipulation
+519|要件|ようけん　a condition; terms; a stipulation
 519|条例|じょうれい　regulations; rules; a law; a by-law; an act
 519|条件をのむ|じょうけんをのむ　to accept the [a person's] terms
 520|演習|えんしゅう　(a) practice; an excercise; (a) drill; a seminar
