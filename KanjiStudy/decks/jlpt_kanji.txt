@@ -3280,3 +3280,63 @@ Title=JLPT 3 Practice Deck
 560|県境|けんざかい　the prefectural border [boundary]
 560|環境|かんきょう　(an) environment; the surroundings; a milieu
 560|境目|さかいめ　a borderline (between); a boundary line
+561|熱心な|ねっしんな　eager; enthusiastic; keen; ardent
+561|熱|ねつ　heat; (one's) body heat; (a) fever; enthusiasm; zeal
+561|熱中する|ねっちゅうする　to be enthusiastic (for); to be crazy (about)
+561|熱い|あつい　hot; warm; sultry; heated
+561|加熱|かねつ　heating
+561|熱帯|ねったい　the tropics; the torrid zone
+562|策|さく　a plan; a policy; a scheme; a step; a measure
+562|政策|せいさく　(a) policy; political measures
+562|方策|ほうさく　a measure; a step; a plan; a scheme
+562|対策|たいさく　a measure; a countermeasure; a counter plan
+562|策を講じる|さくをこうじる　to conceive [work out] a plan; to take measures
+562|政策を立てる|せいさくをたてる　to shape [formulate, establish, frame] (a) policy
+563|浮上する|ふじょうする　to surface; to rise (from obscurity)
+563|浮かべる|うかべる　to float; to set (a boat) afloat; to show; to express
+563|浮かぶ|うかぶ　to float; to come to the surface; to occur to (one)
+563|浮浪者|ふろうしゃ　a vagabond; a tramp; a bum; a loafer; a hobo
+563|浮く|うく　to float; to surface; to be left over
+563|浮かれる|うかれる　to be very happy; to be ecstatic; to cavort
+564|一階|いっかい　the first floor; the ground floor; the street floor
+564|階段|かいだん　stairs; staircase; stairway; a flight of stairs
+564|階級|かいきゅう　a class; (a) rank; a grade
+564|段階|だんかい　a rank; a grade; a level; a gradation; a stage
+564|二階建て|にかいだて　a double-decker (house)
+564|地階|ちかい　the basement
+565|上等の|じょうとうの　first-class [-rate]; very good; fine; superior
+565|平等に|びょうどうに　equally; evenly; impartially
+565|家具等|がくとう　furniture and the like [and so on, and what not]
+565|等しい|ひとしい　(be) equal to; (be) equivalent (to)
+565|高等学校|こうとうがっこう　a high shcool; a secondary school
+565|等分する|とうぶんする　to divide a thing equally; to share equally
+566|末っ子|すえっこ　the youngest child
+566|月末|げつまつ　the end of the month
+566|年末|ねんまつ　the end [close] of the year; the year-end
+566|結末|けつまつ　an end; a conclusion; a close; closure
+566|末長く|すえながく　forever; for a long time
+566|粗末な|そまつな　poor; plain; meager; humble; coarse; crude; shabby
+567|波|なみ　a wave; a billow; (a) swell; a surf; a breaker
+567|大波|おおなみ　a billow; a great wave of the sea; a swell
+567|余波|よは　high waves; an aftereffect; a side effect
+567|超音波|ちょうおんぱ　ultrasonic waves; ultrasound
+567|電波|でんぱ　a radio wave
+567|波及する|はきゅうする　to spread (to); to influence; to affect
+568|幸福|こうふく　happiness; well-being; welfare; good luck [fortune]
+568|幸せ|しあわせ　fortune; good fortune [luck]; happiness
+568|幸い|さいわい　happiness; felicity; bliss; good luck [fortune]
+568|海の幸|うみのさち　the products [bounty] of the sea
+568|不幸な|ふこうな　miserable; unhappy; unfortunate; unlucky
+568|幸運|こううん　good fortune; (good) luck; a lucky break
+569|移転する|いてんする　to remove [relocate] one's office
+569|移す|うつす　to move; to shift; to transfer; to infect a person
+569|移動|いどう　a movement; a transfer; (a) migration
+569|転位|てんい　(a) change; a transference;  metastasis
+569|移る|うつる　to move; to transfer; to change; to be infected
+569|推移|すいい　(a) transition; (a) change
+570|領域|りょういき　(a) territory; (a) domain; a field; a sphere
+570|地域|ちいき　a region; an area; a district; a zone
+570|音域|おんいき　(a) range; a register; (a) compass
+570|流域|りゅういき　a (drainage) basin; a (river) valley
+570|全域|ぜんいき　(through) the whole area; (in) all parts (of)
+570|区域|くいき　an area; a district; a zone; a territory
