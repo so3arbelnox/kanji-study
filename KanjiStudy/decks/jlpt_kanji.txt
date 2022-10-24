@@ -3340,3 +3340,62 @@ Title=JLPT 3 Practice Deck
 570|流域|りゅういき　a (drainage) basin; a (river) valley
 570|全域|ぜんいき　(through) the whole area; (in) all parts (of)
 570|区域|くいき　an area; a district; a zone; a territory
+571|草|くさ　grass; an [a] herb; a weed; a flower
+571|草履|ぞうり　thonged slippers [sandals]; (a pair of) zori
+571|草原|そうげん　a grass-covered plain; a savanna
+571|草分け|くさわけ　an early settler; a pioneer; a trailblazer
+571|雑草|ざっそう　weeds
+571|草取り|くさとり　weeding
+572|周囲|しゅうい　the circumference ;the perimeter; the periphery
+572|周期的に|しゅうきてきに　periodically
+572|一周する|いっしゅうする　to go [travel] around; to make a circuit of
+572|周り|まわり　(a) circumference; girth; surroundings
+572|円周|えんしゅう　circumference
+572|周辺|しゅうへん　the circumference; the perimeter; the periphery
+573|引っ越し|ひっこし　moving; moving house; a move; (a) removal
+573|優越感|ゆうえつかん　a superiority complex; an air of superiority
+573|越す|こす　to go [cross] over; to pass; to spend; to be over
+573|追い越す|おいこす　to pass; to get ahead (of); to outrun; to surpass
+573|越える|こえる　to pass; to cross; to go over; to get over
+573|乗(り)越し|のりこし　riding past (one's station)
+574|接する|せっする　to touch; to come in contact (with); to attend to
+574|関節の|かんせつの　indirect
+574|接続|せつぞく　(a) connection; joining
+574|接近する|せっきんする　to approach; to draw near; to get close (to)
+574|直接の|ちょくせつの　direct; immediate; firsthand
+574|面接|めんせつ　interviewing; an interview
+575|鉄砲|てっぽう　a gun; a rifle; firearms
+575|鉄人|てつじん　a very strong man [woman]; a man of iron
+575|私鉄|してつ　a private railroad [railway]; a railway (company)
+575|鉄橋|てっきょう　a railway bridge; a railroad bridge
+575|地下鉄|ちかてつ　the subway; the underground; the Tube; the Metro
+576|司書|ししょ　a librarian
+576|司会者|しかいしゃ　the chair; the chairperson; the president
+576|司法|しほう　the administration of justice; judicature
+576|司会する|しかいする　to take the chair (at a meeting); to preside
+576|上司|じょうし　one's superior(s); one's boss(es); one's chief
+576|寿司|すし　sushi; fish on vinegared rice
+577|登録|とうろく　registration; entry
+577|登校する|とうこうする　to go to shcool; to attend school
+577|登山|とざん　mountain-climbing; mountaineering
+577|登る|のぼる　to go up; to climb; to ascend; to scale
+577|登場する|とうじょうする　to enter the stage; to appear (on TV)
+577|山に登る|やまにのぼる　to climb [go up, ascend] a mountain
+578|親類|しんるい　a relation; a relative; a kinsman; kin(folk)
+578|衣類|いるい　clothing; clothes; garments
+578|人類|じんるい　man; mankind; the human race; humanity
+578|種類|しゅるい　a kind; a sort; a variety; a species; a type
+578|書類|しょるい　documents; papers
+578|分類する|ぶんるいする　to classify; to divide into classes; to group
+579|検索する|けんさくする　to look up; to search (for information)
+579|検事|けんじ　a public prosecutor
+579|検査する|けんさする　to inspect; to examine; to test; to check
+579|検討|けんとう　(an) examination; (an) investigation; study
+579|点検する|てんけんする　to inspect; to examine; to check
+579|検印|けんいん　a seal [stamp] of approval
+580|未満|みまん　under; below; less than
+580|未定の|みていの　undecided; unfixed; unsettled; uncertain
+580|未来|みらい　(the) future; time [days] to come; the future tense
+580|前代未聞の|ぜんだいみもんの　unheard-of; unprecedented
+580|未完成の|みかんせいの　unfinished; incomplete; imperfect
+580|未熟な|みじゅくな　unripe; immature; unskilled; inexperienced; green
