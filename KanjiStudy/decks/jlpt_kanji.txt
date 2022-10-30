@@ -3059,7 +3059,7 @@ Title=JLPT 3 Practice Deck
 523|独立する|どくりつする　to be [become] independent
 523|独身の|どくしんの　single; unmarried; bachelor
 524|抽象的な|ちゅうしょうてきな　abstract
-524|像|ぞう　an elephant
+524|象|ぞう　an elephant
 524|対象|たいしょう　the subject (of); the target (of criticism)
 524|印象|いんしょう　(an) impression
 524|象牙|ぞうげ　ivory; an elephant tusk
@@ -3306,7 +3306,7 @@ Title=JLPT 3 Practice Deck
 564|地階|ちかい　the basement
 565|上等の|じょうとうの　first-class [-rate]; very good; fine; superior
 565|平等に|びょうどうに　equally; evenly; impartially
-565|家具等|がくとう　furniture and the like [and so on, and what not]
+565|家具等|かぐとう　furniture and the like [and so on, and what not]
 565|等しい|ひとしい　(be) equal to; (be) equivalent (to)
 565|高等学校|こうとうがっこう　a high shcool; a secondary school
 565|等分する|とうぶんする　to divide a thing equally; to share equally
