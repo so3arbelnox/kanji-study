@@ -3399,3 +3399,63 @@ Title=JLPT 3 Practice Deck
 580|前代未聞の|ぜんだいみもんの　unheard-of; unprecedented
 580|未完成の|みかんせいの　unfinished; incomplete; imperfect
 580|未熟な|みじゅくな　unripe; immature; unskilled; inexperienced; green
+581|教材|きょうざい　teaching materials
+581|題材|だいざい　subject matter; material (for a novel); a theme
+581|材木|ざいもく　wood (for building); lumber; timber
+581|取材する|しゅざいする　to collect [gather] information
+581|木材|もくざい　wood; timber; lumber
+581|材料|ざいりょう　material(s); stuff; raw material(s); data
+582|一個|いっこ　one; a piece; a unit
+582|個室|こしつ　a private room; one's (own) room
+582|個人|こじん　an individual (person)
+582|個性|こせい　one's personality; individuality
+582|個々に|ここに　one by one; each; individually
+582|合わせて五個|あわせてごこ
+583|健康|けんこう　health; fitness
+583|健康保険|けんこうほけん　health insurance
+583|小康状態|しょうこうじょうたい　(a) remission; a lull
+583|健康に良い|けんこうによい　healthy; be good for one's health
+583|健康的な|けんこうてきな　healthy; sound; well
+583|不健康な|ふけんこうな　unhealthy; in bad [poor] health; unwholesome
+584|協力する|きょうりょくする　to cooperate (with); to work together
+584|妥協する|だきょうする　to compromise; to come to terms
+584|農協|のうきょう　an agricultural cooperative (association)
+584|協調|きょうちょう　(in) cooperation (with); harmony
+584|協議|きょうぎ　consultation; conference
+584|協会|きょうかい　a society; an association
+585|各々|おのおの　each; every
+585|各々の考えで|おのおののかんがえで　at individual discretion
+585|各自|かくじ　each (one); everyone
+585|各地|かくち　each place; everyplace; various places
+585|各駅停車|かくえきていしゃ　a local train
+585|各種の|かくしゅの　various; all sorts [kinds] of; a large variety of
+586|艦隊|かんたい　the Frigid Zone(s)
+586|熱帯|ねったい　the tropics; the torrid zone
+586|地帯|ちたい　a zone; a region; an area
+586|包帯|ほうたい　a bandage; a dressing
+586|温帯|おんたい　(North, South) Temperate Zone
+586|帯|おび　an obi; a sash; a belt
+587|定規|じょうぎ　a (measuring) ruler; a rule; a square
+587|規則|きそく　a rule; a regulation; rules; regulations
+587|規準|きじゅん　a standard; a yardstick; a criterion
+587|不規則な|ふきそくな　irregular
+587|規律|きりつ　discipline; order; rules; regulations
+587|規則正しい|きそくただしい　regular (as clockwork)
+588|歴代の|れきだいの　successive
+588|歴史|れきし　history; a history
+588|歴然たる|れきぜんたる　clear; obvious [undeniable] (fact); plain
+588|学歴|がくれき　one's educational [academic] background
+588|経歴|けいれき　one's career [record]; one's personal history
+588|履歴書|りれきしょ　one's personal history; a resume; one's CV
+589|予告編|よこくへん　a (movie) trailer; a preview
+589|編む|あむ　to knit; to braid; to crochet; to weave
+589|編集する|へんしゅうする　to edit; to compile
+589|三つ編み|みつあみ　a (hair) braid
+589|編み物|あみもの　knitting
+589|短編|たんぺん　a short story [piece]; a sketch; a short film
+590|裏返す|うらがえす　to turn [flip] over; to turn (a shirt) inside out
+590|裏面|りめん　the back; the inside; the other [reverse] side
+590|脳裏に浮かぶ|のうりにうかぶ　to cross one's mind; to occur to one
+590|裏口|うらぐち　the back [rear] door [entrance]
+590|裏表|うらおもて　the right side and the wrong side; ins and outs
+590|裏切る|うらぎる　to betray; to double-cross; to sell out
