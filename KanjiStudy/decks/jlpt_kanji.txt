@@ -3429,7 +3429,7 @@ Title=JLPT 3 Practice Deck
 585|各地|かくち　each place; everyplace; various places
 585|各駅停車|かくえきていしゃ　a local train
 585|各種の|かくしゅの　various; all sorts [kinds] of; a large variety of
-586|艦隊|かんたい　the Frigid Zone(s)
+586|寒帯|かんたい　the Frigid Zone(s)
 586|熱帯|ねったい　the tropics; the torrid zone
 586|地帯|ちたい　a zone; a region; an area
 586|包帯|ほうたい　a bandage; a dressing
