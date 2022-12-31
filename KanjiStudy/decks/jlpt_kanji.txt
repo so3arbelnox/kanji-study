@@ -3459,3 +3459,64 @@ Title=JLPT 3 Practice Deck
 590|裏口|うらぐち　the back [rear] door [entrance]
 590|裏表|うらおもて　the right side and the wrong side; ins and outs
 590|裏切る|うらぎる　to betray; to double-cross; to sell out
+591|精を出す|せいをだす　to work hard; to apply oneself (to a task)
+591|精々|せいぜい　to the utmost; as far as possible; at best [most]
+591|清算書|せいさんしょ　a fare adjustment office
+591|精神の|せいしんの　mental; spiritual; moral
+591|精一杯|せいいっぱい　to the best of one's ability; with all one's might
+591|精進する|しょうじんする　to devote oneself; to abstain from animal food
+592|軽率な|けいそつな　rash; hasty; impulsive; thoughtless
+592|効率のいい|こうりつのいい　efficient
+592|率直な|そっちょくな　honest; frank; candid; outspoken; plain
+592|率|りつ　a rate; a proportion; a ratio; percentage
+592|能率|のうりつ　efficiency
+592|確率|かくりつ　a probability
+593|抱く|だく　to hug; to hold a person in one's arms; to have sex
+593|抱く|いだく　to entertain (doubts); to hold in one's arms
+593|抱負|ほうふ　(an) ambition; (an) aspiration; one's hopes
+593|抱える|かかえる　to hold [carry] a thing in one's arms; to employ
+593|辛抱強い|しんぼうづよい　patient; persevering
+593|抱きしめる|だきしめる　to hug [embrace] a person close; to cuddle
+593|抱き枕|だきまくら　(a) dakimakura; (a) hugging pillow (belonging to a man [woman] of culture)
+594|比較する|ひかくする　to compare (A with B); to make a comparison
+594|比べる|くらべる　to compare [contrast] (two or more things)
+594|比例|ひれい　(a) proportion (of one thing to another)
+594|対比|たいひ　contrast; comparison
+594|比率|ひりつ　a ratio (ratios); (a) percentage
+594|比較的|ひかくてき　comparatively; relatively
+595|坂|さか　a (gentle, steep) slope; an incline; a hill
+595|急な坂|きゅうなさか　a preciitous slope
+595|下り坂|くだりざか　a downhill [downward] slope; a descent
+595|登坂車線|とはんしゃせん　a (climbing) lane for slower traffic
+595|坂道|さかみち　a hill; a sloping road; a slope
+595|上り坂|のぼりざか　an uphill slope; an upward slope; an ascent
+596|評価|ひょうか　valuation; estimation; assessment; appraisal
+596|評論|ひょうろん　(a) criticism; a review; (a) comment
+596|評判の|ひょうばんの　popular (with); famous; well-known
+596|過大評価|かだいひょうか　overestimation; overvaluation
+596|批評する|ひひょうする　to criticize; to review (a book); to critique
+596|好評である|こうひょうである　to be popular; to be well received (by critics)
+597|装う|よそおう　to dress oneself (in); to pretend (ignorance)
+597|服装|ふくそう　(a style of) dress; clothes
+597|衣装|いしょう　clothes; dress; wardrobe; (a) costume
+597|包装する|ほうそうする　to pack; to package; to wrap (up)
+597|内装|ないそう　interior design [decoration]; upholstery
+597|装置|そうち　(a) device; equipment; (an) apparatus; fittings
+598|省みる|かえりみる　to reflect (upon oneself); to introspect
+598|省エネ|しょうエネ　energy conservation; energy saving
+598|省く|はぶく　to leave [miss] out; to omit; to exclude
+598|厚生労働省|こうせいろうどうしょう　the Ministry of Health, Labor and Welfare
+598|省略する|しょうりゃくする　to omit; to leave a thing out; to abbreviate
+598|反省する|はんせいする　to reflect on one's past conduct; to regret
+599|課税する|かぜいする　to tax; to impose [levy] a tax [duty] (on)
+599|税別|ぜいべつ　tax not included (in price)
+599|免税|めんぜい　exemption from tax
+599|税金|ぜいきん　a tax; taxes; a duty (on)
+599|税関|ぜいかん　a customs house; customs
+599|税金を納める|ぜいきんをおさめる　to pay (one's) taxes
+600|大志|たいし　(an) ambition; (an) aspiration
+600|志願する|しがんする　to apply (for); to volunteer (for)
+600|志す|こころざす　to intend to do; to aim (at; to do); to aspire
+600|意志|いし　(a) will; volition
+600|志|こころざし　(an) ambition; (a) will; (an) intention; an aim
+600|闘志|とうし　(a) fighting spirit; (show) fight
