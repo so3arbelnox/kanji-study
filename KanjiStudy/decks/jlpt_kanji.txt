@@ -3579,3 +3579,63 @@ Title=JLPT 3 Practice Deck
 610|黄河|こうが　the Yellow River; the Huang He [Hwang-ho]
 610|河口|かこう　the mouth of a river; an estuary
 610|運河|うんが　a canal; an artificial waterway
+611|木製の|もくせいの　wooden; made of wood
+611|作製|さくせい　manufacture; production; (a) make
+611|日本製|にほんせい　of Japanese make; Made in Japan
+611|製作する|せいさくする　to manufacture; to make; to produce
+611|製品|せいひん　manufactured goods [articles]; a product
+611|製造する|せいぞうする　to make; to manufacture; to turn out
+612|娘|むすめ　a daughter
+612|一人娘|ひとりむすめ　an only daughter
+612|看板娘|かんばんむすめ　a pretty daughter who attracts customers to as shop 
+612|箱入り娘|はこいりむすめ　a daughter who has been brought up carefully
+612|娘心|むすめごころ　a girlish mind; girlish innocence
+612|愛娘|まなむすめ　a [one's] beloved daughter
+613|逃れる|のがれる　to escape; to get away [off]; to evade
+613|逃げる|にげる　to run away [off]; to escape; to shirk (one's duty)
+613|言い逃れる|いいのがれる　to make an evasive answer [excuses]
+613|逃走|とうそう　(an) escape; flight
+613|逃がす|にがす　to let a person go [off]; to let a person escape
+613|逃す|のがす　to let a person go [off]; to let a person escape; to miss
+614|探る|さぐる　to feel for; to probe (into); to spy on; to fish for
+614|探偵|たんてい　a detective; an investigator
+614|探す|さがす　to look for; to search for; to seek; to hunt for
+614|探検|たんけん　(an) exploration; an expedition
+614|手探りする|てさぐりする　to grope [feel, fumble] (for, after)
+614|職を探す|しょくをさがす　to seek employment; to hunt for a job
+615|南極|なんきょく　the South Pole
+615|見極める|みきわめる　to get to the bottom; to ascertain; to make out
+615|積極的な|せっきょくてきな　positive; active; aggressive; enterprising
+615|極小さい|ごくちいさい　very small; tiny
+615|北極|ほっきょく　the North Pole
+615|消極的な|しょうきょくてきな　passive; halfhearted; unenterprising
+616|防水の|ぼうすいの　waterproof; water-resistant
+616|消防署|しょうぼうしょ　a fire station
+616|防止する|ぼうしする　to prevent; to check; to head off; to arrest
+616|予防|よぼう　prevention (of); protection (from); (a) precaution
+616|防犯|ぼうはん　crime prevention; prevention of crime(s)
+616|防ぐ|ふせぐ　to prevent; to guard against; to stop; to defend
+617|犯す|おかす　to commit; to violate (a rule); to infringe (on)
+617|防犯|ぼうはん　crime prevention; prevention of crime(s)
+617|犯人|はんにん　a culprit; a criminal; an offender
+617|犯罪|はんざい　an offense; a crime
+617|罪を犯す|つみをおかす　to commit a crime (a murder, a sin); to sin
+617|犯行|はんこう　a criminal act [offense]; a crime; an offense
+618|花園|はなぞの　a flower garden
+618|幼稚園|ようちえん　a kindergarden; a nursery (school)
+618|遊園地|ゆうえんち　an amusement park; a fun fair
+618|動物園|どうぶつえん　a zoo; zoological gardens
+618|園芸|えんげい　gardening; horticulture; floriculture
+618|公園|こうえん　a park; a public garden park; a square
+619|容疑者|ようぎしゃ　a suspect; a suspected person
+619|疑わしい|うたがわしい　doubtful; questionable; dubious; uncertain
+619|疑問|ぎもん　(a) doubt; a problem; (a) question
+619|疑う|うたがう　to doubt; to be suspicious; to be distrustful (of)
+619|疑惑|ぎわく　(a) doubt; (a) suspicion
+619|疑いが晴れる|うたがいがはれる　to be cleared of a charge
+620|導く|みちびく　to guide; to conduct; to show [usher] in; to lead
+620|盲導犬|もうどうけん　a guide dog; a seeing eye dog
+620|導き出す|みちびきだす　to draw (a conclusion); to deduce
+620|指導者|しどうしゃ　a leader; a guide; a coach; an instructor
+620|指導する|しどうする　to guide; to lead; to direct; to coach
+620|誘導する|ゆうどうする　to conduct; to lead; to guide
