@@ -3520,3 +3520,62 @@ Title=JLPT 3 Practice Deck
 600|意志|いし　(a) will; volition
 600|志|こころざし　(an) ambition; (a) will; (an) intention; an aim
 600|闘志|とうし　(a) fighting spirit; (show) fight
+601|労力|ろうりょく　labor; trouble; pains; effort
+601|労働|ろうどう　work; (manual) labor
+601|勤労感謝の日|きんろうかんしゃのひ　Labor Thanksgiving Day, 11/23
+601|苦労|くろう　trouble(s); hardship(s); toil; labor; cares; worries
+601|疲労|ひろう　tiredness; fatigue; weariness; exhaustion
+601|ご苦労様|ごくろうさま　Thank you very much for your trouble.
+602|競売|きょうばい　(an) auction; (a) sale by [at] auction
+602|競る|せる　to compete (with); to vie (with); to bid (for)
+602|競馬|けいば　horse racing; a horse race
+602|競う|きそう　to compete [contend, vie] (with a person)
+602|競技|きょうぎ　a game; a match; a competition; an event
+602|競争する|きょうそうする　to compete [vie] (with a person, for a thing)
+603|処方箋|しょほうせん　a (medical) prescription
+603|処分する|しょぶんする　to dispose of; to deal with; to punish
+603|処理|しょり　disposal; management; dealing (with); treatment
+603|応急処置|おうきゅうしょち　emergency [first-aid] treatment
+603|処女|しょじょ　a virgin; a maiden
+603|対処する|たいしょする　to cope [deal] with; to tackle; to meet
+604|退く|しりぞく　to move [go, step] backward; to retreat
+604|早退する|そうたいする　to leave (work, school) earlier than usual
+604|退屈な|たいくつな　tedious; boring; tiresome; dull; uninteresting
+604|退院する|たいいんする　to be discharged (from the hospital)
+604|引退する|いんたいする　to retire from an active life
+604|退ける|しりぞける　to drive (someone) away; to beat; to refuse; to reject
+605|自費で|じひで　at one's own [personal] expense
+605|費やす|ついやす　to spend; to consume; to waste; to squander
+605|消費|しょうひ　consumption
+605|交通費|こうつうひ　transportation expenses; a carfare
+605|会費|かいひ　membership fees [dues]
+606|是非|ぜひ　right and [or] wrong; by some means or other;  JISHO - certainly; without fail​
+606|非常|ひじょう　an emergency; a crisis; a disaster; a calamity
+606|非行|ひこう　a wrong; a wrongful act; a crime; a wrongdoing
+606|非常に|ひじょうに　very (much); greatly; extremely; exceedingly
+606|非営利団体|ひえいりだんたい　a nonprofit organization (NPO)
+606|非常識|ひじょうしき　lack of common sense
+607|周囲|しゅうい　the circumference; the perimeter; the periphery
+607|範囲|はんい　an extent; a scope; a range; limits; bounds
+607|囲む|かこむ　to enclose; to surround; to encircle; to besiege
+607|囲碁|いご　the game of Go
+607|雰囲気|ふんいき　(an) atmosphere; a mood; an ambience; an ambiance 
+607|取り囲む|とりかこむ　to surround; to crowd around; to encircle
+608|喜び|よろこび　(a) joy; (a) delifht; rejoicing; pleasure
+608|一喜一憂する|いっきいちゆうする　to be glad and sad by turns
+608|喜んで|よろこんで　cheerfully; joyfully; with pleasure; willingly
+608|喜ぶ|よろこぶ　to be glad (of, that); to be delighted (with)
+608|歓喜|かんき　(great) joy; delight; exultaiton
+608|喜怒哀楽|きどあいらく　one's emotions [feelings]
+609|窓辺に|まどべに　near [by] the window
+609|辺り|あたり　the neighborhood; the vicinity; about; around
+609|海辺|うみべ　the seashore; the beach; the seaside
+609|底辺|ていへん　the base (of a triangle); the bottom (of society)
+609|周辺|しゅうへん　the circumference; the perimeter; the periphery
+609|この辺に|このへんに　near [around] here; in this neighborhood
+610|河|かわ　a river; a stream; a brook
+610|河川|かせん　a river; rivers
+610|河原|かわら　a dry riverbed
+610|黄河|こうが　the Yellow River; the Huang He [Hwang-ho]
+610|河口|かこう　the mouth of a river; an estuary
+610|運河|うんが　a canal; an artificial waterway
