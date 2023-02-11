@@ -3461,7 +3461,7 @@ Title=JLPT 3 Practice Deck
 590|裏切る|うらぎる　to betray; to double-cross; to sell out
 591|精を出す|せいをだす　to work hard; to apply oneself (to a task)
 591|精々|せいぜい　to the utmost; as far as possible; at best [most]
-591|精算書|せいさんしょ　a fare adjustment office
+591|精算所|せいさんしょ　a fare adjustment office
 591|精神の|せいしんの　mental; spiritual; moral
 591|精一杯|せいいっぱい　to the best of one's ability; with all one's might
 591|精進する|しょうじんする　to devote oneself; to abstain from animal food
