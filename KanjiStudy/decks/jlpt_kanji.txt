@@ -3699,3 +3699,63 @@ Title=JLPT 3 Practice Deck
 630|度胸のある|どきょうのある　brave; bold; daring; courageous
 630|胸が焼ける|むねがやける　to get [have] heartburn
 630|胸を打つ|むねをうつ　to be touching; to move a person (deeply)
+631|北陸地方|ほくりくちほう　Hokuriku region (of Northern Japan)
+631|上陸する|じょうりくする　to land; to go ashore; to strike; to hit
+631|大陸|たいりく　a continent
+631|陸|りく　(the) land; (the) shore
+631|陸上競技|りくじょうきょうぎ　athletics; track and field events
+631|着陸する|ちゃくりくする　to land; to make a landing; to touch down
+632|倒す|たおす　to topple; to knock [push, throw] a thing down
+632|圧倒的な|あっとうてきな　overwhelming; overpowering
+632|倒産|とうさん　(a) bankruptcy; insolvency; a failure
+632|面倒|めんどう　trouble
+632|面倒臭い|めんどうくさい　(be) troublesome; (be) bothersome
+632|倒れる|たおれる　to fall (down); to collapse; to go bankrupt
+633|寝台|しんだい　a bed; a bedstead; a (sleeping) berth; a bunk
+633|昼寝|ひるね　an afternoon nap; a siesta
+633|寝巻き|ねまき　nightwear; nightclothes; pajamas; pj's; a nighty
+633|寝かす|ねかす　to put (a person) to sleep
+633|寝坊|ねぼう　a late riser; getting up late; late rising
+633|寝る|ねる　to lie down; to go to bead; to turn in; to go to sleep
+634|自宅|じたく　one's (own) house; one's home
+634|社宅|しゃたく　a company (-owned) house [dormitory]
+634|宅急便|たっきゅうびん　home delivery service
+634|住宅|じゅうたく　a house; a residence; a residential building
+634|山田さん宅|やまださんたく　Yamada's residence [house]
+634|帰宅する|きたくする　to return home
+635|医療|いりょう　medical care; medical treatment
+635|診療する|しんりょうする　to examine [see] (a patient)
+635|集中治療室|しゅうちゅうちりょうしつ　an intensive care unit [ICU]
+635|食事療法|しょくじりょうほう　dietary therapy
+635|療養|りょうよう　recuperation; convalescence; (a) medical treatment
+635|治療する|ちりょうする　to treat; to cure
+636|絵|え　a picture; a drawing; a painting; an illustration
+636|油絵|あぶらえ　an oil painting; oil painting
+636|絵画|かいが　a picture
+636|絵の具|えのぐ　paints; colors JISHO also written as 絵具
+636|似顔絵|にがおえ　a portrait; a likeness
+636|絵本|えほん　a picture book; an illustrated book
+637|諸説|しょせつ　various opinions [views, theories]
+637|諸国|しょこく　various [many] countries
+637|諸派|しょは　various (political) parties or factions
+637|諸問題|しょもんだい　various [many] problems [questions]
+637|諸君|しょくん　you; Gentlemen; My friends
+637|諸島|しょとう　(a group of) islands; an archipelago
+638|尾|お　a tail, rear; a (comet) trail; the foot of a mountain
+638|語尾|ごび　the end(ing) of a word [sentence]; a suffix
+638|尾を引く|おをひく　to have a lasting effect; to persist; to drag on
+638|尾行する|びこうする　to shadow; to tail (a suspect)
+638|猫の尾|ねこのお　a cat's tail
+638|尾を振る|おをふる　to wag [whisk, swish] one's tail
+639|株|かぶ　a stump; roots; stock [shares] (in a company); goodwill
+639|株式|かぶしき　(a) stock; shares
+639|切(り)株|きりかぶ　a (tree) stump; stubble
+639|株主|かぶぬし　a stockholder; a shareholder
+639|株を買う|かぶをかう　to buy stocks; to buy shares
+639|株式会社|かぶしきがいしゃ　a joint-stock corporation; a stock company
+640|破片|はへん　a broken piece; a fragment; a splinter; a shard
+640|破産|はさん　(a) bankruptcy; insolvency; a failure
+640|破れる|やぶれる　to be [get] torn; to rip; to tear; to break down
+640|破く|やぶく　to tear; to breach to break; to destroy
+640|破る|やぶる　to tear; to breach; to break; to destroy
+640|破壊する|はかいする　to destroy; to break; to demolish
