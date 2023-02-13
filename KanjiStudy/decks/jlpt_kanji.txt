@@ -3639,3 +3639,63 @@ Title=JLPT 3 Practice Deck
 620|指導者|しどうしゃ　a leader; a guide; a coach; an instructor
 620|指導する|しどうする　to guide; to lead; to direct; to coach
 620|誘導する|ゆうどうする　to conduct; to lead; to guide
+621|へその緒|へそのお　an umbilical cord
+621|由緒ある|ゆいしょある　of noble birth; historic (building)
+621|鼻緒|はなお　sandal (geta) straps; a (geta) thong
+621|一緒に|いっしょに　together; along with; simultaneously; en masse
+621|情緒|じょうしょ／じょうちょ　emotions(s); feeling(s); a mood　
+621|内緒|ないしょ　a secret
+622|静まる|しずまる　to become quiet; to calm down; to die down
+622|気を静める|きをしずめる　to calm down; to relax; to calm oneself
+622|静脈|じょうみゃく　a vein
+622|静かな|しずかな　quiet; silent; calm; still; peaceful; gentle; soft
+622|静かな|しずかな　quiet; silent; calm; still; peaceful; gentle; soft
+622|静岡県|しずおかけん　Shizuoka prefecture (of the Chubu area)
+622|冷静な|れいせいな　calm; cool(-headed)
+623|絵の具|えのぐ　paints; colors  JISHO - other form 絵具
+623|家具|かぐ　furniture
+623|文房具|ぶんぼうぐ　(an article of) stationery; writing materials
+623|道具|どうぐ　a tool; a utensil; an insturment
+623|具体的に|ぐたいてきに　concretely; materially; in the concrete
+623|具合|ぐあい　a condition; a state
+624|欠席する|けっせきする　to be absent (from); to fail to attend
+624|席に着く|せきにつく　to sit down; to take one's seat
+624|出席|しゅっせき　attendance; presence
+624|座席|ざせき　a seat
+624|客席|きゃくせき　a seat (in a stadium)
+624|空席|くうせき　a vacant [an unoccupied] seat
+625|高速の|こうそくの　high-speed; fast; express
+625|加速|かそく　acceleration
+625|早速|さっそく　directly; at once; immediately; promptly
+625|速達|そくたつ　express delivery; special delivery
+625|速い|はやい　quick; fast; speedy; rapid; swift; brisk  JISHO - more commonly 早い
+625|時速|じそく　speed per hour
+626|振舞う|ふるまう　to behave [conduct] oneself; to entertain
+626|舞台|ぶたい　a stage; the stage; a scene
+626|歌舞伎|かぶき　(the) kabuki
+626|見舞う|みまう　to visit; to inquire after (a person's health); to hit
+626|仕舞う|しまう　to end; to be finished; to put something away [back]
+627|宿る|やどる　to stop [stay](at); to take shelter (in); to dwell
+627|新宿区|しんじゅくく　Shinjuku ward (of Tokyo)
+627|宿題|しゅくだい　homework; an assignment
+627|宿泊|しゅくはく　(a) lodging; billeting; quartering
+627|雨宿りする|あまやどりする　to take shelter from rain
+627|宿|やど　a hotel; an inn; one's house
+628|方程式|ほうていしき　an equation
+628|日程|にってい　the day's program [schedule]; an agenda
+628|成る程|なるほど　I see!; Really!; indeed; to be sure
+628|先程|さきほど　a little while ago; some time ago
+628|過程|かてい　a process; a course
+628|程度|ていど　a degree; an extent; a grade; a standard; a limit
+629|丸い|まるい　round; circular; spherical; globular
+629|日の丸|ひのまる　the rising-sun flag; the national flag of Japan
+629|丸|まる　a circle; a ring
+629|丸める|まるめる　to make (a thing) round; to round
+629|弾丸|だんがん　a bullet; a shell; a shot
+629|丸二日|まるふつか　for a full two days
+630|胸中の|きょうちゅうの　in one's mind [heart]
+630|胸|むね　the breast; the chest; the bosom; the breasts
+630|胸囲|きょうい　one's chest [bust] measurement [girth]
+630|度胸のある|どきょうのある　brave; bold; daring; courageous
+630|胸が焼ける|むねがやける　to get [have] heartburn
+630|胸を打つ|むねをうつ　to be touching; to move a person (deeply)
