@@ -3759,3 +3759,63 @@ Title=JLPT 3 Practice Deck
 640|破く|やぶく　to tear; to breach to break; to destroy
 640|破る|やぶる　to tear; to breach; to break; to destroy
 640|破壊する|はかいする　to destroy; to break; to demolish
+641|従う|したがう　to obey; to comply with something; to follow; to observe
+641|従事する|じゅうじする　to be engaged; to attend to (one's work)
+641|従兄弟|いとこ　a (boy [male]) cousin
+641|従来の|じゅうらいの　conventional; traditional; existing; former
+641|従業員|じゅうぎょういん　an employee; a worker; the staff; personnel
+641|従姉妹|いとこ　a (girl [female]) cousin
+642|家庭|かてい　(a) home; a family; a household
+642|庭|にわ　a garden; a yard; a courtyard
+642|日本庭園|にほんていえん　a Japanese garden
+642|校庭|こうてい　a schoolyard; a playground; the campus
+642|中庭|なかにわ　a courtyard; a [an inner] court; a quadrangle
+642|母子家庭|ぼしかてい　a fatherless family; a single-mother family
+643|ガス管|ガスかん　a gas pipe; a gas main; a gas hose
+643|血管|けっかん　a blood vessel
+643|管理|かんり　administration; management; control; supervision
+643|管|くだ　a pipe; a tube; (plastic) tubing; a spool
+643|保管する|ほかんする　to keep; to have a thing in one's custody
+643|管理する|かんりする　to administer; to manage; to superintend
+644|新婦|しんぷ　a bride
+644|妊婦|にんぷ　a pregnant woman; an expectant mother
+644|主婦|しゅふ　a housewife; a homemaker
+644|婦人|ふじん　a lady; a woman; women; womankind
+644|夫婦喧嘩|ふうふげんか　a quarrel between husband and wife
+644|家政婦|かせいふ　a (paid) housekeeper; a maid (cleaning lady)
+645|仲裁|ちゅうさい　mediation; arbitration; intervention
+645|中|なか　relations; relationship; terms
+645|仲間|なかま　a companion; a friend; a partner; a mate
+645|仲直りする|なかなおりする　to make peace (with); **JISHO reconciliation; making up (with); being friends again; patching up a quarrel​
+645|仲介者|ちゅうかいしゃ　a mediator; a middleman; a broker
+645|仲良し|なかよし　a good [an intimate] friend; a pal; a buddy
+646|皮革|ひかく　hides (and skins); leather
+646|吊り革|つりかわ　a strap **JISHO has つり革  as the standard form
+646|革靴|かわぐつ　leather shoes
+646|変革|へんかく　(a) change; (a) reform; a revolution
+646|革命|かくめい　(a) revolution
+646|改革する|かいかくする　to reform; to reorganize; to innovate
+647|余る|あまる　to remain; to be left over
+647|余裕|よゆう　time [money](to spare); room; a surplus
+647|余計な|よけいな　too many [much]; excessive; unnecessary
+647|余分の|よぶんの　too much; excess; surplus; spare
+647|持て余す|もてあます　to be more than one can manage
+647|余り|あまり　the rest; the remainder; the remnant(s)
+648|展示する|てんじする　to exhibit; to display; to put a thing on display
+648|展望する|てんぼうする　to view; to survey; to have a look [around]
+648|展開する|てんかいする　to spread (out) (before one); to unfold
+648|展覧会|てんらんかい　an [a public] exhibition; an exhibit; a show
+648|発展する|はってんする　to develop; to grow; to expand; to evolve
+648|個展|こてん　a one-man[-woman] exhibition [show]
+649|訪問|ほうもん　a visit; a call
+649|訪れる|おとずれる　to visit; to go and see; to call (on a person)
+649|訪ねる|たずねる　to visit; to call (on a person); to go to see
+649|探訪する|たんぼうする　to (visit a place and) inquire (into)
+649|訪米|ほうべい　(make) a visit to the United States
+649|友人を訪ねる|ゆうじんをたずねる　to call on a friend
+650|負担|ふたん　a burden; a load; a charge; a responsibility
+650|肩に担ぐ|かたにかつぐ　to carry [bear] a thing on one's shoulder
+650|責任を担う|せきにんをになう　to shoulder responsibility
+650|担当する|たんとうする　to take charge (of); to be in charge (of)
+650|分担する|ぶんたんする　to share in (the work); to bear part (of)
+650|自己負担|じこふたん　paying one's own expenses [share]
