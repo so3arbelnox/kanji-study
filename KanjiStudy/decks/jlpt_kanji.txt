@@ -3819,3 +3819,63 @@ Title=JLPT 3 Practice Deck
 650|担当する|たんとうする　to take charge (of); to be in charge (of)
 650|分担する|ぶんたんする　to share in (the work); to bear part (of)
 650|自己負担|じこふたん　paying one's own expenses [share]
+651|冷房|れいぼう　air conditioning
+651|冷たい|つめたい　cold; chilly; cool; icy; freezing; coldhearted
+651|冷蔵庫|れいぞうこ　a refrigerator; an icebox; the fridge
+651|冷ます|さます　to cool; to let a thing cool [get cold]; to spoil
+651|冷える|ひえる　to grow cold; to get cold [chilly]; to cool down
+651|冷静な|れいせいな　calm; cool(-headed)
+652|効く|きく　to be effective (against); to have (an) effect (on)
+652|効率的な|こうりつてきな　efficient
+652|効力|こうりょく　(an) effect; efficacy; validity
+652|良く効く薬|よくきくくすり　a strong remedy
+652|有効な|ゆうこうな　valid; available; effective; effectual
+652|効果|こうか　(an) effect; effectiveness; efficacy; a result
+653|暮れる|くれる　to get [grow] dark; to end; to run out; to be over
+653|歳暮|せいぼ　a year-end gift; the end of the year; the year-end
+653|暮らす|くらす　to live; to make a living; to spend (one's time)
+653|年の暮れ|としのくれ　the end of the year; the year-end
+653|暮らし|くらし　a living; a [one's] livelihood; life; existence
+653|一人暮らし|ひとりぐらし　living alone; a single life; a solitary life
+654|腹|はら　the stomach; the belly; the abdomen; courage
+654|満腹である|まんぷくである　to have eaten [had] enough; to be full
+654|空腹|くうふく　hunger
+654|腹が立つ|はらがたつ　to get angry; to lose one's temper
+654|自腹を切る|じばらをきる　to pay for a thing out of one's own pocket
+654|腹が減る|はらがへる　to get hungry
+655|賞金|しょうきん　prize money; a prize; a (cash) reward
+655|鑑賞する|かんしょうする　to appreciate [enjoy] (art, music, a play)
+655|商品|しょうひん　a prize
+655|賞味期限|しょうみきげん　the expiration date; sell-by date
+655|受賞する|じゅしょうする　to award [give] a prize (to a person)
+655|一等賞|いっとうしょう　the first place prize
+656|危ない|あぶない　dangerous; risky; perilous; (be) in danger
+656|危険|きけん　(a) danger; (a) peril; (a) risk; a hazard
+656|危害|きがい　(an) injury; harm
+656|危ぶむ|あやぶむ　to be afraid (of, that...); to fear; to be skeptical
+656|危機|きき　a crisis [crises]; a critical moment
+656|危うい|あやうい　dangerous; risky; perilous; (be) in danger
+657|星|ほし　a star; one's star [destiny]; a culprit
+657|衛星|えいせい　a satelite; a moon
+657|星占い|ほしうらない　astrology; a horoscope
+657|星座|せいざ　a constellation
+657|火星|かせい　Mars
+657|流れ星|ながれぼし　a shooting star; a falling star
+658|特許権|とっきょけん　(buy) a patent (right)
+658|許可する|きょかする　to permit; to approve (of); to license
+658|許す|ゆるす　to forgive; to license; to allow (a person); to permit
+658|免許|めんきょ　a license; a permit; a certificate
+658|結婚を許す|けっこんをゆるす　to give permission to marry
+658|気を許す|きをゆるす　to let one's guard down
+659|回復する|かいふくする　to recover (from illness); to be [get] well
+659|復活する|ふっかつする　to come to life again; to revive
+659|復習する|ふくしゅうする　to review one's lessons
+659|往復|おうふく　a round trip
+659|修復する|しゅうふくする　to (repair and) restore (to its former state)
+659|反復|はんぷく　(a) repetition; (a) reiteration
+660|似る|にる　to be [look] like; to be similar to; to resemble
+660|真似る|まねる　to imitate; to mimic; to copy
+660|似合う|にあう　to suit; to match well; to be suitable
+660|類似|るいじ　(a) similarity; (a) resemblance; an analogy
+660|似顔絵|にがおえ　a portrait; a likeness
+660|真似|まね　(an) imitation; a mimicry; (a) pretense; (an) action
