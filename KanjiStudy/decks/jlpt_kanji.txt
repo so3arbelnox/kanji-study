@@ -3901,7 +3901,7 @@ Title=JLPT 3 Practice Deck
 664|冒険する|ぼうけんする　to venture; to run a risk; to take a chance
 664|陰険な|いんけんな　sly; wily; crafty; scheming; deceitful; insidous
 664|険悪な|けんあくな　nasty; ominous; ugly; black
-664|保健|ほけん　insurance
+664|保険|ほけん　insurance
 664|危険な|きけんな　dangerous; risky; unsafe; adventurous
 665|修める|おさめる　to cultivate; to study; to master; to pursue
 665|修繕|しゅうぜん　repair(s); mending; a refit; an overhaul
@@ -3939,3 +3939,63 @@ Title=JLPT 3 Practice Deck
 670|腰が重い|こしがおもい　to be slow in starting work; to be slow to act
 670|腰抜け|こしぬけ　a coward; a weak-kneed person; a chicken
 670|腰掛け|こしかけ　a chair; a bench; a stool; a seat
+671|著者|ちょしゃ　a writer; an author
+671|著しい|いちじるしい　remarkable; conspicuous; striking; notable
+671|著作権|ちょさくけん　(a) copyright
+671|著書|ちょしょ　a (literary) work; a book; one's writing
+671|著す|あらわす　to write; to publish [a book]
+671|著名な|ちょめいな　famous; noted; well-known; celebrated
+672|乱す|みだす　to disturb; to disarrange; to throw into disorder
+672|反乱|はんらん　a rebellion; a revolt; an uprising
+672|乱れる|みだれる　to fall into disorder; to be confused [chaotic]
+672|混乱|こんらん　confusion; disorder; chaos; a mess
+672|乱暴|らんぼう　violence; roughness; an outrage
+672|取り乱す|とりみだす　to be flurried [agitated, confused, upset]
+673|社章|しゃしょう　a company badge [emblem]
+673|第三章|だいさんしょう　the third chapter; Chapter 3
+673|章|しょう　a chapter; an emblem; a sign; a mark; a badge
+673|序章|じょしょう　an introductory chapter; an introduction
+673|文章|ぶんしょう　a sentence; a composition; prose; an essay
+673|勲章|くんしょう　a decoration; an order; a medal
+674|複雑な|ふくざつな　complicated; complex; intricate
+674|雑巾|ぞうきん　a floor cloth; a swab; a mop; a dustcloth
+674|雑用|ざつよう　incidental tasks; odd jobs; (household) chores
+674|雑音|ざつおん　noise; static; a jarring and grating noise
+674|雑誌|ざっし　a magazine; a (medical) journal; a periodical
+674|混雑|こんざつ　a jam; crowdedness; congestion; confusion
+675|バチカン宮殿|バチカンきゅうでん　the Vatican
+675|殿堂|でんどう　a palace; an edifice; a temple; a shrine
+675|神殿|しんでん　a shrine; a sanctuary; a Shinto shrine
+675|殿下|でんか　His [Her, Your] Highness
+675|山田殿|やまだどの　{formal honorific title} Yamada Esquire
+675|殿様|とのさま　a (feudal) lord
+676|布|ぬの　(a) cloth
+676|座布団|ざぶとん　a cushion; a zabuton
+676|毛布|もうふ　a blanket; a rug
+676|布団|ふとん　bedding; bedclothes; a set of futon(s)
+676|財布|さいふ　a purse; a wallet; a pocketbook; a billfold
+676|分布する|ぶんぷする　to be distributed; to range
+677|恐れ|おそれ　fear; terror; horror; dread; anxiety; awe; (a) danger
+677|恐ろしい|おそろしい　scary; frightening; terrible; fierce; awesome
+677|恐怖|きょうふ　(a) fear; terror; (a) fright; (a) dread; (a) panic
+677|恐喝する|きょうかつする　to threaten; to intimidate; to blackmail
+677|恐縮する|きょうしゅくする　to feel obliged; to be grateful; to be embarrassed
+677|恐れる|おそれる　to be afraid [scared] (of); to fear [dread] (that)
+678|値する|あたいする　to be worth (seeing); to deserve (praise)
+678|値段が高い|ねだんがたかい　the price (of a thing) is high
+678|値引き|ねびき　(a) discount; (a) reduction in price
+678|平均値|へいきんち　the average [mean] value; the mean
+678|数値|すうち　a numerical value
+678|価値|かち　value; worth; merit; a value
+679|方角|ほうがく　a point of the compass; a direction; a way
+679|四角|しかく　a quadrilateral; a four-sided figure; a square
+679|直角の|ちょっかくの　right-angled (corners)
+679|街角|まちかど　(at, on) a street corner; a street
+679|角度|かくど　an angle; a point of view; a viewpoint
+679|四つ角|よつかど　an intersection; crossroads; a (street) corner
+680|保健|ほけん　(preservation of) health [hygine]; sanitation
+680|健康|けんこう　health; fitness
+680|健やかな|すこやかな　healthy; sound
+680|健康に良い|けんこうによい　healthy; to be good for one's health
+680|国民健康保険|こくみんけんこうほけん　national health insurance
+680|不健康|ふけんこう　bad health; poor health; ill health
