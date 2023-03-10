@@ -3879,3 +3879,63 @@ Title=JLPT 3 Practice Deck
 660|類似|るいじ　(a) similarity; (a) resemblance; an analogy
 660|似顔絵|にがおえ　a portrait; a likeness
 660|真似|まね　(an) imitation; a mimicry; (a) pretense; (an) action
+661|片付く|かたづく　to be put in order; to be settled; to end
+661|片寄る|かたよる　to lean (toward); to be biased; to be one-sided
+661|片付ける|かたづける　to put a thing in order; to settle; to finish
+661|破片|はへん　a broken piece; a fragment; a splinter; a shard
+661|片道|かたみち　one way (street, trip)
+661|片仮名|かたかな　katakana; the square form of kana
+662|並ぶ|ならぶ　to stand in line; to form a line [queue]
+662|並列の|へいれつの　parallel
+662|人並みの|ひとなみの　common; ordinary; normal; average
+662|並立する|へいりつする　to stand side by side (with)
+662|並木|なみき　a row of trees; roadside trees
+662|並べる|ならべる　to line (things) up; to arrange; to put in order
+663|底|そこ　the bottom; the (river) bed; the sole
+663|徹底的に|てっていてきに　thoroughly; completely; (up) to the hilt
+663|川底|かわぞこ　the riverbed; the bottom of a river
+663|心底から|しんそこから　from the bottom of one's heart; sincerely
+663|海底|かいてい　the bottom of the ocean; the ocean floor
+663|靴底|くつぞこ　the sole (of a shoe); a shoe sole
+664|険しい|けわしい　steep; precipitous; severe; grim; depressing
+664|冒険する|ぼうけんする　to venture; to run a risk; to take a chance
+664|陰険な|いんけんな　sly; wily; crafty; scheming; deceitful; insidous
+664|険悪な|けんあくな　nasty; ominous; ugly; black
+664|保健|ほけん　insurance
+664|危険な|きけんな　dangerous; risky; unsafe; adventurous
+665|修める|おさめる　to cultivate; to study; to master; to pursue
+665|修繕|しゅうぜん　repair(s); mending; a refit; an overhaul
+665|研修|けんしゅう　study; training
+665|修まる|おさまる　to govern oneself; to conduct oneself well
+665|修正|しゅうせい　(a) revision; (a) modification; (a) correction
+665|修理する|しゅうりする　to repair; to mend; to fix; to refit; to service
+666|文化財|ぶんかざい　cultural assets [properties]
+666|財布|さいふ　a purse; a wallet; a pocketbook; a billfold
+666|家財道具|かざいどうぐ　household goods [effects]
+666|財政|ざいせい　finance(s); (one's) financial affairs
+666|財源|ざいげん　a source of revenue; funds; money resources
+666|財産|ざいさん　property; (material) possessions; a fortune
+667|遊泳|ゆうえい　swimming; (have) a swim; bathing; a bathe
+667|遊園地|ゆうえんち　an amusement park; a fun fair
+667|遊ぶ|あそぶ　to play; to amuse [enjoy, entertain] oneself
+667|浮遊する|ふゆうする　to float (in the air)
+667|遊び|あそび　playing; play; a game; a pastime; (a) recreation
+667|遊覧船|ゆうらんせん　a sightseeing [pleasure] boat
+668|温度|おんど　(a) temperature
+668|温まる|あたたまる　to get warm; to warm [heat] up; to be warmed
+668|気温|きおん　(an) air [atmospheric] temperature
+668|温める|あたためる　to warm (up); to heat (up)
+668|暖かい|あたたかい　warm (to the touch); lukewarm; heartwarming
+668|体温|たいおん　(a) body temperature
+669|登録する|とうろくする　to register; to enter; to put on record; to enroll
+669|録画|ろくが　video recording
+669|録音する|ろくおんする　to record (sound); to tape (audio)
+669|付録|ふろく　a supplement (to); an appendix [appendices] (to)
+669|世界記録|せかいきろく　a world record
+669|記録|きろく　recording; a record; a document; the archives
+670|腰|こし　the waist; the lower back; one's manner; demeanor
+670|腰痛|ようつう　lumbago; (a) pain in the lower back
+670|本腰を入れる|ほんごしをいれる　to set about (a task) in real earnest
+670|腰が重い|こしがおもい　to be slow in starting work; to be slow to act
+670|腰抜け|こしぬけ　a coward; a weak-kneed person; a chicken
+670|腰掛け|こしかけ　a chair; a bench; a stool; a seat
