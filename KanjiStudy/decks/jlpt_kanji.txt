@@ -4058,3 +4058,62 @@ Title=JLPT 3 Practice Deck
 690|準備|じゅんび　preparation(s); (preliminary) arrangements
 690|準決勝|じゅんけっしょう　a semifinal (game); the semifinals
 690|規準|きじゅん　a standard; a yardstick; a criterion
+691|委員|いいん　a committee member; a delegate
+691|委員長|いいんちょう　the (committee) chairperson
+691|委任する|いにんする　to entrust someone with a matter; to delegate
+691|委員会|いいんかい　a committee; a commission
+691|委託する|いたくする　to commission a person to do; to entrust
+691|委細|いさい　details; particulars; the whole story
+692|苦痛|くつう　(a) pain; a pang; suffering; agony; anguish
+692|痛み|いたみ　(a) pain; an ache; grief; damage; a bruise
+692|痛い|いたい　hurt; be painful; be sore; be tender
+692|痛む|いたむ　to have a pain; to ache; to hurt [pain] one
+692|お腹が痛い|おなかがいたい　have a stomachache
+692|頭痛|ずつう　(a) headache
+693|富士山|ふじさん　Mt. Fuji
+693|富豪|ふごう　a very wealthy [rich] person; a millionare
+693|資源に富む|しげんにとむ　to abound in natural resources
+693|富|とみ　riches; wealth; a fortune
+693|豊富な|ほうふな　abundant; ample; plentiful; rich
+693|富山県|とやまけん　Toyama prefecture (of the Hokuriku area)
+694|鎌倉|かまくら　Kamakura (city located in Kanagawa Prefecture)
+694|倉庫|そうこ　a warehouse; a storehouse; a packhouse; a depot
+694|胸倉を掴む|むなぐらをつかむ　to grab [seize] a person by the collar [lapel]
+694|倉に入れる|くらにいれる　to put something in a warehouse to store
+694|倉庫に預ける|そうこにあずける　to store something in a warehouse [storehouse]
+695|刻む|きざむ　to cut a thing (fine); to chop a thing up; to mince
+695|小刻みに|こきざみに　bit by bit; little by little; piecemeal
+695|彫刻|ちょうこく　(a) sculpture; (a) carving; (an) engraving
+695|遅刻する|ちこくする　to be late (for); to come (to work) late
+695|時刻|じこく　a [the] time; an [the] hour
+695|深刻な|しんこくな　serious; grave; somber
+696|鳴らす|ならす　to ring (a bell); to sound (a horn); to beat (a drum)
+696|鳴る|なる　to sound; to ring; to echo; to roar; to rumble
+696|悲鳴|ひめい　a scream; a shriek; a cry (for help)
+696|耳鳴り|みみなり　tinnitus; (have) a ringing [buzzing] in one's ears
+696|鳴く|なく　to howl; to roar; to bark; to yelp; to whine; to chirp
+696|共鳴|きょうめい　sympathy; (a) resonance
+697|辞令|じれい　a letter of appointment
+697|条令|じょうれい　regulations; rules; a law; an ordinance
+697|指令|しれい　an order; instructions; a directive; a command
+697|号令|ごうれい　a command; an order
+697|命令する|めいれいする　to order; to command; to give orders
+697|令嬢|れいじょう　your [his, her] daughter
+698|新刊|しんかん　(a) new publication [book]
+698|増刊号|ぞうかんごう　a special issue (of a magazine)
+698|夕刊|ゆうかん　an evening paper
+698|月刊|げっかん　a monthly publication
+698|朝刊|ちょうかん　a morning newspaper
+698|週刊雑誌|しゅうかんざっし　a weekly magazine [journal]
+699|施設|しせつ　facilities; an institution; a home (for orphaned children)
+699|施す|ほどこす　to do; to perform; to give (money) in charity
+699|施行する|しこう[せこう]する　to put into effect [force]; to enforce
+699|実施する|じっしする　to carry out; to hold; to enforce; to put into effect
+699|策を施す|さくをほどこす　to take (some) measures
+699|公共施設|こうきょうしせつ　public facilities [utilities]
+700|燃焼|ねんしょう　burning; combustion
+700|焼ける|やける　to burn; to be roasted; to be sunburned
+700|焼き肉|やきにく　Japanese dish of fried meat; Korean barbecue
+700|日焼け|ひやけ　(a) sunburn; (a) suntan; (a) tan
+700|焼く|やく　to burn; to set fire to; to cremate; to roast [grill, broil]
+700|焼却する|しょうきゃくする　to destroy a thing by fire; to incinerate
