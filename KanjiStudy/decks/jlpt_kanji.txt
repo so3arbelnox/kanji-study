@@ -3999,3 +3999,62 @@ Title=JLPT 3 Practice Deck
 680|健康に良い|けんこうによい　healthy; to be good for one's health
 680|国民健康保険|こくみんけんこうほけん　national health insurance
 680|不健康|ふけんこう　bad health; poor health; ill health
+681|仏壇|ぶつだん　a (household) Buddhist altar
+681|仏|ほとけ　(the) Buddha
+681|馬の耳に念仏|うまのみみにねんぶつ　in one ear and out the other
+681|仏滅|ぶつめつ　a very unlucky day; the Buddha's death
+681|仏教|ぶっきょう　Buddhism
+681|大仏|だいぶつ　a monumental image (statue) of Buddha
+682|積む|つむ　to pile [heap](up); to load; to ship; to put on board
+682|容積|ようせき　(cubic) capacity; volume; bulk
+682|体積|たいせき　(cubic) volume; cubic content(s)
+682|積極的に|せっきょくてきに　positively; actively; aggressively
+682|面積|めんせき　(an) area; square measure; size (of land)
+682|積もる|つもる　to heap [pile] up; to accumulate; to lie (on)
+683|永い|ながい　eternal; everlasting; lasting forever; long
+683|永住する|えいじゅうする　to reside permanently; to settle down
+683|永久に|えいきゅうに　permanently; perpetually; eternally
+683|永遠に|えいえんに　forever; for good; eternally; perpetually
+683|永続的な|えいぞくてきな　lasting; permanent; enduring
+683|末永く|すえながく　forever
+684|週刊誌|しゅうかんし　a weekly (magazine [journal, publication])
+684|日誌|にっし　a diary; a journal
+684|タイム誌|タイムし　Time Magazine
+684|月刊誌|げっかんし　a monthly magazine
+684|雑誌記者|ざっしきしゃ　a magazine writer [journalist]
+685|夢中で|むちゅうで　as if in a dream; frantically; madly; wildly
+685|夢|ゆめ　a dream; a vision; an illusion; a daydream
+685|正夢|まさゆめ　a prophetic dream; a dream which comes true
+685|夢を見る|ゆめをみる　to dream; to have [dream] a dream
+685|初夢|はつゆめ　one's first dream in the New Year
+685|悪夢|あくむ　a nightmare; a bad [an unpleasant] dream
+686|環状の|かんじょうの　ring-shaped; circular
+686|循環|じゅんかん　circulation; rotation; a cycle
+686|環指|かんし　the third finger; the ring finger
+686|悪循環|あくじゅんかん　(form) a vicious circle  JISHO - a vicious cycle
+686|環境|かんきょう　(an) environment; the surroundings; a milieu
+686|循環する|じゅんかんする　to recur; to go in cycles; to circulate
+687|故に|ゆえに　so (that); consequently; therefore; hence
+687|故郷|こきょう　one's (old) home; one's hometown [birthplace]
+687|事故|じこ　an accident; a breakdown; a failure; an incident
+687|故意に|こいに　intentionally; purposely; deliberately; knowingly
+687|故人|こじん　the deceased [departed]; the dead
+687|故障する|こしょうする　to develop trouble; to break down [go haywire]
+688|減らす|へらす　to reduce; to lessen; to decrease; to cut down (on)
+688|いい加減な|いいかげんな　random; irresponsible; vague; lukewarm
+688|減る|へる　to become fewer [less, smaller]; to decrease
+688|増減する|ぞうげんする　to increase and [or] decrease; to fluctuate
+688|腹が減る|はらがへる　to get hungry
+688|減少する|げんしょうする　to drop; to fall off; to lessen; to diminish
+689|略す(る)|りゃくす(る) 　to abbreviate; to shorten; to leave out
+689|略語|りゃくご　an abbreviation; an abbreviated word
+689|略|りゃく　(an) abbreviation; (an) abridgment; (an) omission
+689|攻略する|こうりゃくする　to capture (a city); to conquer (a country)
+689|概略|がいりゃく　an outline; a summary; a simple overview
+689|省略|しょうりゃく　(an) omission; (an) abridgement
+690|水準|すいじゅん　a water level; a level; a standard
+690|基準|きじゅん　a standard; a measure; a criterion (criteria)
+690|準じる|じゅんじる　to follow (the rule); to be based on
+690|準備|じゅんび　preparation(s); (preliminary) arrangements
+690|準決勝|じゅんけっしょう　a semifinal (game); the semifinals
+690|規準|きじゅん　a standard; a yardstick; a criterion
