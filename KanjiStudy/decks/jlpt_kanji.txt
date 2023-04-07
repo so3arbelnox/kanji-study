@@ -3845,7 +3845,7 @@ Title=JLPT 3 Practice Deck
 654|腹が減る|はらがへる　to get hungry
 655|賞金|しょうきん　prize money; a prize; a (cash) reward
 655|鑑賞する|かんしょうする　to appreciate [enjoy] (art, music, a play)
-655|商品|しょうひん　a prize
+655|賞品|しょうひん　a prize
 655|賞味期限|しょうみきげん　the expiration date; sell-by date
 655|受賞する|じゅしょうする　to award [give] a prize (to a person)
 655|一等賞|いっとうしょう　the first place prize
