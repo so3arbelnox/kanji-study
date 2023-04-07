@@ -3784,7 +3784,7 @@ Title=JLPT 3 Practice Deck
 644|夫婦喧嘩|ふうふげんか　a quarrel between husband and wife
 644|家政婦|かせいふ　a (paid) housekeeper; a maid (cleaning lady)
 645|仲裁|ちゅうさい　mediation; arbitration; intervention
-645|中|なか　relations; relationship; terms
+645|仲|なか　relations; relationship; terms
 645|仲間|なかま　a companion; a friend; a partner; a mate
 645|仲直りする|なかなおりする　to make peace (with); **JISHO reconciliation; making up (with); being friends again; patching up a quarrel​
 645|仲介者|ちゅうかいしゃ　a mediator; a middleman; a broker
