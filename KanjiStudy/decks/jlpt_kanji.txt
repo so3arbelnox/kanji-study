@@ -4117,3 +4117,63 @@ Title=JLPT 3 Practice Deck
 700|日焼け|ひやけ　(a) sunburn; (a) suntan; (a) tan
 700|焼く|やく　to burn; to set fire to; to cremate; to roast [grill, broil]
 700|焼却する|しょうきゃくする　to destroy a thing by fire; to incinerate
+701|意欲的な|いよくてきな　enthusiastic; enterprising; highly motivated
+701|欲しい|ほしい　to want; to esire; to wish (for)
+701|食欲|しょくよく　(an) appetite
+701|欲する|ほっする　to want (a thing, to do); to wish (to do); to desire
+701|欲張りな|よくばりな　greed; grasping; possessive; avaricious
+701|欲求|よっきゅう　want(s); demands; requirements; an urge
+702|途中で|とちゅうで　on the way; en route
+702|中途に［で］|ちゅうとに［で］　halfway; midway
+702|途端に|とたんに　just a the moment; just as ...; just then
+702|途切れる|とぎれる　to break (off); to pause; to be interrupted; to end
+702|途方に暮れる|とほうにくれる　to be bewildered; to be baffled; to be lost
+702|用途|ようと　to use
+703|曲がる|まがる　to bend; to curve; to be bent; to turn; to make a turn
+703|曲げる|まげる　to bend; to curve; to twist; to distort; to pervert
+703|新曲|しんきょく　a new musical composition; a new piece [song]
+703|曲線|きょくせん　a curved line; a curve
+703|作曲する|さっきょくする　to compose; to set to music; to write music
+703|曲がり角|まがりかど　a street corner; (an) intersection; a turning point
+704|完全な|かんぜんな　perfect; complete
+704|完了する|かんりょうする　to complete; to finish; to end; to be over
+704|未完成の|みかんせいの　unfinished; incomplete; imperfect
+704|完璧な|かんぺきな　perfect; flawless; impeccable
+704|完成|かんせい　completion; accomplishment
+704|完熟した|かんじゅくした　fully ripe; fully ripened
+705|郷里|きょうり　one's native town; one's home; one's hometown
+705|里帰り|さとがえり　a bride's visit to her parent's home; a homecoming
+705|里心がつく|さとごころがつく　to get homesick; to pine for one's home
+705|人里離れた|ひとざとはなれた　far from human habitation; far from town
+705|郷里に帰る|きょうりにかえる　to go home; to return to one's hometown
+705|悪事千里を走る|あくじせんりをはしる　Bad news travels quickly.
+706|お願いします|おねがいします　please; I beg [implore] you to (do)
+706|念願|ねんがん　one's dearest wish; one's heart's desire
+706|願望|がんぼう　(a) wish; (a) desire; (an) appplication
+706|願い|ねがい　a wish; a desire; (a) request; (an) application
+706|願書|がんしょ　an [a written] application [petition]
+706|願う|ねがう　to desire; to wish; to hope; to request; to pray
+707|罪|つみ　a crime; an offense; guilt; (a) sin; (a) punishment
+707|無罪|むざい　innocence; being not guilty; guiltlessness
+707|重い罪|おもいつみ　a serious (grave) crime
+707|犯罪|はんざい　an offense; a crime
+707|謝罪する|しゃざいする　to apologize (for); to be a pardon
+707|罪悪感|ざいあくかん　a sense of sin [guilt]
+708|圧迫|あっぱく　pressure; oppression
+708|気圧|きあつ　atmospheric [air] pressure
+708|圧縮する|あっしゅくする　to compress; to condense
+708|血圧|けつあつ　blood pressure
+708|圧力|あつりょく　pressure
+708|圧勝する|あっしょうする　to win (an overwhelming) victory (over)
+709|半額|はんがく　half the amount [sum, price, fare]
+709|差額|さがく　the difference; the balance
+709|額|ひたい　the forehead; the brow
+709|月額|げつがく　the monthly sum [amount]
+709|全額を払う|ぜんがくをはらう　to pay in full
+709|金額|きんがく　a sum [an amount] (of money)
+710|印鑑|きんかん　one's seal; the impression made by a seal
+710|矢印|やじるし　an arrow; a directing arrow; a sign post
+710|印刷|いんさつ　printing; presswork
+710|印象|いんしょう　(an) impression
+710|押印する|おういんする　to seal; to affix a seal
+710|目印|めじるし　a sign; a mark; a landmark; a guide
