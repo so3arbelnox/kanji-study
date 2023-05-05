@@ -4177,3 +4177,64 @@ Title=JLPT 3 Practice Deck
 710|印象|いんしょう　(an) impression
 710|押印する|おういんする　to seal; to affix a seal
 710|目印|めじるし　a sign; a mark; a landmark; a guide
+711|陰陽|いんよう　the (interacting) principles of Yin and Yang
+711|太陽系|たいようけい　the solar system
+711|陽射し|ひざし　the rays of the sun; sunlight; sunshine
+711|陽気な|ようきな　cheerful; jovial; merry; gay; lively
+711|陽性の|ようせいの　positive
+711|太陽|たいよう　the sun
+712|君臣|くんしん　sovereign and subject; lord and vassal 
+712|家臣|かしん　a vassal; a retainer
+712|臣下|しんか　a subject; a vassal; a retainer
+712|忠臣|ちゅうしん　a loyal [faithful] retainer [vassal, subject]
+712|財務大臣|ざいむだいじん　the Finance Minister
+712|大臣|だいじん　a minister (of state); a Cabinet minister
+713|倉庫|そうこ　a warehouse; a storehouse; a depot (building)
+713|冷凍庫|れいとうこ　a freezer; a deep freeze
+713|冷蔵庫|れいぞうこ　a refrigerator; an icebox; the fridge
+713|金庫|きんこ　a safe; a strongbox; a vault
+713|在庫|ざいこ　stock; goods in stock
+713|車庫|しゃこ　a garage; a carport; a depot; a train [car] shed
+714|滅亡|めつぼう　a fall; a downfall; ruin; collapse
+714|滅亡|めつぼう　a fall; a downfall; ruin; collapse
+714|未亡人|みぼうじん　a widow
+714|死亡|しぼう　death
+714|亡くなる|なくなる　to die; to pass away
+714|亡くす|なくす　to lose
+714|亡命する|ぼうめいする　to flee (one's country) for political reasons
+715|散らかす|ちらかす　to scatter (toys) (about); to mess up (a room)
+715|解散|かんさん　to breakup; dissolution; winding-up
+715|散る|ちる　to fall; to scatter; to disperse; to break up (a riot)
+715|散歩する|さんぽする　to take [have] a walk; to stroll
+715|散らす|ちらす　to scatter; to strew; to sprinkle; to disperse
+715|散らかる|ちらかる　to be in a mess; to be in disorder; to be untidy
+716|農民|のうみん　a farmer; a peasant; the peasantry
+716|農家|のうか　a farmhouse; a farm [farming] family; a farmer
+716|農産物|のうさんぶつ　farm produce [products]; the crops
+716|農村|のうそん　a farm(ing) village; an agricultural district
+716|農業|のうぎょう　agriculture; farming
+716|農薬|のうやく　agricultural chemicals; an agrochemical
+717|看板|かんばん　a signboard; a sign; a draw; an attraction
+717|ベニヤ板|ベニヤいた　a sheet of plywood; plywood
+717|黒板|こくばん　a blackboard; a chalkboard
+717|板前|いたまえ　a cook; a chef
+717|掲示板|けいじばん　a bulletin board; a notice board; a billboard
+717|登板する|とうばんする　to take the plate [mound]
+718|昨日|きのう　yesterday
+718|昨夜|さくや　last night; yesterday evening
+718|昨今|さっこん　recently; lately; nowadays; these days; today
+718|一昨年|いっさくねん　the year before last
+718|一昨日|いっさくじつ　the day before yesterday
+718|昨年度|さくねんど　the previous fiscal year; last fiscal year
+719|整える|ととのえる　to prepare a thing (for); to put (things) in order
+719|調整|ちょうせい　adjustment; coordination; regulation; turning
+719|整数|せいすう　an integer; a whole number
+719|整理する|せいりする　to (re)arrange; to put in order; to (re)adjust
+719|整う|ととのう　to be done; to be ready; to be put in order
+719|整備|せいび　preparation; maintenance; service; a tune-up
+720|怒る|おこる／いかる　to get angry (with a person); to lose one's temper
+720|怒り|いかり　anger; (a) rage; indignation; wrath
+720|怒りん坊|おこりんぼう　a testy [short-tempered] person; a hothead
+720|激怒|げきど　violent anger; rage; fury; furor
+720|怒鳴る|どなる　to shout; to cry (loudly); to roar; to yell (out)
+720|喜怒哀楽|きどあいらく　one's emotions [feelings]
