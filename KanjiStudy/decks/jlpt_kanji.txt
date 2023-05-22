@@ -4238,3 +4238,63 @@ Title=JLPT 3 Practice Deck
 720|激怒|げきど　violent anger; rage; fury; furor
 720|怒鳴る|どなる　to shout; to cry (loudly); to roar; to yell (out)
 720|喜怒哀楽|きどあいらく　one's emotions [feelings]
+721|恋人|こいびと　one's sweetheart; one's boyfriend [girlfriend]
+721|恋|こい　love
+721|失恋する|しつれんする　to have [suffer from] a broke heart
+721|恋しい|こいしい　dear; dearest; sweet; darling; beloved
+721|初恋|はつこい　one's first love
+721|恋愛|れんあい　love
+722|羽音|はおと　the flapping [whirring, buzz, hum] of wings
+722|羽|はね　a feather; a plume; plumage; a wing; a blade; a fan
+722|羽根|はね　a shuttlecock
+722|羽衣|はごろも　a (celestial) robe of feathers
+722|二羽の鳥|にわのとり　two birds
+722|羽毛|うもう　feathers; plumes; plumage; down
+723|及び|および　and; as well as
+723|追及する|ついきゅうする　to investigate; to interrogate; to corss-examine
+723|及ぼす|およぼす　to excercise; to exert; to cause; to have; to do
+723|及ぶ|およぶ　to reach; to spread; to extend; to amount (to)
+723|普及|ふきゅう　spread; diffusion; propagatoin; popularization
+723|X及びY|XおよびY　X and Y; Y as well as X
+724|専業主婦|せんぎょうしゅふ　a full-time housewife; a homemaker
+724|専門家|せんもんか　a specialist
+724|専門|せんもん　a specialty; a special subject of study
+724|専ら|もっぱら　wholly; simply; entirely; solely; exclusively
+724|専制|せんせい　despotism; autocracy; absolutism
+724|専攻|せんこう　a special study; one's major; one's specialty
+725|逆説|ぎゃくせつ　a paradox
+725|逆|ぎゃく　the opposite; the reverse; the converse
+725|逆らう|さからう　to go [act] against; to disobey [defy]; to revolt
+725|逆転する|ぎゃくてんする　to be reversed; to be inverted
+725|逆効果|ぎゃくこうか　the contrary [reverse, opposite] effect
+725|逆さ(ま)の|さかさ(ま)の　upside-down; inverted; reverse; inverse
+726|腕力|わんりょく　physical [muscular] strength; brute force
+726|右腕|みぎうで　one's [the] right arm; one's right-hand person
+726|手腕|しゅわん　ability; capability; competence; (a) talent; skill
+726|腕のいい|うでのいい　skilled; talented; competent; able; capable
+726|腕組みをする|うでぐみをする　to fold [cross] one's arms
+726|腕を上げる|うでをあげる　to improve one's skill [ability]
+727|留守|るす　being away; absence (from home)
+727|停留所|ていりゅうじょ　a (bus, tram) stop
+727|留まる|とまる　to be held in position; to stay; to remain; to perch on
+727|留める|とめる　to keep in place; to retain; to fix; to keep in mind
+727|書留(郵便)|かきとめ(ゆうびん)　a registered letter; registered mail
+727|留学する|りゅうがくする　to go abroad to study; to study abroad
+728|失礼な|しつれいな　rude; impolite; discourteous; impertinent
+728|礼を言う|れいをいう　to thank (a person for a thing)
+728|お礼|おれい　thanks; gratitude; appreciation
+728|謝礼|しゃれい　(a) reward; a remuneration; a fee; thanks
+728|礼服|れいふく　full [formal] dress; evening dress
+728|礼儀|れいぎ　courtesy; manners; etiquette; proprieties
+729|普通|ふつう　normally; ordinarily; commonly; usually; in general
+729|普及する|ふきゅうする　to spread; to diffuse; to become widespread
+729|普段|ふだん　usually; ordinarily; costomarily; most of the time
+729|普通郵便|ふつうゆうびん　ordinary mai [post]; surface mail
+729|普通でない|ふつうでない　uncommon; unusual; extraordinary; abnormal
+729|普遍的な|ふへんてきな　universal
+730|岩手県|いわてけん　Iwate prefecture (of Tohoku region)
+730|岩石|がんせき　(a) rock; stones and rocks
+730|岩|いわ　(a) rock; a crag
+730|岩壁|がんぺき　(the face of) a rock cliff; a rock wall [face]
+730|溶岩|ようがん　lava
+730|岩場|いわば　a rocky cliff; a craggy place; a rocky stretch
