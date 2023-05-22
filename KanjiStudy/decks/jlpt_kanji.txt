@@ -4298,3 +4298,63 @@ Title=JLPT 3 Practice Deck
 730|岩壁|がんぺき　(the face of) a rock cliff; a rock wall [face]
 730|溶岩|ようがん　lava
 730|岩場|いわば　a rocky cliff; a craggy place; a rocky stretch
+731|育児|いくじ　child-rearing; child [baby, infant] care
+731|小児|しょうに　an infant
+731|幼児|ようじ　a little child; a baby; an infant; a (tiny) tot
+731|男児|だんじ　a boy; a man
+731|児童|じどう　a child; children; boys and girls; pupils
+731|乳児|にゅうじ　suckling baby
+732|毛糸|けいと　woolen yarn; worstered (yarn); knitting wool
+732|羊毛|ようもう　(sheep's) wool
+732|髪の毛|かみのけ　a hair; hair (that grows on the human head)
+732|毛布|もうふ　a blanket; a rug
+732|羽毛布団|うもうふとん　a down(-filled) quilt [futon]
+732|毛皮|けがわ　(a) fur; a pelt
+733|列|れつ　a line; a row; a rank; a file; a column; a queue
+733|列車|れっしゃ　a (railroad) train
+733|日本列島|にほんれっとう　the Japanese Archipelago
+733|行列|ぎょうれつ　a procession; a line; a queue
+733|縦列駐車|じゅうれつちゅうしゃ　parallel park(ing)
+733|列島|れっとう　a chain of islands; an archipelago
+734|恵まれる|めぐまれる　to be blessed (with)
+734|知恵|ちえ　wisdom; intelligence; wit(s); sense
+734|恵み|めぐみ　(a) blessing; grace; mercy; benevolence
+734|恵む|めぐむ　to give a thing [alms] (in charity) (to the poor)
+734|恩恵|おんけい　(a) favor; kindness; (a) benefit
+734|悪知恵|わるぢえ　cunning; crafts
+735|出版する|しゅっぱんする　to publish; to bring [put] out; to issue
+735|版画|はんが　a (woodblock) print; an etching; a lithograph
+735|改訂版|かいていばん　a revised edition [version]; a revision
+735|吹き替え版|ふきかえばん　a dubbed version (of a movie)
+735|初版|しょはん　(a copy of) the first edition
+735|出版社|しゅっぱんしゃ　a publisher; a publishing company
+736|伝授する|でんじゅする　to give (a person) instruction (in)
+736|授ける|さずける　to give [grant] (a prize); to confer (a title) on someone
+736|教授|きょうじゅ　teaching; instruction; a professor
+736|授かる|さずかる　to be awarded (a prize); to be endowed with
+736|准教授|じゅんきょうじゅ　an associate professor
+736|授業|じゅぎょう　teaching; (a) class; lessons; school (work)
+737|雪|ゆき　snow; (a) snowfall
+737|吹雪|ふぶき　a driving snow; a snowstorm; a blizzard
+737|積雪量|せきせつりょう　a snowfall; snow accumulation
+737|白雪姫|しらゆきひめ　Snow White
+737|大雪|おおゆき　a heavy snow [snowfall]
+737|降雪|こうせつ　a snowfall
+738|宇宙|うちゅう　the universe; the cosmos; (outer) space
+738|宇宙飛行士|うちゅうひこうし　an astronaut; a cosmonaut; a spaceman
+738|宇宙人|うちゅうじん　an alien; a creature from (outer) space; an ET
+738|堂宇|どうう　ediface; temple; hall
+738|宇宙船|うちゅうせん　a spaceship; a spacecraft
+738|宇宙旅行|うちゅうりょこう　space travel a journey into space
+739|驚く|おどろく　to be surprised [astonished, amazed]; to wonder [marvel]
+739|驚異|きょうい　a marvel; (a) wonder; a miracle; amazement
+739|驚かす|おどろかす　to surprise; to astonish; to frighten; to shock
+739|驚異的な|きょういてきな　marvelous; wonderful; miraculous; amazing
+739|驚嘆する|きょうたんする　to be amazed; to admire; to marvel; to wonder
+739|驚き|おどろき　surprise; astonishment; fright; shock; wonder; amazement
+740|支払い|しはらい　payment; defrayment; disbursement
+740|家賃を払う|やちんをはらう　to pay rent
+740|酔っ払い|よっぱらい　a drunken man; a drunk; a drunkard
+740|酔っ払う|よっぱらう　to get drunk [tipsy, intoxicated, plastered]
+740|払拭する|ふっしょくする　to sweep away; to wipe out; to eradicate
+740|払い込む|はらいこむ　to pay; to pay (funds) in; to pay up; to deposit
