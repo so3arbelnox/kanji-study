@@ -4358,3 +4358,63 @@ Title=JLPT 3 Practice Deck
 740|酔っ払う|よっぱらう　to get drunk [tipsy, intoxicated, plastered]
 740|払拭する|ふっしょくする　to sweep away; to wipe out; to eradicate
 740|払い込む|はらいこむ　to pay; to pay (funds) in; to pay up; to deposit
+741|給与|きゅうよ　an allowance; pay; a salary; wages
+741|月給|げっきゅう　a (monthly) salary
+741|給料|きゅうりょう　pay; a salary; wages; remuneration
+741|供給する|きょうきゅうする　to supply [provide, furnish] someone with something
+741|支給する|しきゅうする　to provide [supply, furnish] a person with something
+741|自給する|じきゅうする　to support oneself; to provide for oneself
+742|好況である|こうきょうである　to be booming [flourishing, thriving]
+742|不況|ふきょう　(a) recession; (a) business depression
+742|盛況である|せいきょうである　to be prosperous; to be a success
+742|状況|じょうきょう　the state of affairs; conditions; a situation
+742|実況|じっきょう　the real [actual] situation [state of things]
+742|作況|さっきょう　the estimated crop [yield]; a harvest; a crop
+743|敗者|はいしゃ　a loser; a defeated person; the defeated
+743|敗北|はいぼく　defeat
+743|勝敗|しょうはい　victory or defeat; the outcome of a battle
+743|敗れる|やぶれる　to be beaten; to lose (a game); to be defeated
+743|失敗する|しっぱいする　to fail (in); to be unsuccessful (in); to fall through
+743|試合に敗れる|しあいにやぶれる　to lose a game
+744|逮捕|たいほ　(an) arrest; (a) capture; apprehension
+744|捕まる|つかまる　to be caught; to be arrested; to hang on (to)
+744|捕まえる|つかまえる　to grasp; to catch; to seize; to arrest [capture]
+744|捕手|ほしゅ　a (baseball) catcher
+744|捕らえる|とらえる　to catch; to grasp; to seize; to capture [arrest]
+744|捕る|とる　to catch; to capture
+745|刀|かたな　a (Japanese) sword
+745|日本刀|にほんとう　a Japanese (traditional) sword
+745|刀を抜く|かたなをぬく　to draw [unsheathe] a sword
+745|剃刀|かみそり　a razor
+745|単刀直入|たんとうちょくにゅう　straightforwardness; directness; frankness
+745|刀を差す|かたなをさす　to put on a sword; to wear [carry] a sword
+746|被る|こうむる　to suffer; to have; to get; to receive; to undergo
+746|被せる|かぶせる　to cover (with); to put (a hat) on; to pour (on)
+746|被害者|ひがいしゃ　a casualty; a victim; an injured person
+746|被る|かぶる　to put (one's hat) on; to pull something over one's head
+746|被告|ひこく　a defendant; the accused
+746|被害|ひがい　damage; harm; injury
+747|岸|きし　the bank; the shore; the coast; the border
+747|沿岸|えんがん　(on, along) the coast; the shore
+747|海岸|かいがん　the seashore; the beach; the seaside
+747|向こう岸に|むこうぎしに　on the opposite bank; across the river
+747|湾岸|わんがん　the coast of a bay; the coastal area
+747|彼岸|ひがん　the equinoctial week (of Buddhist observance)
+748|超す|こす　to surpass; to exceed; to rise above; to be over
+748|超過勤務|ちょうかきんむ　overtime work; extra duties
+748|超える|こえる　to pass; to be over [above]; to exceed; to transcend
+748|超音波|ちょうおんぱ　ultrasonic waves; ultrasound
+748|超越する|ちょうえつする　to transcend; to rise above
+748|超過する|ちょうかする　to be more than -; to exceed -
+749|豊かな|ゆたかな　rich; plentiful; abundant; ample; affluent; wealthy
+749|豊満な|ほうまんな　plump; voluptous
+749|豊年|ほうねん　a bumper [good] year for crops
+749|豊かな社会|ゆたかなしゃかい　the affluent society
+749|豊作|ほうさく　a good [bountiful] harvest; a large yield (of fruit)
+749|豊富|ほうふ　wealth; abundance; plenty
+750|忘れる|わすれる　to forget; to slip one's mind; to be foregetful
+750|忘年会|ぼうねんかい　(hold) a yeard-end [forget-the-year] party
+750|忘れ去る|わすれさる　to forget completely
+750|忘れっぽい|わすれっぽい　be forgetful; have a poor [bad] memory
+750|忘却|ぼうきゃく　forgetfulness; oblivion
+750|忘れ物|わすれもの　a thing left behind; a lost article
