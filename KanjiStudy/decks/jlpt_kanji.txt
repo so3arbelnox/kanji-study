@@ -4418,3 +4418,123 @@ Title=JLPT 3 Practice Deck
 750|忘れっぽい|わすれっぽい　be forgetful; have a poor [bad] memory
 750|忘却|ぼうきゃく　forgetfulness; oblivion
 750|忘れ物|わすれもの　a thing left behind; a lost article
+751|含意|がんい　an implication; (a) connotation
+751|含む|ふくむ　to include; to contain; to have; to hold; to imply
+751|含有率|がんゆうりつ　content by percentage
+751|含み笑い|ふくみわらい　a suppressed laugh [smile]; a chuckle
+751|含まれる|ふくまれる　to be included [comprised] in
+751|含める|ふくめる　to include
+752|植わる|うわる　to be planted
+752|移植|いしょく　transplantation; a (liver) transplant; a graft
+752|植える|うえる　to plant; to raise; to grow; to sow (barley)
+752|田植え|たうえ　rice-planting
+752|植木|うえき　a garden plan [tree]; a potted plant
+752|植物|しょくぶつ　a plant; plant life; vegetation; the flora
+753|候補|こうほ　candidacy; candidature; a candidate
+753|補充する|ほじゅうする　to supplement; to replace; to fill up
+753|補強|ほきょう　reinforcement
+753|補う|おぎなう　to compensate for; to make up for; to fill
+753|補助する|ほじょする　to help; to assist; to aid
+753|不足を補う|ふそくをおぎなう　to make up for a deficiency
+754|階級|かいきゅう　a class; (a) rank; a grade
+754|上級の|じょうきゅうの　upper(-class); higher(-grade); advanced
+754|同級生|どうきゅうせい　a classmate
+754|高級な|こうきゅうな　high-class; high-end; quality; classy
+754|初級|しょきゅう　the beginners' course (in)
+754|学級|がっきゅう　a class
+755|暴露|ばくろ　disclosure; exposure
+755|暴れる|あばれる　to behave [act] violently [wildly]; to rage
+755|暴飲暴食する|ぼういんぼうしょくする　to gorge oneslef with food and drink
+755|乱暴する|らんぼうする　to do [use] violence (to); to commit an outrage
+755|暴力|ぼうりょく　violence; force
+755|暴く|あばく　to expose; to unmask; to uncover; to open (a grave)
+756|課長|かちょう　the chief [head] of a section; a section chief
+756|課題|かだい　a subject; a theme; a problem; a task; homework
+756|課程|かてい　a course; a curriculum (cirriculums, curricula)
+756|第五課|だいごか　Lesson 5; the fifth lesson
+756|課税する|かぜいする　to tax; to impose [levy]; a tax [duty](on)
+756|日課|にっか　a daily lesson; a daily task; daily routine [chores]
+757|触れる|ふれる　to touch; to feel; to perceive; to violate (the law)
+757|触覚|しょっかく　a feeler; an antenna
+757|触れ合う|ふれあう　to come into contact (with); to touch each other
+757|触る|さわる　to touch; to feel
+757|感触|かんしょく　the touch; the feel; a feeling (for, that)
+757|触発する|しょくはつする　to touch off; to trigger (off); to provoke
+758|埼玉県|さいたまけん　Saitama-ken; Saitama prefecture
+758|五円玉|ごえんだま　a five-yen coin
+758|宝玉|ほうぎょく　a precious jewel [gem]
+758|目玉焼き|めだまやき　fried eggs; eggs fried sunny-side up
+758|玉露|ぎょくろ　refined [high-quality, superior] green tea
+758|水玉模様|みずたまもよう　a polka-dot pattern; polka dots
+759|晴れ|はれ　clear [nice, fair, fine] weather
+759|晴らす|はらす　to dispel (doubts); to clear away
+759|快晴|かいせい　fine [fair] weather
+759|素晴らしい|すばらしい　wonderful; splendid; fantastic; great; terrific
+759|晴れる|はれる　to clear (up); to clear off [away]; to dispel
+759|気晴らし|きばらし　(a) pastime; (a) diversion; (a) recreation
+760|要因|よういん　a factor; a primary [main] cause
+760|因子|いんし　a factor
+760|因る|よる　to be due to; to be caused by; to be based on
+760|原因|げんいん　a cause; the origin; the source
+760|因果関係|いんがかんけい　the relation of cause and effect; causality
+760|起因する|きいんする　to be caused by; to be due to; to spring from
+761|地震|じしん　an earthquake (shock); an earth tremor
+761|震える|ふるえる　to tremble; to shake; to shiver; to shudder
+761|震度|しんど　seismic intensity
+761|震源地|しんげんち　a hypocenter; a seismic source [center]
+761|震う|ふるう　to tremble; to quiver; to shudder
+761|震災|しんさい　an earthquake disaster
+762|折る|おる　to break (a branch)(in two); to snap; to fold [bend]
+762|折角|せっかく　with considerable trouble [effort]; kindly
+762|折り曲げる|おりまげる　to bend (a wire); to turn down (one's collar)
+762|骨折|こっせつ　(a) fracture (of a bone)
+762|和洋折衷の|わようせっちゅうの　combining Japanese and Western styles
+762|折れる|おれる　to break; to give way; to be folded; to give in (to)
+763|億|おく　one [a] hundred million
+763|一億円|いちおくえん　a hundred-million yen
+763|億劫な|おっくうな　troublesome; bothersome; tiresome
+763|億万長者|おくまんちょうじゃ　a billionaire; a multimillionare
+763|百億|ひゃくおく　ten billion
+763|巨億|きょおく　vast fortune; millions
+764|肩甲骨|けんこうこつ　the shoulder blade; the scapula
+764|肩|かた　the shoulder
+764|肩書|かたがき　one's job description; one's position [title]
+764|肩を持つ|かたをもつ　to side (with); to take sides; to support; to back up
+764|肩が凝る|かたがこる　to have stiff shoulders
+764|肩車|かたぐるま　riding on a person's shoulders
+765|劇薬|げきやく　a powerful medicine; (a) (deadly) poison
+765|劇|げき　a play; (a) drama
+765|歌劇|かげき　(an) opera
+765|演劇|えんげき　drama; dramatic art; theater (arts); a play
+765|悲劇|ひげき　(a) tragedy
+765|劇場|げきじょう　a theater; a theatre; a playhouse
+766|歓迎する|かんげいする　to welcome; to give a welcome to a person
+766|迎える|むかえる　to go (out) to meet; to greet; to welcome
+766|出迎える|でむかえる　to go [come] (out) and meet; to receive
+766|歓迎会|かんげいかい　a reception; a welcome party
+766|迎え|むかえ　meeting; a person sent to pick up an arrival
+766|出迎え|でむかえ　meeting; reception
+767|傷付く|きずつく　to be injured [hurt, wounded]; to be damaged
+767|火傷|やけど　a (skin) burn; a scald
+767|中傷|ちゅうしょう　(a) slander; libel; calumny; a slur; defamation
+767|傷付ける|きずつける　to injure; to hurt; to wound; to scar; to damage
+767|負傷する|ふしょうする　to get [be] injured; to be wounded; to get hurt
+767|傷める|いためる　to damage; to harm; to do damage; to spoil
+768|悲しい|かなしい　sad; unhappy; sorrowful; touching; pathetic
+768|悲惨な|ひさんな　miserable; wretched; pitiful; pitiable; horrible
+768|悲劇|ひげき　(a) tragedy
+768|悲しむ|かなしむ　to feel sad [unhappy]; to regret; to lament
+768|悲観的な|ひかんてきな　pessimistic
+768|悲鳴を上げる|ひめいをあげる　to shriek; to scream; to cry for help
+769|空港|くうこう　an airport
+769|港|みなと　a harbor; a port
+769|漁港|ぎょこう　a fishing harbor [port]
+769|出港する|しゅっこうする　to leave a port; to set sail; to put out to sea
+769|香港|ほんこん　Hong Kong
+769|港町|みなとまち　a port (town, city)
+770|責める|せめる　to blame; to denounce; to censure; to torture; to urge
+770|責任|せきにん　(a) responsibility; (a) liability; one's duty
+770|引責辞任する|いんせきじにんする　to take responsibility upon oneself and resign
+770|責任を果たす|せきにんをはたす　to fulfill one's responsibility
+770|責任を取る|せきにんをとる　to admit that one is responsible (for)
+770|責任感|せきにんかん　a sense of responsibility
