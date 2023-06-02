@@ -4598,3 +4598,63 @@ Title=JLPT 3 Practice Deck
 780|経験が浅い|けいけんがあさい　have little experience (of, in)
 780|浅はかな|あさはかな　thoughtless; shallow; short-sighted; silly
 780|浅薄な|せんぱくな　shallow; superficial; frivolous
+781|厳しい|きびしい　strict; severe; rigid; rigorous; stern; harsh; tough
+781|厳密な|げんみつな　strict; close; precise; scruplous; rigid exact
+781|厳かな|おごそかな　solemn; stately; dignified; ceremonial; majestic
+781|厳重な|げんじゅうな　strict; tight; close; rigorous; stringent
+781|厳かな儀式|おごそかなぎしき　a solemn ceremony
+781|厳しい寒さ|きびしいさむさ　severe [harsh, intense] cold
+782|純粋な|じゅんすいな　pure; genuine; real; unalloyed; unadulterated
+782|不純|ふじゅん　impurity
+782|純白|じゅんぱく　pure [snow] white; immaculate whiteness
+782|純利益|じゅんりえき　gross [net] profit
+782|単純な|たんじゅんな　simple; simple-minded
+782|純情|じゅんじょう　a pure heart
+783|博士|はかせ　an expert (in something); a learned person
+783|博物館|はくぶつかん　a museum
+783|博士|はくし　a doctorate; Ph.D; Dr. (as a title)
+783|博学の|はくがくの　learned; erudite
+783|博覧会|はくらんかい　an exibition; an exposition; an expo; a fair
+783|博士号|はくしごう　a doctor's degree; a doctorate; a Ph.D.
+784|希薄な|きはくな　thin; weak; dilute(d); rarefied; rare; sparse
+784|薄力粉|はくりきこ　soft-wheat flour
+784|薄い|うすい　thin; light; pale; faint; (a) weak [dilute] (solution)
+784|薄暗い|うすぐらい　dim; gloomy
+784|軽薄な|けいはくな　frivolous; flippant; fickle; silly; thoughtless
+784|薄める|うすめる　to thin; to dilute; to water down; to attenuate
+785|吸う|すう　to breathe in; to inhale; to sip (soup); to smoke
+785|吸い物|すいもの　Japanese style soup
+785|吸収|きゅうしゅう　absorption; assimilation
+785|吸い込む|すいこむ　to breathe in; to draw [suck] in; to absorb
+785|呼吸|こきゅう　a breath; breathing; respiration
+785|吸い殻|すいがら　a cigarette butt [end]
+786|奇妙な|きみょうな　strange; odd; weird; funny; curious
+786|奇数|きすう　an odd [uneven] number
+786|奇抜な|きばつな　eccentric; original; unconventional; novel; crazy; wild
+786|好奇心|こうきしん　curiosity
+786|奇想天外な|きそうてんがいな　very bizarre [eccentric]; most amazing; fantastic
+786|奇才|きさい　an exceptional [uncanny] talent; a genius; a prodigy
+787|固い|かたい　hard; solid; tough (meat); stiff (joints); tight
+787|頑固な|がんこな　stubborn; obstinate; inflexible; persistent; rigid
+787|決意が固い|けついがかたい　be firmly determined
+787|固体|こたい　a solid (body); a solid matter
+787|固まる|かたまる　to harden; to gather (together; to take shape
+787|固定する|こていする　to fix; to be fixed; to hold; to anchor
+788|巨人|きょじん　a giant; a titan; a (software) giant
+788|巨額|きょがく　a large [enormous, huge] sum of money
+788|巨大な|きょだいな　huge; enormous; gigantic; mammoth
+788|巨頭|きょとう　a leader; a magnate; a prominent figure
+788|巨匠|きょしょう　a (great) master; a maestro
+788|巨漢|きょかん　a giant (of a man); a big man
+789|講師|こうし　a lecturer; a speaker; a panelist; an instructor
+789|講義|こうぎ　a lecture (on)
+789|講演する|こうえんする　to give a lecture [talk](on); to lecture (on)
+789|休講|きゅうこう　a class cancellation
+789|受講する|じゅこうする　to attend a lecture [class]
+789|講堂|こうどう　a lecture hall [room]; an auditorium
+790|髪の毛|かみのけ　a hair; hair (that grows on the human head)
+790|白髪|しらが　gray hair; white hair
+790|髪型|かみがた　a hair style; a hairdo; a haircut
+790|理髪店|りはつてん　a barber shop; a barber's (shop)
+790|危機一髪|ききいっぱつ　a narrow escape (from); (be) in imminent danger
+790|金髪|きんぱつ　blonde [blond] hair; golden [fair] hair
