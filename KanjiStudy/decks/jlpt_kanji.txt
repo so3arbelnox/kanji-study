@@ -4658,3 +4658,65 @@ Title=JLPT 3 Practice Deck
 790|理髪店|りはつてん　a barber shop; a barber's (shop)
 790|危機一髪|ききいっぱつ　a narrow escape (from); (be) in imminent danger
 790|金髪|きんぱつ　blonde [blond] hair; golden [fair] hair
+791|指標|しひょう　an index [indices]; an indicator; a pointer
+791|標準|ひょうじゅん　a standard; the norm; a level; the average
+791|表示する|ひょうじする　a standard; the norm; a level; the average
+791|表示する|ひょうじする　to mark; to sign
+791|目標|もくひょう　an aim; a mark; a target; a goal; an objective
+791|標識|ひょうしき　a sign; a mark; a signal; a marker
+791|標本|ひょうほん　a specimen (of); a sample; a type; an example
+792|花束|はなたば　a bouquet; a bunch of flowers
+792|拘束する|こうそくする　to restrict; to restrain; to bind; to cramp
+792|約束|やくそく　a promise; an engagement; an agreement
+792|収束|しゅうそく　resolution; convergence
+792|束縛する|そくばくする　to restrain; to restrict; to put restrictions (on)
+792|束ねる|たばねる　to bundle; to tie up in a bundle; to lead (a group)
+793|安眠|あんみん　a good [sound] sleep; a quiet sleep
+793|眠る|ねむる　to sleep; to slumber; to fall asleep; to lie buried
+793|眠い|ねむい　be sleepy; feel sleepy; be drowsy
+793|居眠りする|いねむりする　to doze; to nap; to catnap
+793|仮眠|かみん　a nap; a catnap; a doze
+793|睡眠|すいみん　sleep; slumber
+794|壁|かべ　a wall; a partition; a (blank) wall; a barrier
+794|絶壁|ぜっぺき　a precipice; a cliff; a sheer cliff
+794|壁紙|かべがみ　wallpaper
+794|言葉の壁|ことばのかべ　language barrier
+794|壁画|へきが　a wall painting; a mural; a fresco
+794|壁に掛ける|かべにかける　to hang (a picture) on the wall
+795|一般の|いっぱんの　general; universal; common; ordinary
+795|全般|ぜんぱん　the whole
+795|先般|せんぱん　some time ago; the other day
+795|全般の|ぜんぱんの　whole; general
+795|一般に|いっぱんに　in generally; universally; commonly; usually
+795|一般人|いっぱんじん　ordinary people; an ordinary person
+795|一般的|いっぱんてき　general; popular; common; typical​  {JISHO card}
+796|お湯|おゆ　hot water; a hot bath
+796|ぬるま湯|ぬるまゆ　tepid (lukewarm) water
+796|湯飲み|ゆのみ　a teacup; a cup {JISHO - other form 湯呑 }
+796|湯気|ゆげ　steam; vapor
+796|熱湯|ねっとう　boiling water; hot water
+796|銭湯|せんとう　a public bath; a bathhouse
+797|ゴミ捨て場|ゴミすてば　a barbage dump; a refuse dump; a landfill
+797|ゴミを捨てる|ゴミをすてる　to throw [chuck] garbage away
+797|使い捨ての|つかいすての　disposable; throwaway
+797|四捨五入する|ししゃごにゅうする　to round off (to a whole number)
+797|取捨選択する|しゅしゃせんたくする　to sort out; to choose; to select
+797|見捨てる|みすてる　to desert; to abandon; to jilt; to dump
+798|浴衣|ゆかた　a yukata; an informal cotton kimono
+798|白衣|はくい　a white robe [dress]; a white coat
+798|衣服|いふく　clothes; dress; clothing
+798|衣更え|ころもがえ　changing (one's) clothes for the season
+798|更衣室|こいしつ　a dressing [changing] room; a locker room
+798|衣食住|いしょくじゅう　food, clothing, and shelter [housing]
+799|替える|かえる　to exchange (one thing for another); to replace
+799|交替|こうたい　alternation; shift; change
+799|為替|かわせ　a money order; foreign [domestic] exchange
+799|両替する|りょうがえする　to exchange (dollars)(into yen)
+799|取り替える|とりがえる　to exchange [change, switch]; to swap; to renew
+799|着替える|きがえる　to change one's clothes
+800|中央|ちゅうおう　the center; the middle; the heart (of a town)
+800|中央アジア|ちゅうおうアジア　Central Asia
+800|中央分離帯|ちゅうおうぶんりたい　a (highway) median (strip)
+800|中央線|ちゅうおうせん　Chuo Line (central railway line in Tokyo)
+800|震央|しんおう　the epicenter
+800|中央の|ちゅうおうの　central; middle
