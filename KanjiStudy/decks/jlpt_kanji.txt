@@ -4538,3 +4538,63 @@ Title=JLPT 3 Practice Deck
 770|責任を果たす|せきにんをはたす　to fulfill one's responsibility
 770|責任を取る|せきにんをとる　to admit that one is responsible (for)
 770|責任感|せきにんかん　a sense of responsibility
+771|申し訳|もうしわけ　an excuse; an apology
+771|内訳|うちわけ　a breakdown; the details; the items
+771|訳す(る)|やくす(る)　to translate; to put (Japanese) into (English)
+771|言(い)訳|いいわけ　an excuse; (an) explanation; (a) justification
+771|申し訳ない|もうしわけない　to have no excuse for...; to be [feel] sorry for...
+771|通訳|つうやく　interpretation; an interpreter
+772|解除|かいじょ　lifting; release
+772|除く|のぞく　to remove; to get rid of; to keep out; to omit
+772|削除する|さくじょする　to cross [strike] out; to cancel; to delete
+772|掃除する|そうじする　to clean; to sweep; to dust; to scrub; to mop
+772|除去する|じょきょする　to get rid of; to do away with; to eliminate
+772|取り除く|とりのぞく　to remove; to take [clear] away; to get rid of
+773|善意|ぜんい　goodwill; good will; good intentions; good faith
+773|善い|よい　good; fine; nice; excellent; well
+773|改善|かいぜん　improvement; a change for the better
+773|最善を尽くす|さいぜんをつくす　to do one's best [utmost]
+773|善|ぜん　(the) good; goodness; virtue; a good deed
+773|善い行い|よいおこない　good vehavior; good conduct
+774|刺身|さしみ　sashimi; sliced raw fish; slices of raw fish
+774|蜂に刺される|はちにさされる　to be stung by a bee
+774|刺激|しげき　a stimulus; a spur; (an) incentive; (an) impetus
+774|刺さる|ささる　to stick (in); to be stuck (in)
+774|名刺|めいし　a business card
+774|刺す|さす　to stick (into; through); to pierce; to stab
+775|刑事|けいじ　a detective; an investigator; a criminal [penal] matter
+775|刑|けい　a sentence; a punishment; a penalty
+775|死刑|しけい　the death penalty; capital punishment
+775|刑務所|けいむしょ　a prison; a jail; a penal institution; a pen
+775|刑罰|けいばつ　a penalty; punishment; punitive sanction; sentence
+775|刑に処する|けいにしょする　to sentence [condemn] (a person to something)
+776|節約する|せつやくする　to save; to economize (on); to be frugal
+776|季節|きせつ　a season
+776|関節|かんせつ　a (knee, elbow) joint
+776|節|ふし　a joint; a knuckle; a knot; a tune; an air
+776|調節|ちょうせつ　regulation; adjustment; control; tuning in
+776|お節料理|おせちりょうり　a variety of dishes served at New Year's
+777|前述の通り|ぜんじゅつのとおり　as mentioned [described, stated] above
+777|著述|ちょじゅつ　writing; a (literary) work; one's writings
+777|記述する|きじゅつする　to describe; to give an account (of)
+777|述べる|のべる　to express; to tell; to narrate; to state; to mention
+777|供述|きょうじゅつ　(a) deposition; testimony; (a) statement
+777|述語|じゅつご　a predicate
+778|輪ゴム|わゴム　a rubber [an elastic] band
+778|指輪|ゆびわ　a (finger) ring
+778|一輪|いちりん　a (single) flower; a (single) wheel
+778|輪切りにする|わぎりにする　to cut (a raddish) into round slices
+778|車輪|しゃりん　a wheel
+778|二輪車|にりんしゃ　a two-wheeled vehicle; a bicycle [motorcycle]
+779|困惑する|こんわくする　to be perplexed; to be embarassed (by)
+779|困る|こまる　to have difficulty [trouble]; to be embarassed (by)
+779|貧困|ひんこん　poverty; need; destitution; shortage; want; lack
+779|困難|こんなん　difficulty; trouble; (a) hardship
+779|困らせる|こまらせる　to make trouble for a person; to embarrass
+779|困り果てる|こまりはてる　to be totally perplexed; to be in a bad fix
+780|浅い|あさい　shallow; superficial; flat; young; light
+780|浅漬け|あさづけ　lightly pickled vegetables
+780|浅瀬|あさせ　a shoal; shallows; a ford
+780|経験が浅い|けいけんがあさい　have little experience (of, in)
+780|浅はかな|あさはかな　thoughtless; shallow; short-sighted; silly
+780|浅薄な|せんぱくな　shallow; superficial; frivolous
