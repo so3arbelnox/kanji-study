@@ -4780,3 +4780,63 @@ Title=JLPT 3 Practice Deck
 810|築く|きずく　to build; to construct; to raise; to erect
 810|増築する|ぞうちくする　to extend a building; to build an annex
 810|築き上げる|きずきあげる　to build up (a business, one's reputation)
+811|勤め|つとめ　business; work; a job; duties; service
+811|出勤する|しゅっきんする　to go to work; to go [come] to the office
+811|通勤する|つうきんする　to go [commute] to the [one's] office
+811|勤める|つとめる　to be employed (at, by, in); to work (for a firm)
+811|超過勤務|ちょうかきんむ　overtime work; extra duties
+811|夜勤|やきん　night work; the night shift
+812|昔|むかし　ancient [old] times; antiquity; long ago
+812|昔日|せきじつ　old times; old days
+812|一昔前|ひとむかしまえ　a decade ago
+812|大昔に|おおむかしに　a long, long time ago; in the distant past
+812|昔話|むかしばなし　an old tale [story]; (a) legend
+812|今昔|こんじゃく　past and present
+813|右脳|うのう　the right hemisphere (of the brain); the right-brain
+813|洗脳する|せんのうする　to brainwash a person (into believing)
+813|脳卒中|のうそっちゅう　a stroke; (cerebral) apoplexy
+813|脳死|のうし　brain death; cerebral death
+813|頭脳|ずのう　a head; brains
+813|首脳|しゅのう　the head; the leader
+814|適用する|てきようする　moderate; temperate
+814|適度の|てきどの　moderate; temperate
+814|適当な|てきとうな　fit; suitable; appropriate; right; adequate  (JISHO meaning #2 perfunctory; half-minded; sloppy; lazy; careless; noncommittal)
+814|適切な|てきせつな　proper; appropriate; pertinent
+814|適する|てきする　to fit; to suit; to agree (with one); to be competent (for)
+814|快適な|かいてきな　comfortable; pleasant; agreeable
+815|航路|こうろ　a sea [sailing] route; a course; a line; a service
+815|航海する|こうかいする　to sail; to make a voyage (to); to voyage
+815|航空|こうくう　aviation; flying
+815|運航する|うんこうする　to operate; to ply; to sail; to fly
+815|直航便|ちょっこうびん　a direct [nonstop] flight (to)
+815|欠航|けっこう　the cancellation of a sailing [flight]
+816|愉快|ゆかい　pleasure; amusement; joy; delight
+816|快晴|かいせい　fine [fair] weather
+816|不快な|ふかいな　unpleasant; disagreeable; uncomfortable
+816|快速電車|かいそくでんしゃ　an express train; an intercity train
+816|快い|こころよい　pleasant; agreeable; comfortable; refreshing
+816|快適な|かいてきな　comfortable; pleasant; agreeable
+817|翌春|よくしゅん　the next [following] spring
+817|翌年|よくねん　the next [following] year
+817|翌月|よくげつ　the next [following] month
+817|翌朝|よくちょう　the next [following] morning
+817|翌週|よくしゅう　the next [following] week
+817|翌日|よくじつ　the next [following] day
+818|復旧する|ふっきゅうする　to be restored; to restore [resume] service
+818|旧友|きゅうゆう　and old friend; old friends
+818|旧年|きゅうねん　the old [past] year; last year
+818|旧式の|きゅうしきの　old-fashioned; out-of-date; outdated
+818|新旧の|しんきゅうの　old and new; incoming and outgoing
+818|旧ソ連|きゅうソれん　the former Soviet Union
+819|吹く|ふく　to blow; to breathe out; to exhale; to play (the flute)
+819|口笛を吹く|くちぶえをふく　to whistle; to give a whistle
+819|吹き消す|ふきけす　to blow (a flame) out
+819|吹雪|ふぶき　a driving snow; a snowstorm; a blizzard
+819|吹奏楽|すいそうがく　wind (-insturment) music
+819|吹聴する|ふいちょうする　to announce; to make (a matter) known
+820|奉納する|ほうのうする　to dedicate; to offer; to make an offering
+820|奉る|たてまつる　to offer; to present; to dedicate
+820|奉仕|ほうし　(a) service; offering of items at bargain prices
+820|奉行|ぶぎょう　a magistrate in fudal times; a shogunate administrator
+820|社会に奉仕する|しゃかいにほうしする　to serve the society [community]
+820|神として奉る|かみとしてたてまつる　to deify; to worship [revere] as a god
