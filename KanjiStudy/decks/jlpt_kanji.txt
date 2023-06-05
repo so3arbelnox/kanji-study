@@ -4840,3 +4840,62 @@ Title=JLPT 3 Practice Deck
 820|奉行|ぶぎょう　a magistrate in fudal times; a shogunate administrator
 820|社会に奉仕する|しゃかいにほうしする　to serve the society [community]
 820|神として奉る|かみとしてたてまつる　to deify; to worship [revere] as a god
+821|万年筆|まんねんひつ　a fountain pen
+821|筆|ふで　a (writing) brush; a pen; handwriting; drawing
+821|随筆|ずいひつ　an essay; stray notes; miscellaneous writing
+821|鉛筆|えんぴつ　a pencil
+821|執筆する|しっぴつする　to write (for a magazine); to contribute
+821|筆者|ひっしゃ　the writer; the author; the present [this] writer
+822|破壊する|はかいする　to break; to destroy; to demolish; to ruin; to ravage
+822|壊す|こわす　to break; to destroy; to pull down; to damage; to ruin
+822|崩壊する|ほうかいする　to collapse; to fall [break] down; to disintegrate
+822|壊れる|こわれる　to break; to be broken; to be destroyed; to be damaged
+822|環境破壊|かんきょうはかい　environmental destruction
+822|壊れ物|こわれもの　a fragile item; breakables; a broken item
+823|換える|かえる　to exchange [substitute] (one thing for another)
+823|気分転換する|きぶんてんかんする　to change one's mood
+823|換わる|かわる　to be exchanged; to be converted
+823|換気|かんき　ventilation; a change of air
+823|乗り換える|のりかえる　to change [transfer](buses, trains)
+823|交換|こうかん　(an) exchange; barter; a swap; (a) substitution
+824|群れ|むれ　a group; a crowd; a throng; a mob; a herd; a pack
+824|群馬県|ぐんまけん　Gunma prefecture (of the Kanto area)
+824|群がる|むらがる　to crowd; to gather; to flock [swarm]; to herd
+824|羊の群れ|ひつじのむれ　a flock [fold] of sheep
+824|群れる|むれる　to gather; to crowd; to flock; to swarm
+824|症候群|しょうこうぐん　a syndrome
+825|句|く　a phrase; a line [verse]; a haiku (poem)
+825|俳句|はいく　(a) haiku; a haiku poem
+825|語句|ごく　words and phrases; an expression; a phrase
+825|句切る|くぎる　to divide; to separate; to mark off; to punctuate
+825|禁句|きんく　a taboo (word [phrase]); a forbidden word [phrase]
+825|挙(げ)句の果てに|あげくのはてに　in the end; finally; ultimately; on top of all that
+826|天候|てんこう　weather
+826|兆候|ちょうこう　a symptom; a sign; an indication
+826|気候|きこう　(a) climate; weather; a season
+826|症候群|しょうこうぐん　a syndrome
+826|居候|いそうろう　a freeloader
+826|候補|こうほ　candidacy; candidature; a candidate
+827|爆発する|ばくはつする　to explode; to detonate; to blow up; to burst
+827|爆弾|ばくだん　a bomb; a bombshell
+827|自爆テロ|じばくテロ　suicide bombing; a suicide bomding
+827|被曝する|ひばくする　to be combed; to be A-bombed
+827|爆笑する|ばくしょうする　to bursto out laughing; to roar into laughter
+827|爆破する|ばくはする　to blow up; to blast
+828|成功する|せいこうする　to succeed (in the world); to be successful (in life)
+828|功労|こうろう　contribution; (meritorious) services; an exploit
+828|年の功|としのこう　the wisdom of age (and experience)
+828|功績|こうせき　(a) contribution; an achievement; a service; merits
+828|功徳|くどく　a blessing; grace; (a) reward; good works [deeds]
+828|年功序列|ねんこうじょれつ　seniority; the seniority system (of promotion)
+829|捜す|さがす　to look for; to search for; to seek; to hunt for
+829|捜索する|そうさくする　to search [look, hunt] for; to rummage
+829|捜査|そうさ　(a) criminal investigation; a search; a manhunt
+829|家の中を捜す|いえのなかをさがす　to search a house (for)
+829|捜し出す|さがしだす　to find [see, ferret] out; to discover; to detect
+829|犯人を捜す|はんにんをさがす　to search [look, hunt] for a criminal
+830|堀|ほり　a moat; a canal; a ditch; a fosse
+830|外堀|そとぼり　the outer moat (of a castle)
+830|釣(り)堀|つりぼり　a fishing pond
+830|内堀|うちぼり　an inner moat; a moat within the castle walls
+830|外堀を埋める|そとぼりをうめる　to remove obstacles (literally - to fill up an outer moat)
