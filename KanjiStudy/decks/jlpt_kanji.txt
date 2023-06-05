@@ -4720,3 +4720,63 @@ Title=JLPT 3 Practice Deck
 800|中央線|ちゅうおうせん　Chuo Line (central railway line in Tokyo)
 800|震央|しんおう　the epicenter
 800|中央の|ちゅうおうの　central; middle
+801|骨を折る|ほねをおる　to break (one's arm); to take pains (to do)
+801|骨組み|ほねぐみ　a framework; a structure; a skeleton; the frame
+801|骨|ほね　a bone; a skeleton; a frame; a rib; hard work
+801|肋骨|ろっこつ　a rib; the ribs; the frame
+801|軟骨|なんこつ　(a) cartilage; gristle
+801|骨折する|こっせつする　to break [fracture] a bone
+802|年齢|ねんれい　age; years
+802|適齢期|てきれいき　marriageable age
+802|高齢者|こうれいしゃ　a senior; an old [aged] person; old people
+802|樹齢|じゅれい　the age of a tree
+802|高齢化社会|こうれいかしゃかい　an aging society
+802|年齢層|ねんれいそう　an age bracket [group]
+803|安易な|あんいな　easy; easy-going
+803|易しい|やさしい　easy; plain; simple
+803|貿易|ぼうえき　(foreign) trade; export and import business
+803|難易度|なんいど　(the degree of) difficulty
+803|容易に|よういに　easily; readily; without difficulty
+803|簡易|かんい　simplicity; ease; easiness
+804|参照|さんしょう　(a) reference; (a) comparison
+804|対照|たいしょう　(a) contrast; (a) comparison; (a) collation
+804|照れる|てれる　to be [feel] shy [embarrassed]; to get self-conscious
+804|照る|てる　to shine; to blaze; to be fine
+804|照明|しょうめい　lighting; illumination
+804|照らす|てらす　to light (up); to lighten; to compare (with)
+805|一層|いっそう　more; still [even] more; all the more
+805|年齢層|ねんれいそう　an age bracket [group]
+805|高層ビル|こうそうびる　a high building; a high-rise; a skyscraper
+805|大層|たいそう　very; so; greatly; highly; awfully; very much
+805|オゾン層|オゾンそう　the ozone layer
+805|地層|ちそう　a (geologic) stratum (strata); a layer
+806|同窓会|どうそうかい　an alumni association; a class reunion
+806|窓口|まどぐち　a window; a teller (window)
+806|窓ガラス|まどガラス　a windowpane; (a pane of) window glass
+806|出窓|でまど　a bay [bow] window; a bump-out window
+806|窓辺に|まどべに　near [by] the window
+806|窓|まど　a window
+807|特典|とくてん　(a) privilege; a benefit; a special favor
+807|原典|げんてん　the original (from which a translation or quote is made)
+807|典型|てんけい　a ty pe; a model; a pattern; a specimen; an archtype
+807|原典に当たる|げんてんにあたる　to check [refer to] the original (text)
+807|古典的な|こてんてきな　classic; classical; stale
+807|典型的な日本人|てんけいてきなにほんじん　a typical Japanese
+808|剣|けん　a sword; a dagger; a saber; a rapier; a blade
+808|真剣な|しんけんな　serious; earnest
+808|剣道|けんどう　kendo; traditional Japanese fencing
+808|剣|つるぎ　a sword
+808|剣術|けんじゅつ　the art of fencing; swordplay
+808|真剣に考える|しんけんにかんがえる　to consider [take, regard] something seriously
+809|先祖|せんぞ　an ancestor; a forefather
+809|祖先|そせん　an ancestor; a forefather; a progenitor
+809|祖国|そこく　one's fatherland [motherland, homeland]
+809|祖母|そぼ　a grandmother
+809|元祖|がんそ　the originator; the founder; the inventor
+809|祖父|そふ　a grandfather
+810|建築|けんちく　building; construction; erection; a structure
+810|新築の|しんちくの　newly-built; new
+810|改築する|かいちくする　to rebuild; to reconstruct
+810|築く|きずく　to build; to construct; to raise; to erect
+810|増築する|ぞうちくする　to extend a building; to build an annex
+810|築き上げる|きずきあげる　to build up (a business, one's reputation)
