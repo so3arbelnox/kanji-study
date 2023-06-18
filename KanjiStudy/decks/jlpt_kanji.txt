@@ -4171,7 +4171,7 @@ Title=JLPT 3 Practice Deck
 709|月額|げつがく　the monthly sum [amount]
 709|全額を払う|ぜんがくをはらう　to pay in full
 709|金額|きんがく　a sum [an amount] (of money)
-710|印鑑|きんかん　one's seal; the impression made by a seal
+710|印鑑|いんかん　one's seal; the impression made by a seal
 710|矢印|やじるし　an arrow; a directing arrow; a sign post
 710|印刷|いんさつ　printing; presswork
 710|印象|いんしょう　(an) impression
