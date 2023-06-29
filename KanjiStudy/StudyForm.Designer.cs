@@ -34,6 +34,7 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.lbl_kanji = new System.Windows.Forms.Label();
             this.lbl_card_progress = new System.Windows.Forms.Label();
+            this.lbl_card_id = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -92,11 +93,24 @@
             this.lbl_card_progress.Text = "1/1";
             this.lbl_card_progress.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
+            // lbl_card_id
+            // 
+            this.lbl_card_id.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.lbl_card_id.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_card_id.Location = new System.Drawing.Point(12, 613);
+            this.lbl_card_id.Name = "lbl_card_id";
+            this.lbl_card_id.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.lbl_card_id.Size = new System.Drawing.Size(122, 24);
+            this.lbl_card_id.TabIndex = 5;
+            this.lbl_card_id.Text = "Card: 1";
+            this.lbl_card_id.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
             // StudyForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(675, 646);
+            this.Controls.Add(this.lbl_card_id);
             this.Controls.Add(this.lbl_card_progress);
             this.Controls.Add(this.lbl_kanji);
             this.Controls.Add(this.pictureBox1);
@@ -122,5 +136,6 @@
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label lbl_kanji;
         private System.Windows.Forms.Label lbl_card_progress;
+        private System.Windows.Forms.Label lbl_card_id;
     }
 }

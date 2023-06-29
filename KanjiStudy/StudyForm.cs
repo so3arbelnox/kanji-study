@@ -82,8 +82,9 @@ namespace KanjiApp
 
             btn_next.Text = "Reveal";
             btn_fail.Enabled = false;
-
+            lbl_card_id.Visible = false;
             lbl_kanji.Text = cards[currentCard].FrontText;
+            lbl_card_id.Text = "Card: " + cards[currentCard].ID;
             SetCardProgressText();
         }
 
@@ -107,11 +108,14 @@ namespace KanjiApp
                 CurrentStudyMode = StudyMode.BACK;
                 lbl_kanji.Text = cards[currentCard].BackText;
                 lbl_kanji.Font = new Font("Yu Gothic UI", 30, FontStyle.Regular);
+                lbl_card_id.Visible = true;
             }
             else if (CurrentStudyMode == StudyMode.BACK)
             {
                 btn_next.Text = "Reveal";
                 btn_fail.Enabled = false;
+                lbl_card_id.Visible = false;
+                lbl_card_id.Text = "Card: " + cards[currentCard].ID;
                 CurrentStudyMode = StudyMode.FRONT;
                 currentCard++;
 
