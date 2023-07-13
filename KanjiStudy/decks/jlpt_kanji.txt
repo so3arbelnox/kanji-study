@@ -4203,7 +4203,7 @@ Title=JLPT 3 Practice Deck
 714|亡くす|なくす　to lose
 714|亡命する|ぼうめいする　to flee (one's country) for political reasons
 715|散らかす|ちらかす　to scatter (toys) (about); to mess up (a room)
-715|解散|かんさん　to breakup; dissolution; winding-up
+715|解散|かいさん　to breakup; dissolution; winding-up
 715|散る|ちる　to fall; to scatter; to disperse; to break up (a riot)
 715|散歩する|さんぽする　to take [have] a walk; to stroll
 715|散らす|ちらす　to scatter; to strew; to sprinkle; to disperse
