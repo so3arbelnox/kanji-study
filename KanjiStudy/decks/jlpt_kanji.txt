@@ -4118,7 +4118,7 @@ Title=JLPT 3 Practice Deck
 700|焼く|やく　to burn; to set fire to; to cremate; to roast [grill, broil]
 700|焼却する|しょうきゃくする　to destroy a thing by fire; to incinerate
 701|意欲的な|いよくてきな　enthusiastic; enterprising; highly motivated
-701|欲しい|ほしい　to want; to esire; to wish (for)
+701|欲しい|ほしい　to want; to desire; to wish (for)
 701|食欲|しょくよく　(an) appetite
 701|欲する|ほっする　to want (a thing, to do); to wish (to do); to desire
 701|欲張りな|よくばりな　greed; grasping; possessive; avaricious
@@ -4241,7 +4241,7 @@ Title=JLPT 3 Practice Deck
 721|恋人|こいびと　one's sweetheart; one's boyfriend [girlfriend]
 721|恋|こい　love
 721|失恋する|しつれんする　to have [suffer from] a broke heart
-721|恋しい|こいしい　dear; dearest; sweet; darling; beloved
+721|恋しい|こいしい　dear; dearest; sweet; darling; beloved  **JISHO yearned for; longed for; missed​
 721|初恋|はつこい　one's first love
 721|恋愛|れんあい　love
 722|羽音|はおと　the flapping [whirring, buzz, hum] of wings
@@ -4251,7 +4251,7 @@ Title=JLPT 3 Practice Deck
 722|二羽の鳥|にわのとり　two birds
 722|羽毛|うもう　feathers; plumes; plumage; down
 723|及び|および　and; as well as
-723|追及する|ついきゅうする　to investigate; to interrogate; to corss-examine
+723|追及する|ついきゅうする　to investigate; to interrogate; to cross-examine
 723|及ぼす|およぼす　to excercise; to exert; to cause; to have; to do
 723|及ぶ|およぶ　to reach; to spread; to extend; to amount (to)
 723|普及|ふきゅう　spread; diffusion; propagatoin; popularization
@@ -4289,7 +4289,7 @@ Title=JLPT 3 Practice Deck
 729|普通|ふつう　normally; ordinarily; commonly; usually; in general
 729|普及する|ふきゅうする　to spread; to diffuse; to become widespread
 729|普段|ふだん　usually; ordinarily; costomarily; most of the time
-729|普通郵便|ふつうゆうびん　ordinary mai [post]; surface mail
+729|普通郵便|ふつうゆうびん　ordinary mail [post]; surface mail
 729|普通でない|ふつうでない　uncommon; unusual; extraordinary; abnormal
 729|普遍的な|ふへんてきな　universal
 730|岩手県|いわてけん　Iwate prefecture (of Tohoku region)
