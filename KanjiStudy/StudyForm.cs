@@ -115,10 +115,9 @@ namespace KanjiApp
                 btn_next.Text = "Reveal";
                 btn_fail.Enabled = false;
                 lbl_card_id.Visible = false;
-                lbl_card_id.Text = "Card: " + cards[currentCard].ID;
                 CurrentStudyMode = StudyMode.FRONT;
                 currentCard++;
-
+                
                 // Arrived at end of list, check if any cards left
                 if (currentCard >= cards.Count)
                 {
@@ -138,6 +137,7 @@ namespace KanjiApp
                         }
 
                         currentCard = 0;
+                        lbl_card_id.Text = "Card: " + cards[currentCard].ID;
                         lbl_kanji.Text = cards[currentCard].FrontText;
                         lbl_kanji.Font = new Font("Yu Gothic UI", 72, FontStyle.Regular);
                         SetCardProgressText();
@@ -150,6 +150,7 @@ namespace KanjiApp
                 }
                 else
                 {
+                    lbl_card_id.Text = "Card: " + cards[currentCard].ID;
                     lbl_kanji.Text = cards[currentCard].FrontText;
                     lbl_kanji.Font = new Font("Yu Gothic UI", 72, FontStyle.Regular);
                     SetCardProgressText();
