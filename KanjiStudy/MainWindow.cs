@@ -105,7 +105,7 @@ namespace KanjiApp
                     {
                         itemToAdd = new ListViewItem(cardText[1]);
                         itemToAdd.Tag = cards.Count; // Set tag to index, should be current count before add
-                        itemToAdd.ToolTipText = cardText[2];
+                        itemToAdd.ToolTipText = cardText[2] + $" (Card: {cardText[0]})";
 
                         //listViewItems.Add(itemToAdd);
                         lw_kanji.Items.Add(itemToAdd);
