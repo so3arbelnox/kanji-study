@@ -1,4 +1,6 @@
-﻿namespace KanjiStudy
+﻿using KanjiStudy.ViewModels;
+
+namespace KanjiStudy
 {
     public partial class MainPage : ContentPage
     {
@@ -7,6 +9,7 @@
         public MainPage()
         {
             InitializeComponent();
+            BindingContext = new KanjiCompoundViewModel();
         }
 
         private void OnCounterClicked(object sender, EventArgs e)
@@ -19,6 +22,11 @@
                 CounterBtn.Text = $"Clicked {count} times";
 
             SemanticScreenReader.Announce(CounterBtn.Text);
+        }
+
+        private void ListView_ItemSelected(object sender, SelectedItemChangedEventArgs e)
+        {
+
         }
     }
 
