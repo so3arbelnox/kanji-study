@@ -3587,7 +3587,7 @@ Title=JLPT 3 Practice Deck
 611|製造する|せいぞうする　to make; to manufacture; to turn out
 612|娘|むすめ　a daughter
 612|一人娘|ひとりむすめ　an only daughter
-612|看板娘|かんばんむすめ　a pretty daughter who attracts customers to as shop 
+612|看板娘|かんばんむすめ　a pretty daughter who attracts customers to a shop 
 612|箱入り娘|はこいりむすめ　a daughter who has been brought up carefully
 612|娘心|むすめごころ　a girlish mind; girlish innocence
 612|愛娘|まなむすめ　a [one's] beloved daughter
@@ -3648,7 +3648,6 @@ Title=JLPT 3 Practice Deck
 622|静まる|しずまる　to become quiet; to calm down; to die down
 622|気を静める|きをしずめる　to calm down; to relax; to calm oneself
 622|静脈|じょうみゃく　a vein
-622|静かな|しずかな　quiet; silent; calm; still; peaceful; gentle; soft
 622|静かな|しずかな　quiet; silent; calm; still; peaceful; gentle; soft
 622|静岡県|しずおかけん　Shizuoka prefecture (of the Chubu area)
 622|冷静な|れいせいな　calm; cool(-headed)
@@ -4407,13 +4406,13 @@ Title=JLPT 3 Practice Deck
 748|超越する|ちょうえつする　to transcend; to rise above
 748|超過する|ちょうかする　to be more than -; to exceed -
 749|豊かな|ゆたかな　rich; plentiful; abundant; ample; affluent; wealthy
-749|豊満な|ほうまんな　plump; voluptous
+749|豊満な|ほうまんな　plump; voluptuous
 749|豊年|ほうねん　a bumper [good] year for crops
 749|豊かな社会|ゆたかなしゃかい　the affluent society
 749|豊作|ほうさく　a good [bountiful] harvest; a large yield (of fruit)
 749|豊富|ほうふ　wealth; abundance; plenty
 750|忘れる|わすれる　to forget; to slip one's mind; to be foregetful
-750|忘年会|ぼうねんかい　(hold) a yeard-end [forget-the-year] party
+750|忘年会|ぼうねんかい　(hold) a year-end [forget-the-year] party
 750|忘れ去る|わすれさる　to forget completely
 750|忘れっぽい|わすれっぽい　be forgetful; have a poor [bad] memory
 750|忘却|ぼうきゃく　forgetfulness; oblivion
@@ -4455,7 +4454,7 @@ Title=JLPT 3 Practice Deck
 756|課税する|かぜいする　to tax; to impose [levy]; a tax [duty](on)
 756|日課|にっか　a daily lesson; a daily task; daily routine [chores]
 757|触れる|ふれる　to touch; to feel; to perceive; to violate (the law)
-757|触覚|しょっかく　a feeler; an antenna
+757|触角|しょっかく　a feeler; an antenna
 757|触れ合う|ふれあう　to come into contact (with); to touch each other
 757|触る|さわる　to touch; to feel
 757|感触|かんしょく　the touch; the feel; a feeling (for, that)
@@ -4638,7 +4637,7 @@ Title=JLPT 3 Practice Deck
 787|頑固な|がんこな　stubborn; obstinate; inflexible; persistent; rigid
 787|決意が固い|けついがかたい　be firmly determined
 787|固体|こたい　a solid (body); a solid matter
-787|固まる|かたまる　to harden; to gather (together; to take shape
+787|固まる|かたまる　to harden; to gather together; to take shape
 787|固定する|こていする　to fix; to be fixed; to hold; to anchor
 788|巨人|きょじん　a giant; a titan; a (software) giant
 788|巨額|きょがく　a large [enormous, huge] sum of money
@@ -4758,7 +4757,7 @@ Title=JLPT 3 Practice Deck
 806|窓|まど　a window
 807|特典|とくてん　(a) privilege; a benefit; a special favor
 807|原典|げんてん　the original (from which a translation or quote is made)
-807|典型|てんけい　a ty pe; a model; a pattern; a specimen; an archtype
+807|典型|てんけい　a type; a model; a pattern; a specimen; an archtype
 807|原典に当たる|げんてんにあたる　to check [refer to] the original (text)
 807|古典的な|こてんてきな　classic; classical; stale
 807|典型的な日本人|てんけいてきなにほんじん　a typical Japanese
@@ -4880,7 +4879,7 @@ Title=JLPT 3 Practice Deck
 827|爆弾|ばくだん　a bomb; a bombshell
 827|自爆テロ|じばくテロ　suicide bombing; a suicide bomding
 827|被曝する|ひばくする　to be combed; to be A-bombed
-827|爆笑する|ばくしょうする　to bursto out laughing; to roar into laughter
+827|爆笑する|ばくしょうする　to burst out laughing; to roar into laughter
 827|爆破する|ばくはする　to blow up; to blast
 828|成功する|せいこうする　to succeed (in the world); to be successful (in life)
 828|功労|こうろう　contribution; (meritorious) services; an exploit
