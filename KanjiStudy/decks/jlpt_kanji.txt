@@ -4659,7 +4659,7 @@ Title=JLPT 3 Practice Deck
 790|金髪|きんぱつ　blonde [blond] hair; golden [fair] hair
 791|指標|しひょう　an index [indices]; an indicator; a pointer
 791|標準|ひょうじゅん　a standard; the norm; a level; the average
-791|表示する|ひょうじする　a standard; the norm; a level; the average
+791|表|おもて　face (i.e. the visible side of an object)​; the front (of a building)
 791|表示する|ひょうじする　to mark; to sign
 791|目標|もくひょう　an aim; a mark; a target; a goal; an objective
 791|標識|ひょうしき　a sign; a mark; a signal; a marker
