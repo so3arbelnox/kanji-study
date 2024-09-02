@@ -4898,3 +4898,63 @@ Title=JLPT 3 Practice Deck
 830|釣(り)堀|つりぼり　a fishing pond
 830|内堀|うちぼり　an inner moat; a moat within the castle walls
 830|外堀を埋める|そとぼりをうめる　to remove obstacles (literally - to fill up an outer moat)
+831|油|あぶら　oil
+831|石油|せきゆ　petroleum; oil; kerosene; paraffin
+831|油断する|ゆだんする　to relax one's guard; to be off (one's) guard
+831|灯油|とうゆ　kerosene; paraffin (oil)
+831|醤油|しょうゆ　soy sauce; soy
+831|油絵|あぶらえ　an oil painting; oil painting
+832|恐怖|きょうふ　(a) fear; terror; (a) fright; (a) dread; (a) panic
+832|怖い|こわい　frightening; terrifying; horrifying; fearful; scary
+832|怖がる|こわがる　to be afraid [scared] of; to dread; to be in fear
+832|恐怖心|きょうふしん　fearfulness
+832|怖い顔をする|こわいかおをする　to make a scary face; to look fierce
+832|高所恐怖症|こうしょきょうふしょう　arcophobia; fear of heights
+833|叫号|きょうごう　cry aloud
+833|絶叫する|ぜっきょうする　to scream; to shout; to shriek; to exclaim
+833|泣き叫ぶ|なきさけぶ　to cry; to scream; to wail; to howl
+833|叫び声|さけびごえ　a shout; a cry (for help); a yell; a shriek
+833|叫喚|きょうかん　a shout; a cry; a scream; cries; shrieks
+833|叫ぶ|さけぶ　to shout; to cry (out); to yell; to shriek; to scream
+834|伸びる|のびる　to get [become] longer; to lengthen; to grow
+834|追伸|ついしん　a postscript (P.S.)
+834|伸ばす|のばす　to extend; to stretch; to straighten
+834|背伸びする|せのびする　to stand on tiptoe; to stretch oneself
+834|才能を伸ばす|さいのうをのばす　to develop one's talents [ability]
+834|伸縮する|しんしゅくする　to expand and contract; to be elastic
+835|創刊する|そうかんする　to start [found, launch] a publication
+835|独創的な|どくそうてきな　original; creative; seminal
+835|創造|そうぞう　creation
+835|創作|そうさく　(a) creation; a creative [an original] work; a novel
+835|創業する|そうぎょうする　to found; to establish; to start an enterprise
+835|創立|そうりつ　foundation; founding; establishment
+836|お世辞|おせじ　an empty [insincere] compliment; flattery
+836|辞任|じにん　resignation
+836|辞書|じしょ　a dictionary; a lexicon; a glossary; a thesaurus
+836|辞める|やめる　to leave (one's job); to resign (from); to retire
+836|辞典|じてん　a dictionary; a lexicon; a glossary; a thesaurus
+836|御辞儀|おじぎ　a bow [curtsy]
+837|号泣|ごうきゅう　wailing; loud lamentation
+837|泣く|なく　to cry; to weep; to sob; to wail; to moan
+837|泣き叫ぶ|なきさけぶ　to cry; to scream; to wail; to howl
+837|泣き虫|なきむし　a crybaby
+837|泣き所|なきどころ　a weak [vulnerable] point; a sore point
+837|泣き言|なきごと　a complaint; a grievance
+838|否定|ひてい　(a) denial; (a) negation; (a) disavowal
+838|否|いな　no; nay
+838|賛否両論|さんぴりょうろん　to pros and cons
+838|するや否や|するやいなや　as soon as; no sooner than
+838|拒否する|きょひする　to refuse (a demand); to veto (a proposal)
+838|安否|あんぴ　safety; welfare
+839|承知する|しょうちする　to agree [consent] to; to comply with
+839|承る|うけたまわる　to hear; to listen to; to know; to take (an order)
+839|承諾書|しょうだくしょ　an acceptance [approval] letter; a consent form
+839|承諾する|しょうだくする　to consent to; to permit; to approve; to accept
+839|承認|しょうにん　(an) approval; (an) acknowledgement; consent
+839|継承する|けいしょうする　to succeed to (the throne); to inherit
+840|雲海|うんかい　a sea of clouds
+840|雲|くも　a cloud; the clouds
+840|雨雲|あまぐも　a rain cloud
+840|雷雲|らいうん　a thundercloud
+840|暗雲|あんうん　dark clouds
+840|雲泥の差|うんでいのさ　wide [great] difference
