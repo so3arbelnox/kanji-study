@@ -4958,3 +4958,63 @@ Title=JLPT 3 Practice Deck
 840|雷雲|らいうん　a thundercloud
 840|暗雲|あんうん　dark clouds
 840|雲泥の差|うんでいのさ　wide [great] difference
+841|練る|ねる　to knead; to gloss; to temper; to work out
+841|熟練した|じゅくれんした　skilled; skillful; trained
+841|洗練された|せんれんされた　elegant; refined; polished
+841|試練|しれん　a test; a trial; an ordeal
+841|練習する|れんしゅうする　to practice; to train; to rehearse (a play)
+841|訓練|くんれん　training; (a) drill; practice; (training) excercises
+842|礼儀|れいぎ　courtesy; (good) manners; etiquette; decorum
+842|行儀が悪い|ぎょうぎがわるい　ill-mannered; ill-behaved; badly-behaved
+842|儀式|ぎしき　a ceremony; a rite; a ritual; a service
+842|余儀ない|よぎない　unavoidable; inevitable; obligatory; indispensable
+842|御辞儀する|おじぎする　to bow; to make a bow; to curtsy
+842|礼儀正しい|れいぎただしい　polite; courteous; well-mannered; civil
+843|紹介|しょうかい　(an) introduction; (a) presentation
+843|紹介状|しょうかいじょう　a letter of introduction
+843|自己紹介する|じこしょうかいする　to introduce oneself
+843|紹介者|しょうかいしゃ　an introducer
+843|紹介する|しょうかいする　to introduce; to present
+843|自己紹介|じこしょうかい　self-introduction
+844|包帯|ほうたい　a bandage; a dressing
+844|包装する|ほうそうする　to pack; to package; to wrap (up)
+844|小包|こづつみ　a (postal) package; a parcel
+844|包む|つつむ　to wrap; to pack (goods); to bundle; to cover
+844|包み|つつみ　a bundle; a package; a packet; a parcel
+844|包丁|ほうちょう　a kitchen knife
+845|警視庁|けいしちょう　the Metropolitan Police Department
+845|都庁|とちょう　Tokyo Metropolitan Government Office
+845|官庁|かんちょう　a government office [agency]
+845|庁舎|ちょうしゃ　a government office building
+845|気象庁|きしょうちょう　the Meteorological Agency
+845|県庁|けんちょう　a prefectural office
+846|観測する|かんそくする　to observe; to survey; to predict
+846|予測する|よそくする　to estimate; to forecast; to predict; to project
+846|測定|そくてい　measurement
+846|測量|そくりょう　measurement; measuring; surveying; a survey
+846|推測|すいそく　a guess; (a) conjecture; (a) speculation
+846|測る|はかる　to measure; to weigh; to survey; to estimate
+847|占う|うらなう　to tell a person's fortune; to divine (the future)
+847|占い師|うらないし　a fortune-teller
+847|占領|せんりょう　occupation; possession; capture
+847|占い|うらない　fortune-telling; divination; augury
+847|占める|しめる　to take (up); to hold; to have; to occupy
+847|独占|どくせん　(a) monopoly (in, on); monopolization
+848|混乱|こんらん　confustion; disorder; chaos; a mess
+848|混雑する|こんざつする　to be thick (with); to be crowded (with)
+848|混ざる|まざる　to be [get] mixed (with); to be mingled (with)
+848|混合|こんごう　mixing; mixture
+848|混ぜる|まぜる　to mix; to blend; to adulterate; to include; to stir
+848|混じる|まじる　to be [get] mixed (with); to join; to take part (in)
+849|二倍の|にばいの　twice; double
+849|倍数|ばいすう　a multiple (e.g. multiples of 5)
+849|人一倍働く|ひといちばいはたらく　to work twice as hard as others
+849|倍|ばい　double; twice; two times; twofold
+849|倍率|ばいりつ　(a) magnification (e.g. ten-power binoculars)
+849|倍にする|ばいにする　to double
+850|乳液|にゅうえき　(a) milky liquid; (a) milky lotion; latex
+850|乳離れする|ちちばなれする　to be weaned (from its mother)
+850|乳首|ちくび　a nipple; a teat
+850|牛乳|ぎゅうにゅう　(cow's) milk
+850|乳癌|にゅうがん　breast cancer; mastocarcinoma
+850|哺乳類|ほにゅうるい　a mammal
