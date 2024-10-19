@@ -5018,3 +5018,63 @@ Title=JLPT 3 Practice Deck
 850|牛乳|ぎゅうにゅう　(cow's) milk
 850|乳癌|にゅうがん　breast cancer; mastocarcinoma
 850|哺乳類|ほにゅうるい　a mammal
+851|荒れる|あれる　to get rough; to go wild; to behave wiolently
+851|荒野|こうや　a wilderness; a waste; wasteland
+851|荒天|こうてん　stormy weather
+851|荒い|あらい　wild; rough; harsh; violent; rude; strong (winds)
+851|荒廃した|こうはいした　ruined; devastated; ravaged; desolate
+851|荒らす|あらす　to ruin; to devastate; to harm; to wreak havoc
+852|詰問|きつもん　close questioning; cross-examination
+852|缶詰|かんづめ　canned [tinned] foods [goods]
+852|詰まる|つまる　to be blocked [stopped up]; to be packed
+852|見詰める|みつめる　to stare [gaze] (at); to study a person's face
+852|詰める|つめる　to fill; to stuff; to pack; to cram; to plug; to shorten
+852|詰め込む|つめこむ　to cram (into a drawer); to stuff; to jam; to pack
+853|出来栄え|できばえ　workmanship; make; the result
+853|光栄|こうえい　(a) honor; glory; a privilege
+853|栄える|さかえる　to prosper; to flourish; to thrive; to be prosperous
+853|見栄を張る|みえをはる　to show off; to be vain
+853|栄冠|えいかん　the crown; the laurels; the palm
+853|栄養|えいよう　nutrition; nourishment
+854|床下|ゆかした　under the floor
+854|床に就く|とこにつく　to go to bed; to retire (to bed); to turn in
+854|床を拭く|ゆかをふく　to wipe the floor
+854|起床する|きしょうする　to get up; to rise
+854|床の間|とこのま　a traditional Japanese tokonoma alcove
+854|病床|びょうしょう　a sickbed
+855|丁度|ちょうど　just; right; exactly; precisely; quite; as if [though]
+855|丁寧な|ていねいな　polite; courteous; well-mannered; careful; attentive
+855|三丁目|さんちょうめ　3-chome (subdivision of an area in an address)
+855|包丁／庖丁|ほうちょう　a kitchen knife; a carving knife; a cleaver
+855|丁重な|ていちょうな　polite; courteous; chivalrous; careful; hospitable
+855|豆腐一丁|とうふいっちょう　a block [cake] of tofu
+856|規則|きそく　a rule; a regulation; rules; regulations
+856|反則|はんそく　(a) violation of the rules; a foul; foul play
+856|原則|げんそく　a principal; a general [fundamental] rule
+856|不規則|ふきそく　irregularity
+856|校則|こうそく　school [university] regulations
+856|法則|ほうそく　a rule; a law; a regulation
+857|禁じる|きんじる　to forbid; to ban; to prohibit (a person to do)
+857|駐車禁止|ちゅうしゃきんし　No Parking.
+857|禁煙席|きんえんせき　a nonsmoking section [seat]
+857|禁忌|きんき　(a) taboo; tabooing; contraindication
+857|厳禁する|げんきんする　to prohibit [forbid] a thing strictly
+857|禁止する|きんしする　to forbid; to prohibit; to ban; to outlaw
+858|道順|みちじゅん　a route; an itinerary; the way; a course
+858|順序|じゅんじょ　(an) order; (a) sequence; (a) procedure
+858|順番|じゅんばん　order; a turn
+858|順調な|じゅんちょうな　satisfactory; fair; fine; favorable; smooth
+858|順守する|じゅんしゅする　to keep [observe, follow] (the rules, the law)
+858|順々に|じゅんじゅんに　in turn; in sequence; one by one; by turns
+859|一枚|いちまい　a sheet [piece] (of paper); a slice (of cheese)
+859|何枚|なんまい　how many (thin flat objects)
+859|枚数|まいすう　the number of leaves [sheets]
+859|二枚|にまい　two sheets [pieces] (of paper)
+859|二枚目|にまいめ　a good-looking (handsome) (young) man
+859|数枚|すうまい　a few sheets; several (photographs)
+860|救う|すくう　to rescue [save, relieve] a person (from)
+860|救急車|きゅうきゅうしゃ　an ambulance
+860|救済する|きゅうさいする　to help; to give relief [aid] to (refugees)
+860|救い出す|すくいだす　to help out; to rescue from
+860|救出する|きゅうしゅつする　to rescue; to relieve; to save
+860|救助|きゅうじょ　(a) rescue; relief; aid; help
