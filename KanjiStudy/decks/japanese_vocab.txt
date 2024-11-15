@@ -1,0 +1,27 @@
+Title=Japanese Vocab
+----
+1|高楼|こうろう　tall building; tower
+1|荒城|こうじょう　ruined castle
+1|宴|うたげ　party; banquet; feast
+1|巡る|めぐる　to go around; to make a c ircle around; to surround; to travel around
+1|杯|はい　sake cup; cup for alcoholic beverages; counter for cupfuls
+1|何処|どこ　where; what place
+1|陣営|じんえい　camp; faction; military camp
+1|枝|えだ　branch; bough; limb; twig; sprig; spray
+1|千代|ちよ　thousand years
+1|霜|しも　frost
+1|影|かげ　shadow; silhouette; figure; shape; reflection; image
+1|雁|がん　wild goose
+1|夜半|やはん　middle of the night; dead of night
+1|照り|てり　sunshine; dry weather; luster; lustre
+1|為|ため　good; benefit; welfare; sake; purpose; objective; aim
+1|為る|する　to do; to carry out; to perform
+1|移る|うつる　to move (house); to transfer (department); to change the target of interest or concern; to elapse (passage of time)
+1|嵐|あらし　storm; tempest
+1|垣|かき　fence; hedge; railing
+1|尚|なお　still; yet; more; greater; further
+1|葛|くず　kudzu; Japanese arrowroot
+1|栄枯|えいこ　vicissitudes; ups and downs
+1|次男|じなん　second son
+1|三男|さんなん　third son
+1|長男|ちょうなん　eldest son; first-born son
