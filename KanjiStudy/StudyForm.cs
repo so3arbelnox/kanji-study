@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -30,14 +31,18 @@ namespace KanjiApp
         public bool ShuffleDeck { get; set; }
         public bool UseRange { get; set; }
 
+        public bool ReverseCard { get; set; }
+
+        public bool HideHiragana { get; set; }
+
         // If range selected
         public int CardIndexStart { get; set; }
         public int CardIndexEnd { get; set; }
 
         List<Card> repeatCards = new List<Card>();
         List<Card> cards; // Cloned list of cards
-        
-        public StudyForm(StudyOption studyOption, int start, int end, int amount)
+
+        public StudyForm(StudyOption studyOption, int start, int end, int amount, bool reverseCard = false, bool hideHiragana = false)
         {
             InitializeComponent();
 
@@ -46,8 +51,10 @@ namespace KanjiApp
             lbl_kanji.Parent = pictureBox1;
             lbl_kanji.Location = pos;
             lbl_kanji.BackColor = Color.Transparent;
-            
-            CurrentStudyMode = StudyMode.FRONT;
+
+            ReverseCard = reverseCard;
+            HideHiragana = hideHiragana;
+
             currentCard = 0;
 
             cards = new List<Card>(SharedResources.CurrentDeck.Cards);
@@ -64,18 +71,28 @@ namespace KanjiApp
                     cards = new List<Card>();
 
                     for (int i = 0; i < copiedList.Count; i++)
+                    {
                         if (copiedList[i].ID >= CardIndexStart && copiedList[i].ID <= CardIndexEnd)
+                        {
                             cards.Add(copiedList[i]);
+                        }
+                    }
 
                     copiedList = new List<Card>(cards); // Re-copy list based on new range
                     copiedList.Shuffle();
                 }
 
-                if (studyAmount > cards.Count()) { studyAmount = cards.Count(); }
+                if (studyAmount > cards.Count())
+                {
+                    studyAmount = cards.Count();
+                }
+
                 cards = new List<Card>();
 
                 for (int i = 0; i < studyAmount; i++)
+                {
                     cards.Add(copiedList[i]);
+                }
             }
 
             cards.Shuffle();
@@ -83,8 +100,18 @@ namespace KanjiApp
             btn_next.Text = "Reveal";
             btn_fail.Enabled = false;
             lbl_card_id.Visible = false;
-            lbl_kanji.Text = cards[currentCard].FrontText;
-            lbl_card_id.Text = "Card: " + cards[currentCard].ID;
+
+            if (ReverseCard)
+            {
+                lbl_kanji.Text = HideHiragana ? RemoveJpChars(cards[currentCard].BackText) : cards[currentCard].BackText;
+            }
+            else
+            {
+                lbl_kanji.Text = cards[currentCard].FrontText;
+                lbl_card_id.Text = "Card: " + cards[currentCard].ID;
+            }
+
+            SetCardFont(true);
             SetCardProgressText();
         }
 
@@ -106,8 +133,8 @@ namespace KanjiApp
                 btn_next.Text = "OK";
                 btn_fail.Enabled = true;
                 CurrentStudyMode = StudyMode.BACK;
-                lbl_kanji.Text = cards[currentCard].BackText;
-                lbl_kanji.Font = new Font("Yu Gothic UI", 30, FontStyle.Regular);
+                lbl_kanji.Text = ReverseCard ? cards[currentCard].FrontText : cards[currentCard].BackText;
+                SetCardFont(false);
                 lbl_card_id.Visible = true;
             }
             else if (CurrentStudyMode == StudyMode.BACK)
@@ -117,7 +144,7 @@ namespace KanjiApp
                 lbl_card_id.Visible = false;
                 CurrentStudyMode = StudyMode.FRONT;
                 currentCard++;
-                
+
                 // Arrived at end of list, check if any cards left
                 if (currentCard >= cards.Count)
                 {
@@ -138,8 +165,8 @@ namespace KanjiApp
 
                         currentCard = 0;
                         lbl_card_id.Text = "Card: " + cards[currentCard].ID;
-                        lbl_kanji.Text = cards[currentCard].FrontText;
-                        lbl_kanji.Font = new Font("Yu Gothic UI", 72, FontStyle.Regular);
+                        lbl_kanji.Text = ReverseCard ? cards[currentCard].FrontText : cards[currentCard].BackText;
+                        SetCardFont(true);
                         SetCardProgressText();
                     }
                     else
@@ -151,16 +178,49 @@ namespace KanjiApp
                 else
                 {
                     lbl_card_id.Text = "Card: " + cards[currentCard].ID;
-                    lbl_kanji.Text = cards[currentCard].FrontText;
-                    lbl_kanji.Font = new Font("Yu Gothic UI", 72, FontStyle.Regular);
+
+                    if (ReverseCard)
+                    {
+                        lbl_kanji.Text = HideHiragana ? RemoveJpChars(cards[currentCard].BackText) : cards[currentCard].BackText;
+                    }
+                    else
+                    {
+                        lbl_kanji.Text = cards[currentCard].FrontText;
+                    }
+                    
+                    SetCardFont(true);
                     SetCardProgressText();
                 }
+            }
+        }
+
+        private void SetCardFont(bool front)
+        {
+            if (ReverseCard)
+            {
+                lbl_kanji.Font = front ? new Font("Yu Gothic UI", 30, FontStyle.Regular) : new Font("Yu Gothic UI", 72, FontStyle.Regular);
+            }
+            else
+            {
+                lbl_kanji.Font = front ? new Font("Yu Gothic UI", 72, FontStyle.Regular) : new Font("Yu Gothic UI", 30, FontStyle.Regular);
             }
         }
 
         private void SetCardProgressText()
         {
             lbl_card_progress.Text = (currentCard + 1) + " / " + cards.Count;
+        }
+
+        private String RemoveHiraganaFromText(string text)
+        {
+            return text.Replace("", "");
+        }
+
+        private string RemoveJpChars(string text)
+        {
+            // Regex pattern for Japanese characters
+            string jpTextRegEx = @"[\u3040-\u30FF\u4E00-\u9FFF\uFF00-\uFFEF]+";
+            return Regex.Replace(text, jpTextRegEx, "");
         }
     }
 }

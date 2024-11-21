@@ -29,13 +29,14 @@
         private void InitializeComponent()
         {
             this.grp_box = new System.Windows.Forms.GroupBox();
+            this.chkBoxReverseCard = new System.Windows.Forms.CheckBox();
+            this.chkBoxAmount = new System.Windows.Forms.CheckBox();
+            this.chkBoxFromRange = new System.Windows.Forms.CheckBox();
             this.nm_amount = new System.Windows.Forms.NumericUpDown();
             this.nm_end = new System.Windows.Forms.NumericUpDown();
             this.nm_start = new System.Windows.Forms.NumericUpDown();
             this.btn_go = new System.Windows.Forms.Button();
-            this.rbtn_amount = new System.Windows.Forms.RadioButton();
-            this.rbtn_all_random = new System.Windows.Forms.RadioButton();
-            this.chkBoxFromRange = new System.Windows.Forms.CheckBox();
+            this.chkBoxHideHiragana = new System.Windows.Forms.CheckBox();
             this.grp_box.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nm_amount)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nm_end)).BeginInit();
@@ -44,13 +45,14 @@
             // 
             // grp_box
             // 
+            this.grp_box.Controls.Add(this.chkBoxHideHiragana);
+            this.grp_box.Controls.Add(this.chkBoxReverseCard);
+            this.grp_box.Controls.Add(this.chkBoxAmount);
             this.grp_box.Controls.Add(this.chkBoxFromRange);
             this.grp_box.Controls.Add(this.nm_amount);
             this.grp_box.Controls.Add(this.nm_end);
             this.grp_box.Controls.Add(this.nm_start);
             this.grp_box.Controls.Add(this.btn_go);
-            this.grp_box.Controls.Add(this.rbtn_amount);
-            this.grp_box.Controls.Add(this.rbtn_all_random);
             this.grp_box.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.grp_box.Location = new System.Drawing.Point(3, 3);
             this.grp_box.Name = "grp_box";
@@ -60,10 +62,43 @@
             this.grp_box.Text = "Study Options";
             this.grp_box.Enter += new System.EventHandler(this.grp_box_Enter);
             // 
+            // chkBoxReverseCard
+            // 
+            this.chkBoxReverseCard.AutoSize = true;
+            this.chkBoxReverseCard.Location = new System.Drawing.Point(19, 133);
+            this.chkBoxReverseCard.Name = "chkBoxReverseCard";
+            this.chkBoxReverseCard.Size = new System.Drawing.Size(159, 24);
+            this.chkBoxReverseCard.TabIndex = 11;
+            this.chkBoxReverseCard.Text = "Flip front and back";
+            this.chkBoxReverseCard.UseVisualStyleBackColor = true;
+            this.chkBoxReverseCard.CheckedChanged += new System.EventHandler(this.chkBoxReverseCard_CheckedChanged);
+            // 
+            // chkBoxAmount
+            // 
+            this.chkBoxAmount.AutoSize = true;
+            this.chkBoxAmount.Location = new System.Drawing.Point(19, 35);
+            this.chkBoxAmount.Name = "chkBoxAmount";
+            this.chkBoxAmount.Size = new System.Drawing.Size(119, 24);
+            this.chkBoxAmount.TabIndex = 10;
+            this.chkBoxAmount.Text = "Limit amount";
+            this.chkBoxAmount.UseVisualStyleBackColor = true;
+            this.chkBoxAmount.CheckedChanged += new System.EventHandler(this.chkBoxAmount_CheckedChanged);
+            // 
+            // chkBoxFromRange
+            // 
+            this.chkBoxFromRange.AutoSize = true;
+            this.chkBoxFromRange.Location = new System.Drawing.Point(19, 65);
+            this.chkBoxFromRange.Name = "chkBoxFromRange";
+            this.chkBoxFromRange.Size = new System.Drawing.Size(171, 24);
+            this.chkBoxFromRange.TabIndex = 9;
+            this.chkBoxFromRange.Text = "From range (Card #)";
+            this.chkBoxFromRange.UseVisualStyleBackColor = true;
+            this.chkBoxFromRange.CheckedChanged += new System.EventHandler(this.chkBoxFromRange_CheckedChanged);
+            // 
             // nm_amount
             // 
             this.nm_amount.Enabled = false;
-            this.nm_amount.Location = new System.Drawing.Point(151, 72);
+            this.nm_amount.Location = new System.Drawing.Point(146, 33);
             this.nm_amount.Maximum = new decimal(new int[] {
             999999,
             0,
@@ -86,7 +121,7 @@
             // nm_end
             // 
             this.nm_end.Enabled = false;
-            this.nm_end.Location = new System.Drawing.Point(19, 166);
+            this.nm_end.Location = new System.Drawing.Point(146, 95);
             this.nm_end.Maximum = new decimal(new int[] {
             999999999,
             0,
@@ -99,7 +134,7 @@
             // nm_start
             // 
             this.nm_start.Enabled = false;
-            this.nm_start.Location = new System.Drawing.Point(19, 134);
+            this.nm_start.Location = new System.Drawing.Point(19, 95);
             this.nm_start.Maximum = new decimal(new int[] {
             9999999,
             0,
@@ -119,40 +154,15 @@
             this.btn_go.UseVisualStyleBackColor = true;
             this.btn_go.Click += new System.EventHandler(this.btn_go_Click);
             // 
-            // rbtn_amount
+            // chkBoxHideHiragana
             // 
-            this.rbtn_amount.AutoSize = true;
-            this.rbtn_amount.Location = new System.Drawing.Point(19, 72);
-            this.rbtn_amount.Name = "rbtn_amount";
-            this.rbtn_amount.Size = new System.Drawing.Size(128, 24);
-            this.rbtn_amount.TabIndex = 1;
-            this.rbtn_amount.TabStop = true;
-            this.rbtn_amount.Text = "Study Amount";
-            this.rbtn_amount.UseVisualStyleBackColor = true;
-            this.rbtn_amount.CheckedChanged += new System.EventHandler(this.rbtn_amount_CheckedChanged);
-            // 
-            // rbtn_all_random
-            // 
-            this.rbtn_all_random.AutoSize = true;
-            this.rbtn_all_random.Location = new System.Drawing.Point(19, 40);
-            this.rbtn_all_random.Name = "rbtn_all_random";
-            this.rbtn_all_random.Size = new System.Drawing.Size(89, 24);
-            this.rbtn_all_random.TabIndex = 0;
-            this.rbtn_all_random.TabStop = true;
-            this.rbtn_all_random.Text = "Study All";
-            this.rbtn_all_random.UseVisualStyleBackColor = true;
-            this.rbtn_all_random.CheckedChanged += new System.EventHandler(this.rbtn_all_random_CheckedChanged);
-            // 
-            // chkBoxFromRange
-            // 
-            this.chkBoxFromRange.AutoSize = true;
-            this.chkBoxFromRange.Location = new System.Drawing.Point(19, 102);
-            this.chkBoxFromRange.Name = "chkBoxFromRange";
-            this.chkBoxFromRange.Size = new System.Drawing.Size(178, 24);
-            this.chkBoxFromRange.TabIndex = 9;
-            this.chkBoxFromRange.Text = "From Range (Card #)";
-            this.chkBoxFromRange.UseVisualStyleBackColor = true;
-            this.chkBoxFromRange.CheckedChanged += new System.EventHandler(this.chkBoxFromRange_CheckedChanged);
+            this.chkBoxHideHiragana.AutoSize = true;
+            this.chkBoxHideHiragana.Location = new System.Drawing.Point(19, 163);
+            this.chkBoxHideHiragana.Name = "chkBoxHideHiragana";
+            this.chkBoxHideHiragana.Size = new System.Drawing.Size(127, 24);
+            this.chkBoxHideHiragana.TabIndex = 12;
+            this.chkBoxHideHiragana.Text = "Hide hiragana";
+            this.chkBoxHideHiragana.UseVisualStyleBackColor = true;
             // 
             // StudyOptions
             // 
@@ -174,11 +184,12 @@
 
         private System.Windows.Forms.GroupBox grp_box;
         private System.Windows.Forms.Button btn_go;
-        private System.Windows.Forms.RadioButton rbtn_amount;
-        private System.Windows.Forms.RadioButton rbtn_all_random;
         private System.Windows.Forms.NumericUpDown nm_end;
         private System.Windows.Forms.NumericUpDown nm_start;
         private System.Windows.Forms.NumericUpDown nm_amount;
         private System.Windows.Forms.CheckBox chkBoxFromRange;
+        private System.Windows.Forms.CheckBox chkBoxAmount;
+        private System.Windows.Forms.CheckBox chkBoxReverseCard;
+        private System.Windows.Forms.CheckBox chkBoxHideHiragana;
     }
 }

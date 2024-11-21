@@ -23,40 +23,38 @@ namespace KanjiApp
             frm_study_options.ActiveForm.Close();
             frm_study_options.ActiveForm.Dispose();
 
-            if (rbtn_all_random.Checked)
+            // Calculate range if checked
+            int start = -1;
+            int end = -1;
+
+            bool reverseCard = chkBoxReverseCard.Checked;
+            bool hideHiragana = chkBoxHideHiragana.Checked;
+
+            if (chkBoxFromRange.Checked)
             {
-                StudyForm sf = new StudyForm(StudyOption.ALL, 0, 0, 0);
-                sf.ShowDialog();
+                start = (int)nm_start.Value;
+                end = (int)nm_end.Value;
             }
-            else if (rbtn_amount.Checked)
+
+            if (chkBoxAmount.Checked)
             {
                 int amount = (int)nm_amount.Value;
-                int start = -1;
-                int end = -1;
-
-                if (chkBoxFromRange.Checked)
-                {
-                    start = (int)nm_start.Value;
-                    end = (int)nm_end.Value;
-                }
-
-                StudyForm sf = new StudyForm(StudyOption.AMOUNT, start, end, amount);
+                StudyForm sf = new StudyForm(StudyOption.AMOUNT, start, end, amount, reverseCard, hideHiragana);
                 sf.ShowDialog();
             }
-        }
-
-        private void rbtn_amount_CheckedChanged(object sender, EventArgs e)
-        {
-            nm_start.Enabled = false;
-            nm_end.Enabled = false;
-            nm_amount.Enabled = true;
-            chkBoxFromRange.Enabled = true;
-        }
-
-        private void rbtn_all_random_CheckedChanged(object sender, EventArgs e)
-        {
-            nm_amount.Enabled = false;
-            chkBoxFromRange.Enabled = false;
+            else // No options means study all cards
+            {
+                if (start == -1 && end == -1)
+                {
+                    StudyForm sf = new StudyForm(StudyOption.ALL, 0, 0, 0, reverseCard, hideHiragana);
+                    sf.ShowDialog();
+                }
+                else
+                {
+                    StudyForm sf = new StudyForm(StudyOption.AMOUNT, start, end, 999999, reverseCard, hideHiragana); // TODO: Modify method to study all within range without passing amount
+                    sf.ShowDialog();
+                }
+            }
         }
 
         private void grp_box_Enter(object sender, EventArgs e)
@@ -66,16 +64,18 @@ namespace KanjiApp
 
         private void chkBoxFromRange_CheckedChanged(object sender, EventArgs e)
         {
-            if (chkBoxFromRange.Checked)
-            {
-                nm_start.Enabled = true;
-                nm_end.Enabled = true;
-            }
-            else
-            {
-                nm_start.Enabled = false;
-                nm_end.Enabled = false;
-            }
+            nm_start.Enabled = chkBoxFromRange.Checked;
+            nm_end.Enabled = chkBoxFromRange.Checked;
+        }
+
+        private void chkBoxAmount_CheckedChanged(object sender, EventArgs e)
+        {
+            nm_amount.Enabled = chkBoxAmount.Checked;
+        }
+
+        private void chkBoxReverseCard_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
