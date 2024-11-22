@@ -16,6 +16,7 @@ namespace KanjiApp
         public StudyOptions()
         {
             InitializeComponent();
+            chkBoxHideHiragana.Enabled = false;
         }
 
         private void btn_go_Click(object sender, EventArgs e)
@@ -75,7 +76,7 @@ namespace KanjiApp
 
         private void chkBoxReverseCard_CheckedChanged(object sender, EventArgs e)
         {
-
+            chkBoxHideHiragana.Enabled = chkBoxReverseCard.Checked;
         }
     }
 }

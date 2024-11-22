@@ -14,6 +14,7 @@ namespace KanjiApp
     public partial class StudyForm : Form
     {
         private int currentCard = 0;
+        private ToolTip cardToolTip = new ToolTip();
 
         public enum StudyMode
         {
@@ -56,6 +57,9 @@ namespace KanjiApp
             HideHiragana = hideHiragana;
 
             currentCard = 0;
+
+            cardToolTip.SetToolTip(lbl_kanji, "");
+            cardToolTip.ShowAlways = true;
 
             cards = new List<Card>(SharedResources.CurrentDeck.Cards);
             CardIndexStart = start;
@@ -103,7 +107,7 @@ namespace KanjiApp
 
             if (ReverseCard)
             {
-                lbl_kanji.Text = HideHiragana ? RemoveJpChars(cards[currentCard].BackText) : cards[currentCard].BackText;
+                lbl_kanji.Text = HideHiragana ? RemoveJpChars(cards[currentCard].BackText).Item1 : cards[currentCard].BackText;
             }
             else
             {
@@ -133,7 +137,17 @@ namespace KanjiApp
                 btn_next.Text = "OK";
                 btn_fail.Enabled = true;
                 CurrentStudyMode = StudyMode.BACK;
-                lbl_kanji.Text = ReverseCard ? cards[currentCard].FrontText : cards[currentCard].BackText;
+
+                if (ReverseCard)
+                {
+                    lbl_kanji.Text = cards[currentCard].FrontText;
+                    cardToolTip.SetToolTip(lbl_kanji, RemoveJpChars(cards[currentCard].BackText).Item2);
+                }
+                else
+                {
+                    lbl_kanji.Text = cards[currentCard].BackText;
+                }
+
                 SetCardFont(false);
                 lbl_card_id.Visible = true;
             }
@@ -165,7 +179,26 @@ namespace KanjiApp
 
                         currentCard = 0;
                         lbl_card_id.Text = "Card: " + cards[currentCard].ID;
-                        lbl_kanji.Text = ReverseCard ? cards[currentCard].FrontText : cards[currentCard].BackText;
+
+                        if (ReverseCard)
+                        {
+                            cardToolTip.SetToolTip(lbl_kanji, "");
+
+                            if (HideHiragana)
+                            {
+                                var removeReturnVal = RemoveJpChars(cards[currentCard].BackText);
+                                lbl_kanji.Text = removeReturnVal.Item1;
+                            }
+                            else
+                            {
+                                lbl_kanji.Text = cards[currentCard].BackText;
+                            }
+                        }
+                        else
+                        {
+                            lbl_kanji.Text = cards[currentCard].FrontText;
+                        }
+
                         SetCardFont(true);
                         SetCardProgressText();
                     }
@@ -181,7 +214,17 @@ namespace KanjiApp
 
                     if (ReverseCard)
                     {
-                        lbl_kanji.Text = HideHiragana ? RemoveJpChars(cards[currentCard].BackText) : cards[currentCard].BackText;
+                        cardToolTip.SetToolTip(lbl_kanji, "");
+
+                        if (HideHiragana)
+                        {
+                            var removeReturnVal = RemoveJpChars(cards[currentCard].BackText);
+                            lbl_kanji.Text = removeReturnVal.Item1;
+                        }
+                        else
+                        {
+                            lbl_kanji.Text = cards[currentCard].BackText;
+                        }
                     }
                     else
                     {
@@ -216,11 +259,11 @@ namespace KanjiApp
             return text.Replace("", "");
         }
 
-        private string RemoveJpChars(string text)
+        private Tuple<string, string> RemoveJpChars(string text)
         {
             // Regex pattern for Japanese characters
             string jpTextRegEx = @"[\u3040-\u30FF\u4E00-\u9FFF\uFF00-\uFFEF]+";
-            return Regex.Replace(text, jpTextRegEx, "");
+            return new Tuple<string, string>(Regex.Replace(text, jpTextRegEx, ""), Regex.Match(text, jpTextRegEx).Value);
         }
     }
 }
