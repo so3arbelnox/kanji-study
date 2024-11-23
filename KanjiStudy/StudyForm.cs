@@ -29,7 +29,6 @@ namespace KanjiApp
         }
 
         public StudyMode CurrentStudyMode { get; set; }
-        public bool ShuffleDeck { get; set; }
         public bool UseRange { get; set; }
 
         public bool ReverseCard { get; set; }
@@ -172,10 +171,7 @@ namespace KanjiApp
                         cards = new List<Card>(repeatCards);
                         repeatCards.Clear();
 
-                        if (ShuffleDeck)
-                        {
-                            cards.Shuffle();
-                        }
+                        cards.Shuffle();
 
                         currentCard = 0;
                         lbl_card_id.Text = "Card: " + cards[currentCard].ID;
