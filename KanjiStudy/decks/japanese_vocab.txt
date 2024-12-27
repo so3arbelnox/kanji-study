@@ -22,36 +22,23 @@ Title=Japanese Vocab
 1|尚|なお　still; yet; more; greater; further
 1|葛|くず・かずら　kudzu; Japanese arrowroot
 1|栄枯|えいこ　vicissitudes; ups and downs
-1|次男|じなん　second son
-1|三男|さんなん　third son
-1|長男|ちょうなん　eldest son; first-born son
-1|従妹|いとこ・じゅうまい　cousin (younger female)
-1|従弟|いとこ・じゅうてい　cousin (younger male)
-1|妹|いもうと　younger sister
-1|お姉さん|おねえさん　older sister
-1|姉|あね　older sister
-1|弟|おとうと　younger brother
-1|兄|あに　older brother
-1|お兄さん|おにいさん　older brother
-1|兄貴|あにき　elder brother; one's senior
-1|姉妹|しまい　sisters
-1|兄弟|きょうだい　siblings; brothers
-1|伯父さん|おじさん　uncle; old man; mister
-1|伯母さん|おばさん　aunt
-1|祖父|そふ　grandfather; old man
-1|お祖父さん|おじいさん　grandfather; old man
-1|お祖母さん|おばあさん　grandmother; old woman
-1|祖母|そぼ　grandmother
-1|娘|むすめ　daughter; young girl
-1|女の子|おんなのこ　girl; daughter; young woman
-1|お嬢さん|おじょうさん　(another's) daughter; young lady
-1|少女|しょうじょ　young girl
-1|長女|ちょうじょ　eldest daughter; first-born daughter
-1|息子|むすこ　son
-1|男の子|おとこのこ　son; boy; young man
-1|坊ちゃん|ぼっちゃん　(another's) son; boy
-1|子息|しそく　(another's) son
-1|甥っ子|おいっこ　nephew
-1|姪っ子|めいっこ　niece
-1|姪御|めいご　(another person's) niece
-1|甥御|おいご　(another person's) nephew
+2|大富豪|だいふごう　very rich person; multimillionaire; billionaire
+2|囚人|しゅうじん　prisoner; convict
+2|偶々|たまたま　by chance; by accident; unexpectedly; OR occasionally; once in a while
+2|偶に|たまに　occasionally; once in a while; now and then
+2|偶然|ぐうぜん　by chance; unexpectedly, accidentally
+2|保険計理人|ほけんけいりにん　actuary
+2|貴様|きさま　you; you bastard; you son of a bitch!
+2|貴方|あなた　you
+2|親子|おやこ　parent and child
+2|そっくり|そっくり　all; entirely; completely (adverb) exactly alike; spitting image of (adjective)
+2|御歳暮|おせいぼ　year-end gift OR end of the year
+2|数字|すうじ　numeral; digit; numeric character
+2|数学|すうがく　mathematics
+2|恩返し|おんがえし　paying back a favor; repayment (of an obligation, kindness, etc.)
+2|輝夜姫|かぐやひめ　Kaguya-Hime (main character of Taketori Monogatari)
+2|国歌|こっか　national anthem
+2|島国|しまぐに　island country
+2|御恩|ごおん　(received) favor; kindness or blessing (favor)
+2|恩義|おんぎ　obligation; favor; debt of gratitude
+2|孫悟空|そんごくう　Sun Wukong (Journey to the West); Monkey King OR Son Goku (Dragonball)
