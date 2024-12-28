@@ -42,3 +42,19 @@ Title=Japanese Vocab
 2|御恩|ごおん　(received) favor; kindness or blessing (favor)
 2|恩義|おんぎ　obligation; favor; debt of gratitude
 2|孫悟空|そんごくう　Sun Wukong (Journey to the West); Monkey King OR Son Goku (Dragonball)
+2|内向的|ないこうてき　introverted; withdrawn
+2|外交的|がいこうてき　extroverted; outgoing
+2|内気|うちき　shy; bashful; timid; reserved
+2|社交的|しゃこうてき　sociable
+2|上半身|じょうはんしん　upper half of the body; upper body
+2|下半身|かはんしん　lower half of the body; nether parts
+2|向上|こうじょう　elevation; rise; improvement; advancement; progress
+2|成長|せいちょう　growth; development; growing up; becoming an adult
+2|成人式|せいじんしき　coming-of-age ceremony
+2|語彙|ごい　vocabulary; lexicon; lexis; terminology
+2|救急車|きゅうきゅうしゃ　ambulance
+2|御前|おまえ　you OR before (a god, nobleman, etc.); in front of
+2|告げる|つげる　to tell; to inform; to announce OR to indicate; to signal; to mark
+2|予告|よこく　(advance) notice; preliminary announcement; warning OR trailer (for a film, TV show, etc.)
+2|牧場|ぼくじょう　farm (livestock); stock farm; ranch; station OR pasture, meadow, grazing land
+2|畏敬の念|いけいのねん　feeling of awe and veneration; reverential feelings
