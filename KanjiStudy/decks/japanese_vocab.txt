@@ -58,3 +58,33 @@ Title=Japanese Vocab
 2|予告|よこく　(advance) notice; preliminary announcement; warning OR trailer (for a film, TV show, etc.)
 2|牧場|ぼくじょう　farm (livestock); stock farm; ranch; station OR pasture, meadow, grazing land
 2|畏敬の念|いけいのねん　feeling of awe and veneration; reverential feelings
+3|上司|じょうし　(one's) superior; (one's) boss; the higher-ups​
+3|親会社|おやがいしゃ　parent company
+3|洗車|せんしゃ　car washing
+3|緑茶|りょくちゃ　green tea
+3|煎茶|せんちゃ　green tea
+3|初詣
+|はつもうで　first shrine visit of the New Year
+3|初日の出|はつひので　first sunrise of the year; sunrise on New Year's Day
+3|お節料理|おせちりょうり　traditional food eaten during the New Year's holidays
+3|年越し蕎麦|としこしそば　soba noodles eaten at night on New Year's Eve
+3|七七日|しちしちにち　49th day after death (In Buddhist traditions)
+3|四十九日|しじゅうくにち　forty-ninth day after a person's death (In Buddhist traditions)
+3|国教|こっきょう　state religion; official religion
+3|似る|にる　to resemble; to look like; to be like; to be alike; to be similar; to take after
+3|子宮|しきゅう　womb; uterus
+3|姑|しゅうとめ　mother-in-law
+3|嫁|よめ　bride; (one's) daughter-in-law
+3|官|かん　government; government service; the bureaucracy
+3|僅か|わずか　a little; a few; small; slight
+3|微か|かすか　faint; dim; weak
+3|火の用心|ひのようじん　be careful about fire; watch out for fire
+3|力士|りきし　sumo wrestler; rikishi​
+3|明かり|あかり　light; glow; lamp​
+3|逸れる|はぐれる　o lose sight of (one's companions); to stray from
+3|戸締まり|とじまり　locking up (doors and windows); fastening the doors
+3|お見合い|おみあい　(formal) meeting with a view to marriage; interview with a prospective spouse​
+3|旧暦|きゅうれき　Japan's old (lunisolar) calendar
+3|嬉しい|うれしい　happy; glad; pleased; delighted; overjoyed
+3|仲人|なこうど　matchmaker
+3|姿見|すがたみ　full-length mirror
