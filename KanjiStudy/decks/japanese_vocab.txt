@@ -88,3 +88,33 @@ Title=Japanese Vocab
 3|嬉しい|うれしい　happy; glad; pleased; delighted; overjoyed
 3|仲人|なこうど　matchmaker
 3|姿見|すがたみ　full-length mirror
+4|教授|きょうじゅ　professor
+4|社会学|しゃかいがく　sociology
+4|講師|こうし　speaker; lecturer
+4|海底|かいてい　bottom of the ocean; seafloor; seabed
+4|交通|こうつう　traffic; transportation; communication; exchange (of ideas, etc.); intercourse
+4|交通の便|こうつうのべん　transportation access; access to (public) transportation
+4|沸かす|わかす　to boil; to heat (a liquid); to prepare (a bath, hot drink)
+4|沸く|わく　to grow hot (e.g. water); to boil
+4|沸騰|ふっとう　boiling; seething; becoming heated (in a debate)
+4|冷やし|ひやし　chilled; chilling
+4|冷や麦|ひやむぎ　thin udon noodles (served chilled)
+4|当地|とうち　this place; here
+4|特産|とくさん　being produced in a particular region; local specialty
+4|日中|にっちゅう　daytime; during the day
+4|苛々|いらいら　to get irritated; to get annoyed; to be on the edge
+4|苛立つ|いらだつ　to be irritated; to get annoyed; to lose one's patience
+4|煮立つ|にたつ　to boil; to simmer
+4|断つ|たつ　to sever; to cut off; to supress; to exterminate; to abstain (from); to give up
+4|謝る|あやまる　to apologize; to refuse; to decline
+4|垣根|かきね　hedge; fence
+4|洗い場|あらいば　washing place (for laundry or tableware), place for washing oneself in a bathroom
+4|召す|めす　to call; to summon
+4|左右|さゆう　left and right
+4|左打ち|ひだりうち　hitting left-handed
+4|左折|させつ　turning to the left; left turn
+4|右折|うせつ　turning to the right
+4|金槌|かなづち　hammer
+4|儒教|じゅきょう　Confucianism
+4|浴槽|よくそう　bathtub
+4|排水口|はいすいこう　drain; overflow
