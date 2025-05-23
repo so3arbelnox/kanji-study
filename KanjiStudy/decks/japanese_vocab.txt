@@ -118,3 +118,24 @@ Title=Japanese Vocab
 4|儒教|じゅきょう　Confucianism
 4|浴槽|よくそう　bathtub
 4|排水口|はいすいこう　drain; overflow
+6|屋台|やたい　cart; stall; stand
+6|嫌々期 |いやいやてき　terrible twos
+6|眺める|ながめる　to look at; to gaze at; to watch; to stare at​
+6|弾み|はずみ　bounce; spring; rebound
+6|弾力 |だんりょく　elasticity; flexibility​
+6|難破船|なんぱせん　shipwreck
+6|眺望|ちょうぼう　view; vista; panorama; outlook; prospect​
+6|満ち潮|まんちょう　high tide; high water; full tide
+6|運動神経|うんどうしんけい　motor nerve; reflexes; athletic ability
+6|鮫|さめ　shark
+6|硬派|こうは　hard-liners; diehards; hawks​
+6| マイブーム| マイブーム　current obsession; current kick; personal obsession
+6|流行|りゅうこう　fashion; trend; vogue; craze; fad; popularity​
+6|流行り|はやり　fashion; fad; vogue; craze​
+6|同心円|どうしんえん　concentric circles​
+6|成るべく|なるべく　as (much) as possible; as (much) as one can; wherever practicable; if possible
+6|ホッチキス|ホッチキス　stapler; paper fastener​
+6|周り|まわり　circumference; girth; surroundings; neighbourhood; neighborhood; vicinity​
+6|珊瑚礁|さんごしょう　coral reef
+6|平泳ぎ|ひらおよぎ　breaststroke (swimming)
+6|背泳ぎ|せおよぎ　backstroke (swimming)
