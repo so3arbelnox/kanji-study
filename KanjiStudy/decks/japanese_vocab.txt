@@ -139,3 +139,30 @@ Title=Japanese Vocab
 6|珊瑚礁|さんごしょう　coral reef
 6|平泳ぎ|ひらおよぎ　breaststroke (swimming)
 6|背泳ぎ|せおよぎ　backstroke (swimming)
+7|接待|せったい　entertainment (of guests; esp. in the corporate world); treating (to food and drinks); wining and dining
+7|奢る|おごる　to treat (someone) to (something); to give (someone) a treat; to buy (someone a meal, drink, etc.)​
+7|哲学|てつがく　Philosophy
+7|菜食主義|さいしょくしゅぎ　Vegetarianism
+7|商業|しょうぎょう　commerce; trade; business
+7|漁業|ぎょぎょう　fishing industry; fishery
+7|農業|のうぎょう　agriculture; farming
+7|廊下|ろうか　corridor; hallway
+7|記録|きろく　record; document; minutes; recording; putting on record; keeping a record (of); writing down
+7|録画|ろくが　(video) recording
+7|録音|ろくおん　(audio) recording​
+7|住処|じゅうしょ　address; residence; domicile
+7|アジト|アジト　hideout; secret base of operations; safe house​
+7|反戦運動|はんせんしゅぎしゃ　anti-war movement
+7|苛める|いじめる　to ill-treat; to bully; to torment; to pick on
+7|塩水|しおみず　salt water; brine
+7|潮水|しおみず　seawater
+7|満潮|まんちょう　high tide; high water; full tide​
+7|干潮|かんちょう　low tide; low water; ebb​
+7|テトラポッド|テトラポッド　tetrapod; tetrahedral concrete structure used in breakwaters
+7|針|はり　needle; pin​
+7|焦げる|こげる　to burn; to scorch; to char; to singe
+7|焦げ茶色|こげちゃいろ　dark brown; olive brown
+7|鶴|つる　Crane (bird)
+7|山脈|さんみゃく　mountain range; mountain belt
+7|灯台|とうだい　lighthouse; old-fashioned interior light fixture comprising a wooden pole with an oil-filled dish and a wick atop it
+7|却下|きゃっか　rejection; dismissal
