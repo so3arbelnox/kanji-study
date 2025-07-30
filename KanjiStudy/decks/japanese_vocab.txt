@@ -166,3 +166,12 @@ Title=Japanese Vocab
 7|山脈|さんみゃく　mountain range; mountain belt
 7|灯台|とうだい　lighthouse; old-fashioned interior light fixture comprising a wooden pole with an oil-filled dish and a wick atop it
 7|却下|きゃっか　rejection; dismissal
+8|帰省|きせい　homecoming; returning home
+8|威張る|いばる　to put on airs; to act big; to throw one's weight about; to be overbearing
+8|偉そう|えらそう　self-important; important-looking; pompous; proud
+8|しっくり来る|しっくりくる　to feel right; to sit well with one; to be happy about
+8|眺める|ながめる　to look at; to gaze at; to watch; to stare at
+8|眺望|ちょうぼう　view; vista; panorama; outlook; prospect
+8|諦める|あきらめる　to give up; to abandon (hope, plans); to resign oneself (to)
+8|締める|しめる　to tie; to fasten; to tighten; to wear (necktie, belt)
+8|元栓|もとせん　stopcock (gas, water); main valve; main tap; stop tap
