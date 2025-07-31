@@ -175,3 +175,10 @@ Title=Japanese Vocab
 8|諦める|あきらめる　to give up; to abandon (hope, plans); to resign oneself (to)
 8|締める|しめる　to tie; to fasten; to tighten; to wear (necktie, belt)
 8|元栓|もとせん　stopcock (gas, water); main valve; main tap; stop tap
+8|這う|はう　to crawl; to creep; to go on all fours
+8|崩れる|くずれる　to collapse; to crumble; to get out of shape; to become disorganized
+8|張る|はる　to stick; to paste; to affix; to stretch; to tighten
+8|貼る|はる　to stick; to paste; to affix; to stretch; to tighten
+8|山崩れ|やまくずれ　landslide
+8|人工|じんこう　artificial; man-made; human work; human skill
+8|酒蔵|さかぐら　sake brewery
