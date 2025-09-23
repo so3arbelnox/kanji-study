@@ -166,3 +166,43 @@ Title=Japanese Vocab
 7|山脈|さんみゃく　mountain range; mountain belt
 7|灯台|とうだい　lighthouse; old-fashioned interior light fixture comprising a wooden pole with an oil-filled dish and a wick atop it
 7|却下|きゃっか　rejection; dismissal
+8|沈む|しずむ　to sink; to go under; to submerge; to go down (the sun); to set
+8|温暖化|おんだんか　global warming
+8|北極|ほっきょく　North Pole
+8|解ける|とける　to be solved; to be resolved
+8|湿度|しつど　level of humidity
+8|過ごす|すごす　to spend (time); to pass; to overdo
+8|梅雨|つゆ　rainy season
+8|湿気|しっけ　moisture; humidity; dampness
+8|生える|はえる　to grow; to spring up; to sprout
+8|画面|がめん　screen (of a TV, computer etc.); image on a screen
+8|近づく|ちかづく　to approach; to draw near; to get close
+8|缶詰|かんづめ　canned food
+8|記事|きじ　article; news story; report; account
+8|取り上げる|とりあげる　to pick up; to adopt (a proposal); to take up (a topic); to take issue with; to report (news)
+8|旅行先|りょこうさき　destination (in travel); place where on is staying
+8|刑事|けいじ　(police) detective
+8|神奈川県|かながわけん　Kanagawa Prefecture
+8|役柄|やくがら　role
+8|夫|おっと　husband
+8|真犯人|しんはんにん　the real criminal; true culprit
+8|小銭|こぜに　small changes; coins
+8|馳走|ちそう　treating someone (to food or drink); dinner; running about
+8|吉本|よしもと　Yoshimoto (name)
+8|展示会|てんじかい　exhibition
+8|村上隆|むらかみたかはし　Murakami Takahashi (artist)
+8|開かれる|ひらかれる　to be open
+8|洗剤|せんざい　detergent
+8|黄ばむ|きばむ　to turn yellow
+8|帰省|きせい　homecoming; returning home
+8|法事|ほうじ　Buddhist memorial service
+8|道路|どうろ　road; highway
+8|急な坂|きゅうなさか　sudden drop; percipitous slope
+8|煙|けむり　smoke; fumes
+8|地面|じめん　ground; earth's surface; land
+8|上昇|じょうしょう　rising; ascending; climbing
+8|這う|はう　to crawl; to creep; to slither
+8|忠告|ちゅうこく　advice; warning
+8|山火事|やまかじ　forest fire; wildfire; bushfire
+8|灰|はい　ashes
+8|訪れる|おとずれる　to visit; to call on
