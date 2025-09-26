@@ -419,3 +419,42 @@ Title=Japanese Vocab
 10|まし|better; preferable; least-worth
 10|ふじゆう|discomfort; inconvenience; poverty; want
 10|じゆう|freedom; liberty
+10|かず|number; amount
+10|ぐうすう|even number
+10|きすう|odd number
+10|せいすう|positive number
+10|せいすう|integer
+10|ぜんすう|whole number; all
+10|しょうすうてん|decimal point
+10|ぶんすう|fraction
+10|2/3|三分の一
+10|わりあい|rate; ratio; percentage; proportion
+10|けいさん|calculation
+10|ししゃごにゅう|rounding (off; a number); rounding half away from zero
+10|ほうていしき|equation
+10|りょう|quantity; amount; volume; capacity; portion (of food)
+10|めんせき|area (measurement); square measure; size (of land); floor space
+10|たいせき|capacity; volume
+10|いちわり|ten percent
+10|しゃかいか|Social Studies
+10|ちり|Geography
+10|れきし|History​
+10|せかいし|world history; international history
+10|にほんし|Japanese history; history of Japan
+10|こうみんか|(subject of) civics
+10|かがく|Science
+10|せいぶつ|Biology
+10|かがく|Chemistry
+10|ぶんがく|Literature
+10|ごい|Vocabulary
+10|ぶんぽう|Grammar
+10|どっかい|Reading comprehension
+10|ろんぶん|thesis; essay; treatise; paper; article
+10|すうがく|Mathematics
+10|さんすう|arithmetic; calculation
+10|おんがく|Music
+10|びじゅつ|art; fine arts
+10|けんこう|Health
+10|たいいく|Physical education
+10|かていか|home economics
+10|しゅげい|handicrafts
