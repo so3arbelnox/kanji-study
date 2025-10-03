@@ -379,3 +379,82 @@ Title=Japanese Vocab
 10|まし|better; preferable; least-worth
 10|ふじゆう|discomfort; inconvenience; poverty; want
 10|じゆう|freedom; liberty
+10|せわ|care; looking after; help; assistance; aid
+10|かてい|home; household; family; hearth
+10|きょうりょく|cooperation; collaboration; help; support
+10|かんしゃ|thanks; gratitude; appreciation; thankfulness
+10|おれい|thanks; gratitude; manners; etiquette
+10|おわび|apology
+10|おじぎ|bow; bowing
+10|あくしゅ|handshake
+10|いじわる|malicious; ill-tempered; unkind; mean; nasty
+10|いたずら|mischief; prank; trick; practical joke
+10|せつやく|economising; saving
+10|けいえい|management; administration; operation; running (a business)
+10|はんせい|reflection; reconsideration; introspection; meditation
+10|じっこう|execution (e.g. of a plan); carrying out; (putting into) practice
+10|しんぽ|progress; advance; improvement; development​
+10|へんか|change; variation; alteration; mutation; transition; transformation
+10|はったつ|development; growth
+10|たいりょく|physical strength; power; stamina; endurance
+10|しゅつじょう|participation (in a tournament, match, race, etc.); entry; taking part (in)
+10|かつやく|activity (esp. energetic or successful); great efforts; active participation
+10|きょうそう|competition; contest; rivalry; race
+10|おうえん|aid; assistance; help; support; reinforcement
+10|はくしゅ|clapping hands; applause
+10|にんき|popularity; public favor
+10|うわさ|rumor; report; hearsay; gossip
+10|じょうほう|information; news; report; intelligence
+10|こうかん|exchange; interchange; switching; reciprocity; barter
+10|りゅうこう|fashion; trend; vogue; craze; fad; popularity
+10|せんでん|publicity; advertisement; advertising; propaganda
+10|こうこく|advertisement; advertising
+10|ちゅうもく|notice; attention; observation
+10|つうやく|interpretation
+10|ほんやく|translation
+10|でんごん|(verbal) message; word (from someone)
+10|ほうこく|report; information
+10|ろくが|(video) recording
+10|こんざつ|congestion; crowding; jam
+10|じゅうたい|(traffic) congestion; traffic jam; delay; stagnation
+10|しょうとつ|collision; crash; impact; running into; skirmish; quarrel
+10|ひがい|(suffering) damage; injury; harm
+10|じこ|accident; incident; trouble
+10|じけん|event; affair; incident; case; plot; trouble; scandal
+10|こしょう|fault; trouble; breakdown; failure; being out of order
+10|しゅうり|repair; mending; fixing; servicing
+10|ていでん|power outage; electricity outage; blackout
+10|ちょうし|condition; state of health; shape; tune; tone; rhythm
+10|きんちょう|tension; strain; nervousness; stress
+10|じしん|self-confidence; confidence (in oneself)
+10|じまん|pride; boast
+10|かんしん|admiration; being impressed
+10|かんどう|being deeply moved emotionally; excitement; passion
+10|こうふん|excitement; stimulation; agitation
+10|かんそう|impressions; thoughts; feelings; reactions
+10|よそう|expectation; anticipation; prediction; forecast
+10|せんもん|specialty; special subject of study; area of expertise
+10|けんきゅう|research; study; investigation
+10|ちょうさ|investigation; examination; inquiry
+10|げんいん|cause; origin; source
+10|けっか|result; consequence; outcome; effect
+10|かいけつ|settlement; solution; resolution
+10|かくにん|confirmation; verification; validation; review; check
+10|りよう|use; utilization; utilisation; application
+10|りかい|understanding; comprehension; appreciation
+10|はっけん|discovery; detection; finding
+10|はつめい|invention
+10|かんけい|relation; relationship; connection
+10|だんたい|group; party; team; organization
+10|せんきょ|election
+10|ぜいきん|tax; duty
+10|せきにん|duty; responsibility
+10|しょるい|document; papers
+10|だいめい|title; caption; heading
+10|じょうけん|condition; term; requirement; qualification
+10|しめきり|deadline; closing; cut-off
+10|きかん|period; term; interval
+10|ばい|double; twice (as much); times (as much); -fold
+10|くじ|lottery; lot; raffle; draw
+10|ちかみち|shorter way; shortcut
+10|ちゅうしん|center; middle; heart; core; focus
