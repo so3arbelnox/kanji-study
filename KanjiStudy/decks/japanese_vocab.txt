@@ -537,3 +537,24 @@ Title=Japanese Vocab
 10|たいいく|Physical education
 10|かていか|home economics
 10|しゅげい|handicrafts
+10|あたり|neighborhood; vicinity; nearby; surroundings​
+10|まわり|circumference; girth​; surroundings
+10|あな|hole; opening; orifice; pit; hollow
+10|れつ|row; line; file; column; queue; rank; procession​
+10|はば|width; breadth; freedom (e.g of thought); latitude
+10|はんい|extent; scope; sphere; range; span​
+10|ないよう|contents; content; substance; matter; detail
+10|なかみ|contents; interior; filling; substance; content
+10|とくちょう|feature; trait; characteristic; peculiarity; distinction​
+10|ふつう|normal; ordinary; regular; usual; common; average
+10|あたりまえ|natural; reasonable; obvious​; commonplace
+10|にせ|imitation; fake; phony; counterfeit; forged; bogus; sham​
+10|べつ|distinction; difference; discrimination​; separate; different
+10|こくせき|nationality; citizenship
+10|せいよう|the West; Western countries
+10|とうよう|the East; (East) Asia
+10|こくさい|international
+10|しぜん|nature
+10|けしき|scenery; scene; landscape
+10|しゅうきょう|religion; religious affiliation; belief; faith; creed​
+10|あい|love; affection; care
