@@ -558,22 +558,22 @@ Title=Japanese Vocab
 10|けしき|scenery; scene; landscape
 10|しゅうきょう|religion; religious affiliation; belief; faith; creed​
 10|あい|love; affection; care
-10|くわしい|くわしい　detailed; full; minute; knowing very well; knowledgeable (about)
-10|こまかい|こまかい　small; fine; minute; minor; trivial; careful; frugal
-10|あさい|あさい　shallow; slight (wound); light (sleep); pale (colour); short (time)
-10|ぬるい|ぬるい　lukewarm; tepid; lenient
+10|くわしい|detailed; full; minute; knowing very well; knowledgeable (about)
+10|こまかい|small; fine; minute; minor; trivial; careful; frugal
+10|あさい|shallow; slight (wound); light (sleep); pale (colour); short (time)
+10|ぬるい|lukewarm; tepid; lenient
 10|ゆたか|abundant; plentiful; rich; ample; rich; open (mind); relaxed; easy
-10|じゅうよう|じゅうよう　important; essential; significant; major; key; principal
-10|はげしい|はげしい　violent; furious; extreme; intense; relentless
-10|そっくり|そっくり　all; altogether; entirely; completely​; exactly alike (in appearance)
-10|きゅう|きゅう　sudden; abrupt; unexpected; urgent; percipitious; rapid; swift
-10|てきとう|てきとう　suitable; proper; appropriate; fit​; perfunctory; half-minded; sloppy
-10|さかん|さかん　prosperous; flourishing; popular; widespread
+10|じゅうよう|important; essential; significant; major; key; principal
+10|はげしい|violent; furious; extreme; intense; relentless
+10|そっくり|all; altogether; entirely; completely​; exactly alike (in appearance)
+10|きゅう|sudden; abrupt; unexpected; urgent; percipitious; rapid; swift
+10|てきとう|suitable; proper; appropriate; fit​; perfunctory; half-minded; sloppy
+10|さかん|prosperous; flourishing; popular; widespread
 10|きほんてき|きほんてき　fundamental; basic
-10|ばらばら|ばらばら　scattered; disperse; loose; disconnected
-10|ぼろぼろ|ぼろぼろ　worn-out; ragged; tattered; crumbling; exhausted
-10|しょうせつ|しょうせつ　novel; story; (work of) fiction
-10|し|し　poem; poetry; verse
-10|ずいひつ|ずいひつ　essays; miscellaneous writings
-10|でんき|でんき　biography; life story
-10|ひょうろん|ひょうろん　criticism; critique
+10|ばらばら|scattered; disperse; loose; disconnected
+10|ぼろぼろ|worn-out; ragged; tattered; crumbling; exhausted
+10|しょうせつ|novel; story; (work of) fiction
+10|し|poem; poetry; verse
+10|ずいひつ|essays; miscellaneous writings
+10|でんき|biography; life story
+10|ひょうろん|criticism; critique
