@@ -3,7 +3,7 @@ Title=Japanese Vocab
 1|高楼|こうろう　tall building; tower
 1|荒城|こうじょう　ruined castle
 1|宴|うたげ・えん　party; banquet; feast
-1|巡る|めぐる　to go around; to make a c ircle around; to surround; to travel around
+1|巡る|めぐる　to go around; to make a circle around; to surround; to travel around
 1|杯|はい・さかずき　sake cup; cup for alcoholic beverages; counter for cupfuls
 1|何処|どこ・いずこ　where; what place
 1|陣営|じんえい　camp; faction; military camp

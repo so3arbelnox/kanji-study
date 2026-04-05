@@ -1,0 +1,29 @@
+
+1|姪|姪　niece
+1|甥|おい　nephew
+1|実子|じっし　biological child; one's own child
+1|紅一点|こういってん　the lone woman (e.g. bright flower) in a group
+1|イヤイヤ期|イヤイヤいやいやき　terrible twos (developmental stage in toddlers)
+1|弾む|はずむ　to spring; to bound; to bounce; to be encouraged; to get lively
+1|難破船|なんぱせん　wrecked ship
+1|眺望|ちょうぼう　view; vista; panorama; outlook; prospect
+1|餡子|あんこ　red bean paste; red bean jam; anko​
+1|眺める|ながめる　to look at; to gaze at; to watch; to stare at; to get a view of
+1|災難|さいなん　calamity; misfortune; disaster
+1|話が弾む|はなしがはずむ　the conversation becomes lively
+1|硬派|こうは　hard-liners; diehards; hawks; tough boy; man's man
+1|軟派|なんぱ　seducer; smooth talker; ladies' man; picking up women; moderate party
+1|アジト|アジト　hideout; secret base of operations; safe house
+1|運動神経|うんどうしんけい　motor nerve; reflexes; athletic ability; motor coordination
+1|住処|すみか　dwelling; house; home; residence; den (of criminals, demons, etc.); nest
+1|苛める|いじめる　to ill-treat; to bully; to torment; to be tough on (e.g. one's body); to treat harshly
+1|お節|おせち　osechi; food eaten during the New Year's Holidays
+1|満ち潮|みちしお　high tide; high water; full tide
+1|鯛焼き|たいやき　fish-shaped pancake filled with bean jam​
+1|周辺|しゅうへん　circumference; outskirts; environs; around; in the area of
+1|ここら辺|ここらへん　about here; in this neighborhood
+1|焦げ目|こげめ　burn mark; grilled surface (e.g. on a steak)
+1|珊瑚礁|さんごしょう　coral reef
+1|平泳ぎ|ひらおよぎ　breaststroke (swimming)
+1|水っぽい|みずっぽい　watery; soggy
+1|背泳ぎ|せおよぎ　backstroke (swimming)
