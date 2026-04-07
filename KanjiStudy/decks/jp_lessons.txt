@@ -27,3 +27,48 @@
 1|平泳ぎ|ひらおよぎ　breaststroke (swimming)
 1|水っぽい|みずっぽい　watery; soggy
 1|背泳ぎ|せおよぎ　backstroke (swimming)
+1|しっくり来る|しっくりくる　to feel right; to sit well with one; to be happy about; to fit well together
+1|マイブーム|マイブーム　current obsession; current kick; personal obsession
+1|流行り|はやり　fashion; fad; vogue; craze
+1|同心円|どうしんえん　concentric circles
+1|輸出入|ゆしゅつにゅう　export and import
+1|成るべく|なるべく　as (much) as possible; as (much) as one can; wherever practicable; if possible​
+1|中心|ちゅうしん　center; centre; middle
+1|円心|えんしん　center of a circle
+1|税関|ぜいかん　customs
+1|関税|かんぜい　customs (duties); duty; tariff
+1|接待|せったい　entertainment (esp. in the corporate world); treating (to food and drinks)
+1|連れて行く|つれていく　to take (someone to a place); to take (someone) with one; to take along
+1|為れる|される　to be done (to someone or something)​; to do; to be doing
+1|招く|まねく　to invite; to ask; to beckon; to wave someone in
+1|廊下|ろうか　corridor; hallway; passageway
+1|哲学|てつがく　philosophy
+1|奢る|おごる　to treat (someone) to (something); to give (someone) a treat; to live in luxury​
+1|上臈|じょうろう　court lady; noblewoman
+1|深雪|みゆき　snow; deep snow (poetical term)
+1|記録|きろく　record; document; minutes; log; record (e.g. in sports); setting (a record)
+1|録画|ろくが　(video) recording​
+1|反戦|はんせん　anti-war
+1|活動|かつどう　activity (of a person, organization, animal, volcano, etc.); action; operation
+1|苛める|いじめる　to ill-treat; to bully; to torment; to pick on
+1|塩水|しおみず　salt water; brine
+1|満潮|まんちょう　high tide; high water; full tide
+1|干潮|かんちょう　low tide; low water; ebb​
+1|藻掻く|もがく　to struggle; to writhe; to wriggle; to squirm; to act frantically
+1|浜辺|はまべ　beach; foreshore
+1|引き潮|ひきしお　ebb tide
+1|焦げ茶色|こげちゃいろ　dark brown; olive brown
+1|美味|びみ　exquisite flavor (flavour); delectable flavor
+1|籠|かご　basket (shopping, etc.); hamper; cage​
+1|鶴|つる　Crane (bird)​
+1|滑る|すべる　to slide; to glide; to skate; to ski; to fail (an examination); to lose (a position)
+1|微妙|びみょう　subtle; delicate; fine
+1|目出度い|めでたい　happy; auspicious; joyous; naive
+1|踊り|おどり　dance
+1|舞踊|ぶよう　dancing; dance
+1|脈をとる|みゃくをとる　to take someone's pulse
+1|山脈|さんみゃく　mountain range; mountain belt
+1|灯台|とうだい　lighthouse
+1|灯台下暗し|とうだいもとくら　it is darkest under the lamp post; it's hard to see what is under your nose
+1|却下|きゃっか　rejection; dismissal
+1|断る|ことわる　to refuse; to reject; to dismiss; to turn down; to inform; to give notice
