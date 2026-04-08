@@ -72,3 +72,15 @@
 1|灯台下暗し|とうだいもとくら　it is darkest under the lamp post; it's hard to see what is under your nose
 1|却下|きゃっか　rejection; dismissal
 1|断る|ことわる　to refuse; to reject; to dismiss; to turn down; to inform; to give notice
+1|月並み|つきなみ　every month; trite; commonplace
+1|平凡|へいぼん　ordinary; common; commonplace; mediocre; unremarkable
+1|ものである|ものである　is something that; is that which
+1|大したことない|たいしたことない　trivial; not amounting to much
+1|筋違い|すじちがい　cramp; sprain; unreasonableness; absurdity
+1|日常茶飯|にちじょうさはん　everyday occurrence​
+1|最も|もっとも　most; extremely
+1|予防接種|よぼうせっしゅ　vaccination; inoculation; immunization
+1|阿吽の呼吸|あうんのこきゅう　the harmonizing, mentally and physically, of two parties engaged in an activity
+1|ツーカーの仲|ツーカーのなか　relationship based on intuitive understanding of each other
+1|死語|しご　dead language; extinct language; obsolete word
+1|更に|さらに　furthermore; again; after all; more and more
