@@ -84,3 +84,36 @@
 1|ツーカーの仲|ツーカーのなか　relationship based on intuitive understanding of each other
 1|死語|しご　dead language; extinct language; obsolete word
 1|更に|さらに　furthermore; again; after all; more and more
+1|源氏|げんじ　Genji (the character in the Genji Monogatari)
+1|奇数|きすう　odd number​
+1|偶数|ぐうすう　even number​
+1|正数|せいすう　positive number​
+1|負数|ふすう　negative number​
+1|節句|せっく　seasonal festival
+1|蝶々|ちょうちょう　butterfly
+1|蜂蜜|はちみつ　honey
+1|紫|むらさき　purple; violet
+1|笹|ささ　bamboo grass
+1|軒端|のきば　eaves; edge of the eaves
+1|揺れる|ゆれる　to shake; to sway; to rock; to swing; to tremble
+1|竹林|ちくりん　bamboo thicket; bamboo grove
+1|海岸|かいがん　seashore; coast; seaside
+1|短冊|たんざく　tanzaku; poem slip; narrow strip of paper on which Japanese poems are written
+1|砂|すな　sand; grit; fine gravel
+1|一軒|いっけん　one house
+1|縁側|えんがわ　engawa; external corridor on the outer side of traditional Japanese houses
+1|腹痛|ふくつう　stomach ache; abdominal pain
+1|腹筋|ふっきん　abdominal muscles; abs; sit-up (exercise)​
+1|筋肉痛|きんにくつう　muscular pain; myalgia; aching muscles
+1|叱る|しかる　to scold; to chide; to rebuke; to reprimand
+1|出身|しゅっしん　one's origin (e.g. city, country, parentage, school)
+1|北東部|ほくとうぶ　northeastern part; the northeast
+1|東西南北|とうざいなんぼく　east, west, south and north​
+1|逸れる|それる　to turn away; to veer away; to deviate (e.g. of a conversation); to digress
+1|最高裁判所|さいこうさいばんしょ　Supreme Court
+1|裁判所|さいばんしょ　court; courthouse
+1|皇居|こうきょ　Imperial Palace (of Japan); imperial residence
+1|国会|こっかい　National Diet; legislative assembly of Japan (1947-)
+1|下院|かいん　lower house; lower legislative chamber​
+1|上院|じょういん　upper house; upper legislative chamber; senate​
+1|天皇|てんのう　Emperor of Japan
