@@ -174,3 +174,40 @@
 1|すれ違う|すれちがう　to pass (by) each other; to brush past​; to miss (meeting) each other; to be at odds
 1|経つ|たつ　to pass (of time); to elapse​
 1|流行|りゅうこう　fashion; trend; vogue; craze; fad; popularity​
+1|離れる|はなれる　to be separated; to be apart; to be distant​; to leave; to go away​
+1|拭く|ふく　to wipe; to dry
+1|離す|はなす　to separate; to part; to divide; to keep apart
+1|自閉症|じへいしょう　Autism
+1|華氏|かし　Fahrenheit
+1|摂氏|せっし　Celsius
+1|高熱|こうねつ　high fever; intense heat
+1|症候|しょうこう　symptom
+1|計画を立てる|けいかくをたてる　to make plans
+1|貼る|はる　to stick; to paste; to affix; to stretch; to spread; to form (e.g. ice on a pond)​
+1|兄弟|きょうだい　siblings; brothers
+1|常備|じょうび　(always) having ready; having on hand; being provided with
+1|遠慮|えんりょ　reserve; constraint; restraint; modesty; declining; refraining​ 
+1|交互|こうご　alternate; alternating
+1|茶葉|ちゃっば　tea leaf; tea leaves
+1|本音|ほんね　real intention; motive; true opinion; what one really thinks
+1|損得|そんとく　loss and gain; advantage and disadvantage
+1|勘定|かんじょう　calculation; computation; count; bill; check; account
+1|流行る|はやる　to be popular; to come into fashion; to be prevalent; to spread widely
+1|盛況|せいきょう　success; prosperity; boom
+1|得する|とくする　to make a profit
+1|思い出|おもいで　memories; recollections; reminiscence
+1|記憶|きおく　memory; recollection; remembrance; storage (computing)
+1|大体|だいたい　generally; on the whole; mostly; almost; nearly
+1|希望|きぼう　hope; wish; aspiration; (bright) prospects; expectation
+1|関心を持つ|かんしんをもつ　to be interested in; to take an interest in; to care about​
+1|大人しい|おとなしい　gentle; quiet; mild; meek; tame
+1|定番|ていばん　standard item; usual thing; a classic; go-to-choice; staple
+1|正直|しょうじき　honest; frank; candid; straightforward
+1|積極的|せっきょくてき　positive; assertive; active; proactive; aggressive
+1|消極的|しょうきょくてき　negative; passive; half-hearted; unmotivated
+1|不注意|ふちゅうい　carelessness; inattention; thoughtlessness; negligence​
+1|意外|いがい　unexpected; surprising
+1|結構な|けっこうな　splendid; nice; wonderful; sufficient; satisfactory; no, thank you
+1|派手な|はでな　showy; loud; flashy; gaudy
+1|地味な|じみな　plain; simple; subdued; sober; reserved (behaviour, attitude etc)
+1|洒落|しゃれ　joke; pun; jest; wordplay; smartly dressed, stylish (na-adjective)
