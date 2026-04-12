@@ -117,3 +117,60 @@
 1|下院|かいん　lower house; lower legislative chamber​
 1|上院|じょういん　upper house; upper legislative chamber; senate​
 1|天皇|てんのう　Emperor of Japan
+1|帰省|きせい　homecoming; returning home​
+1|締める|しめる　to tie; to fasten; to tighten​; to wear (necktie, belt); to put on​
+1|締め切り|しめきり　deadline; closing; cut-off​
+1|張る|はる　to stick; to paste; to affix​; to stretch; to spread
+1|威張る|いばる　to put on airs; to act big; to throw one's weight about; to be overbearing
+1|しっくり来る|しっくりくる　to feel right; to sit well with one; to be happy about
+1|ガスの元栓|ガスのもとせん　gas valve
+1|眺望|ちょうぼう　view; vista; panorama; outlook; prospect​
+1|眺める|ながめる　to look at; to gaze at; to watch; to stare at​
+1|大工|だいく　carpenter
+1|生活態度|せいかつたいど　way of living; manner of living; lifestyle
+1|大騒ぎ| おおさわぎ　clamor; uproar; tumult; furor​
+1| どんちゃん騒ぎ|どんちゃんさわぎ　merrymaking; high jinks; drunken revelry; spree​
+1|騒ぎ|さわぎ　uproar; disturbance
+1|燥ぐ|はしゃぐ　to make merry; to frolic; to be in high spirits​
+1|影響|えいきょう　influence; effect; impact​
+1|地域|ちいき　area; region; district; locality​
+1|開放|かいほう　opening (a door, window, etc.); leaving open​; opening up (e.g. to the public)
+1|介護|かいご　nursing; care; caregiving; caring​
+1|落石|らくせき　falling rocks; fallen rocks
+1|決勝|けっしょう　decision of a contest; finals (in sports)​
+1|降格|こうかく　demotion; relegation; downgrading
+1|昇進|しょうしん　promotion; advancement; rising in rank​
+1|几帳面|きちょうめん　methodical; precise; meticulous; scrupulous; regular; punctual​
+1|大雑把|おおざっぱ　rough (estimate, summary, etc.); broad; general; sweeping; loose​
+1|王者|おうじゃ　king; monarch; ruler​
+1|言語|げんご　language
+1|過言|かごん　exaggeration; overstatement; saying too much​
+1|特産物|とくさんぶつ　local specialty; special product (of a region)​
+1|準決勝|じゅんけっしょう　semifinal
+1|細やか|ささやか　small; little; tiny; insignificant; humble
+1|祈る|いのる　to pray; to say a prayer; to say grace​; to wish; to hope​
+1|折る|おる　to break; to fracture; to break off; to snap off; to fold; to bend​
+1|乳製品|にゅうせいひん　dairy products​
+1|入院|にゅういん　hospitalization
+1|通院|つういん　going to the hospital regularly for treatment; attending hospital as an outpatient​
+1|奢る|おごる　to treat someone to something; to give someone a treat; to buy (someone a meal, drink, etc.)​
+1|人間宣言|にんげんせんげん　Declaration of Humanity (wherein Hirohito renounced the imperial claim to divinity; January 1, 1946)​
+1|枯山水|こせんすい　traditional (Chinese or Japanese) dry landscape garden
+1|挫く|くじく　to sprain; to twist; to dampen (enthusiasm); to discourage
+1|本場|ほんば　home (of something); place famous for its ...; place of origin; birthplace; cradle​
+1|蜥蜴|トカゲ　lizard
+1|オランダ|オランダ　Netherlands; Holland​
+1|論理的|ろんりてき　logical
+1|纏まる|まとまる　to find resolution; to be settled; to be agreed on; to be completed; to be collected
+1|調味料|ちょうみりょう　seasoning; flavoring; condiment
+1|棚|たな　shelf; ledge; rack​
+1|揃える|そろえる　to collect; to gather; to get together; to arrange; to put in order
+1|訪ねる|たずねる　to visit; to call on; to pay a visit to
+1|尋ねる|たずねる　to ask; to enquire; to inquire​; to search; to look for
+1|同伴する|どうはんする　accompanying; being accompanied by; going with​
+1|お供する|おともする　to attend; to accompany
+1|混ぜる|まぜる　to mix; to stir; to blend​
+1|混む|こむ　to be crowded; to be packed; to be congested
+1|すれ違う|すれちがう　to pass (by) each other; to brush past​; to miss (meeting) each other; to be at odds
+1|経つ|たつ　to pass (of time); to elapse​
+1|流行|りゅうこう　fashion; trend; vogue; craze; fad; popularity​
