@@ -211,3 +211,49 @@
 1|派手な|はでな　showy; loud; flashy; gaudy
 1|地味な|じみな　plain; simple; subdued; sober; reserved (behaviour, attitude etc)
 1|洒落|しゃれ　joke; pun; jest; wordplay; smartly dressed, stylish (na-adjective)
+1|障害者|しょうがいしゃ　disabled person; person with a (physical or mental) disability
+1|向け|むけ　intended for ...; oriented towards ...; aimed at ...
+1|比べる|くらべる　to compare; to make a comparison (between)
+1|対象|たいしょう　target; object (of worship, study, etc.); subject (of taxation, etc.); coverage
+1|行う|おこなう　to perform; to do; to conduct oneself; to carry out
+1|行い|おこない　deed; act; action; conduct; behavior
+1|下記|かき　the following​
+1|上記|じょうき　above-mentioned; above-named; above
+1|国民健康保険|こくみんけんこうほけん　national health insurance
+1|卒業生|そつぎょうせい　graduate; alumnus; alumna
+1|出席を取る|しゅっせきをとる　to call the roll; to take attendance
+1|含有|がんゆう　containing (an ingredient, mineral, etc.)
+1|含む|ふくむ　to contain; to comprise; to have; to hold; to include; to bear in mind; to understand
+1|更生期|こうせいき　change of life; menopause
+1|魔女|まじょ　witch
+1|オカルト|オカルト　occult
+1|金縛り|かなしばり　binding hand and foot; sleep paralysis; temporary feeling of paralysis
+1|千秋楽|せんしゅうらく　final day of a performance; final show; final day of tournament (sumo)
+1|霊|れい　soul; spirit; departed soul; ghost
+1|優勝|ゆうしょう　overall victory; championship; winning the title
+1|取り付かれる|とりつかれる　to be possessed (by a spirit, demon, etc.); to be possessed (by an idea, delusion, etc.); to be obsessed (with)
+1|お互い様|おたがいさま　we are of equal status in this regard; we are in the same boat; the feeling is mutual
+1|古文|こぶん　ancient writing (Edo-period or older); classical literature
+1|古典|こてん　classic (work, esp. book); the classics
+1|漢文|かんぶん　Chinese classical writing; Chinese classics; writing composed entirely of kanji
+1|紫式部|むらさきしきぶ　Murasaki Shikibu (978-1016) (author of the Genji Monogatari)
+1|源氏物語|げんじものがたり　The Tale of Genji (Heian-period classic)
+1|神隠し|かみかく　mysterious disappearance; being spirited away
+1|先端|せんたん　pointed end; tip; point; cusp (of a leaf, crescent moon, etc.); apex (of a curve)
+1|端|はし　end (e.g. of street); tip; point; edge; margin; beginning; start; first; odds and ends
+1|一言|ひとこと　single word; a few words; brief comment
+1|極める|きわめる　to carry to extremes; to go to the end of something; to reach the limits of something
+1|営業|えいぎょう　business; trade; operations; sales
+1|就職|しゅうしょく　finding employment; getting a job
+1|指示|しじ　indication; denotation; designation; instructions; directions
+1|当時|とうじ　at that time; in those days
+1|現在|げんざい　the present; present time; now
+1|担当者|たんとうしゃ　person in charge (of an area of work, etc.); person responsible; contact (person)
+1|現場|げんば　actual spot; scene (of a crime, accident, etc.); (on) site; (on) the ground; (in) the field
+1|小売り店|こうりてん　retail store; retail shop
+1|為|ため　good; advantage; benefit; sake; purpose; objective; consequence; result
+1|芋づる式に|いもづるしきに　(appearing, occurring) one after another​
+1|隔てる|へだてる　to separate (by distance, time, etc.); to isolate; to partition; to divide; to alienate
+1|隔離|かくり　isolation; segregation; separation; quarantine
+1|尽くす|つくす　to use up; to exhaust; to run out of; to devote oneself (to); to do to exhaustion
+1|護る|まもる　to protect; to guard; to defend; to keep (a promise); to abide (by the rules); to obey
