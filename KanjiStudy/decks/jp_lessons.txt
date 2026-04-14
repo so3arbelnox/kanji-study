@@ -257,3 +257,40 @@
 1|隔離|かくり　isolation; segregation; separation; quarantine
 1|尽くす|つくす　to use up; to exhaust; to run out of; to devote oneself (to); to do to exhaustion
 1|護る|まもる　to protect; to guard; to defend; to keep (a promise); to abide (by the rules); to obey
+1|お天道様|おてんとさま　the sun; Sol; providence; heaven; god
+1|つまみ食い|つまみぐい　eating with one's fingers; snatched food; secret eating; embezzlement; flirting
+1|叱る|しかる　to scold; to chide; to rebuke; to reprimand
+1|身につく|みにつく　to master (e.g. a skill); to become accustomed to (e.g. a lifestyle); to acquire (e.g. a habit)
+1|光栄|こうえい　honor; glory; privilege
+1|流行語大賞|りゅうこうごたいしょう　buzzword of the year
+1|悪口|わるぐち　(verbal) abuse; speaking ill of people; bad-mouthing; name-calling; slander; abusive language
+1|噂話|うわさばなし　gossip
+1|活躍|かつやく　activity (esp. energetic or successful); great efforts; active participation
+1|実行|じっこう　execution (e.g. of a plan); carrying out; (putting into) practice; action; execution (of a program)
+1|意地悪|いじわる　malicious; ill-tempered; unkind; mean; nasty
+1|経営|けいえい　management; administration; operation; running (a business); conducting
+1|注目|ちゅうもく　notice; attention; observation
+1|予想外|よそうがい　unexpected; unforeseen; strange
+1|お金を下ろす|おかねをおろす　to withdraw money; to take money out
+1|延ばす|のばす　to grow long (e.g. hair, nails)​; to lengthen; to extend; to reach out; to smooth out
+1|延長戦|えんちょうせん　extended game; overtime; extra time; extra innings
+1|縺れる|もつれる　to tangle; to get tangled; to get entangled; to have poor control over (one's tongue, feet, etc.)
+1|絡まる|からまる　to be entwined; to be involved
+1|恐がり|こわがり　coward; timid person
+1|小野|おの　plain; field
+1|大野|おおの　large field
+1|屋敷|やしき　residence; estate; grounds; premises; mansion
+1|掛け布団|かけぶとん　duvet; bed cover; coverlet; quilt; comforter
+1|敷き布団|しきぶとん　futon (laid on the floor); (Japanese) mattress; underquilt; sleeping mat​
+1|訴える|うったえる　to raise; to bring to (someone's attention); to appeal to (reason, emotions etc); to complain
+1|損害賠償|そんがいばいしょう　restitution; damages; indemnity; compensation
+1|償う|つぐなう　to make up for; to compensate for; to indemnify; to recompense; to redeem (e.g. a fault); to atone for
+1|損する|そんする　to lose (money, etc.); to suffer a loss; to miss (e.g. an opportunity); to come to nothing; to harm; to spoil
+1|起訴|きそ　prosecution; indictment
+1|そっくり|そっくり　all; altogether; entirely; completely​; exactly alike; spitting image of
+1|討論|とうろん　debate; discussion
+1|評論|ひょうろん　criticism; critique; review; comment; critical essay
+1|非常に|ひじょうに　very; extremely; exceedingly​
+1|評論家|ひょうろんか　critic; reviewer; commentator
+1|抜群|ばつぐん　outstanding; excellent; exceptional; distinguished; unrivaled; surpassing (e.g. beauty); beyond compare
+1|抜きん出る|ぬきんでる　to surpass; to outdo; to excel; to be far better; to stand out; to be outstanding
