@@ -294,3 +294,46 @@
 1|評論家|ひょうろんか　critic; reviewer; commentator
 1|抜群|ばつぐん　outstanding; excellent; exceptional; distinguished; unrivaled; surpassing (e.g. beauty); beyond compare
 1|抜きん出る|ぬきんでる　to surpass; to outdo; to excel; to be far better; to stand out; to be outstanding
+1|一方|いっぽう　one way; the other way; one direction; on the one hand; on the other hand
+1|下線|かせん　underline; underscore
+1|大抵|たいてい　mostly; ordinarily; usually; generally; probably
+1|心理|しんり　state of mind; mentality; psychology
+1|心理学|しんりがく　psychology
+1|デマ|デマ　false rumor; misinformation
+1|きちんと|きちんと　properly; accurately; exactly; precisely; neatly; orderly
+1|其処で|そこで　so; accordingly; now; then; therefore
+1|企業|きぎょう　enterprise; business; company; corporation
+1|起業|きぎょう　starting a business; promotion of enterprise; entrepreneurship
+1|実業家|じつぎょうか　businessperson; entrepreneur
+1|確かめる|たしかめる　to make sure; to check; to ascertain; to confirm; to verify
+1|試す|ためす　to try (out); to have a try (at); to test; to put to the test
+1|肝試し|きもだめし　test of courage (by going to a frightening place, e.g. a graveyard)
+1|試合|しあい　match; game; bout; contest
+1|訳す|やくす　to translate; to interpret​
+1|行う|おこなう　to perform; to do; to conduct oneself; to carry out
+1|繰り返す|くりかえす　to repeat; to do over again
+1|流れる|ながれる　to stream; to flow (liquid, time, etc.); to be washed away; to drift; to spread; to circulate
+1|脱がす|ぬがす　to take off (another's clothes); to strip someone (of their clothes); to undress
+1|濡れる|ぬれる　to get wet
+1|びしょ濡れ|びしょぬれ　sopping wet; dripping wet; sodden; drenched; soaked
+1|夕立|ゆうだち　(sudden, heavy) shower (on a summer afternoon or evening); evening shower
+1|猫舌|ねこじた　dislike of very hot food or drink; inability to take hot food; cat tongue
+1|祝う|いわう　to celebrate; to congratulate; to observe (a festival); to pray for
+1|悩み事|なやみごと　matter causing distress; something causing worry
+1|捕らぬ狸の皮算用|とらぬたぬきのかわざんよう　counting one's chickens before they're hatched; counting raccoon dog skins before they have been caught​
+1|得る|える　to get; to earn; to acquire; to procure; to gain; to win; to understand
+1|与える|あたえる　to give (esp. to someone of lower status); to bestow; to grant; to confer; to present; to provide; to offer
+1|落ち葉|おちば　falling leaves
+1|近寄る|ちかよる　to approach; to draw near
+1|剥ぐ|はぐ　to tear off; to peel off; to rip off; to strip off; to strip of (clothes, rank, etc.); to deprive of
+1|争う|あらそう　to compete; to contest; to contend; to quarrel; to argue
+1|闘う|たたかう　to make war (on); to wage war (against); to go to war (with); to fight (with)
+1|通じる|つうじる　to be open (to traffic); to lead to; to communicate (with); to pass; to get through to
+1|思いつく|おもいつく　to think of; to hit upon; to come into one's mind; to remember
+1|思い出|おもいで　memories; recollections; reminiscence
+1|思い出す|おもいだす　to recall; to remember; to recollect
+1|思いやる|おもいやる　to sympathize with; to sympathise with; to feel for; to be considerate of; to worry about
+1|呆れる|あきれる　to be amazed; to be shocked; to be astonished; to be disgusted; to be fed up
+1|決闘|けっとう　duel; shoot-out
+1|死闘|しとう　life or death struggle; mortal combat
+1|夢中|むちゅう　absorbed in; immersed in; crazy about; obsessed with; within a dream
