@@ -337,3 +337,72 @@
 1|決闘|けっとう　duel; shoot-out
 1|死闘|しとう　life or death struggle; mortal combat
 1|夢中|むちゅう　absorbed in; immersed in; crazy about; obsessed with; within a dream
+1|暮らす|くらす　to live (on, by, etc.); to lead a life; to get along; to make a living; to earn a livelihood
+1|生活|せいかつ　life; living; livelihood; (one's) living
+1|納金|のうきん　payment
+1|滞納|たいのう　falling behind (with a payment); non-payment; default; delinquency
+1|支払う|しはらう　to pay
+1|納める|おさめる　to put (into); to put away (in); to store (in); to contain; to obtain; to pay (fees, taxes etc.)
+1|憎悪|ぞうお　hatred; abhorrence; loathing; detestation
+1|憎む|にくむ　to hate; to detest
+1|恨む|うらむ　to bear a grudge against; to resent; to blame; to curse; to feel bitter towards
+1|形式|けいしき　form (as opposed to substance); format; form; style
+1|周囲|しゅうい　surroundings; circumference
+1|範囲|はんい　extent; scope; sphere; range; span
+1|他人|たにん　another person; other people; others; unrelated person (i.e not related by blood); outsider
+1|本人|ほんにん　the person in question; the person themselves; said person
+1|別人|べつじん　different person; another person; someone else; changed man
+1|渋滞|じゅうたい　(traffic) congestion; traffic jam; gridlock; delay; stagnation
+1|自慢|じまん　pride (in one's achievements, possessions, etc.); self-praise; boast
+1|解決|かいけつ　settlement; solution; resolution
+1|解答|かいとう　answer; solution
+1|埋まる|うまる　to be buried; to be covered; to be surrounded; to overflow; to be crowded; to be repaid (e.g. debt); to be replenished
+1|埋める|うめる　to bury (e.g. in the ground); to fill up (e.g. audience fills a hall); to cause to be packed; to plug (a gap);
+1|開会式|かいかいしき　opening ceremony
+1|反省会|はんせいかい　evaluation meeting; postmortem session; review meeting
+1|素人|しろうと　amateur; layman; ordinary person; novice
+1|玄人|くろうと　expert; professional; master; connoisseur
+1|演奏|えんそう　musical performance
+1|検査|けんさ　inspection (e.g. customs, factory); examination; test; check; scan (e.g. MRI, PET); audit
+1|水質|すいしつ　water quality
+1|治療|ちりょう　(medical) treatment; care; therapy; cure; remedy
+1|医療|いりょう　medical treatment; medical care
+1|予防|よぼう　prevention; protection (against); precaution
+1|手術|しゅじゅつ　surgery; operation; procedure; skill with one's hands; sleight of hand
+1|理解|りかい　understanding; comprehension; appreciation
+1|誤解|ごかい　misunderstanding
+1|誤る|あやまる　to make a mistake (in); to commit an error; to do incorrectly; to mislead; to lead astray
+1|完成|かんせい　completion; perfection; accomplishment
+1|謝る|あやまる　to apologize (apologise); to refuse; to decline
+1|やり取り|やりとり　giving and taking; exchange (of letters); arguing back and forth; (conversational) exchange​
+1|代表|だいひょう　representation; representative; delegate; delegation; leader
+1|影響|えいきょう　influence; effect; impact
+1|合図|あいず　sign; signal; cue
+1|共通|きょうつう　common; shared; mutual; to be common (to); to be shared (by)
+1|強調|きょうちょう　emphasis; stress; highlighting; underlining; underscoring
+1|省略|しょうりゃく　omission; leaving out; abbreviation
+1|申請|しんせい　application; request; petition
+1|挑戦|ちょうせん　challenge; defiance; dare; attempt; try
+1|新生|しんせい　rebirth; new birth; nascent
+1|生産|せいさん　production; manufacture
+1|商売|しょうばい　trade; business; commerce
+1|平均|へいきん　average; mean; balance; equilibrium
+1|不足|ふそく　insufficiency; deficiency; shortage; lack; dissatisfaction; discontent; complaint​
+1|保護|ほご　protection; safeguard; guardianship; custody; preservation; conservation
+1|証明|しょうめい　proof; testimony; demonstration; verification; certification
+1|証書|しょうしょ　document (of proof); certificate; paper; bond; deed
+1|揃える|そろえる　to collect; to gather; to get together; to complete (a collection); to arrange; to put in order
+1|消費|しょうひ　consumption; expenditure; spending
+1|知名度|ちめいど　degree of familiarity; popularity; name recognition; notoriety
+1|溜める|ためる　to amass; to accumulate; to store; to leave unpaid
+1|貯める|ためる　to save up (money)
+1|混じる|まじる　to be mixed; to be blended with; to be combined​; to associate with; to mingle with; to join
+1|溶かす|とかす　to melt; to liquefy; to thaw; to dissolve (in a liquid); to lose (money; through gambling, etc.)
+1|溶く|とく　to mix (e.g. water with flour); to dissolve (salt in water, paint, etc.); to mix in; to scramble (eggs); to stir
+1|抜ける|ぬける　to come out; to fall out; to be omitted; to be missing; to escape; to fade; to leave (a meeting)
+1|知る|しる　to know; to be aware (of); to be conscious (of); to learn (of); to sense; to feel; to understand; to experience
+1|英知|えいち　wisdom; intelligence; sagacity
+1|含有|がんゆう　containing (an ingredient, mineral, etc.)
+1|知恵|ちえ　wisdom; wit; sagacity; sense; intelligence
+1|禁物|きんもつ　thing that should be (carefully) avoided; something forbidden; taboo
+1|油断|ゆだん　negligence; carelessness; inattention; unpreparedness
