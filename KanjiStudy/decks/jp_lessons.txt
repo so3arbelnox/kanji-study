@@ -406,3 +406,56 @@
 1|知恵|ちえ　wisdom; wit; sagacity; sense; intelligence
 1|禁物|きんもつ　thing that should be (carefully) avoided; something forbidden; taboo
 1|油断|ゆだん　negligence; carelessness; inattention; unpreparedness
+1|行事食|ぎょうじしょく　festive food; food associated with a particular seasonal celebration
+1|蛸|たこ　octopus; fool; idiot
+1|見通し|みとおし　unobstructed view; perspective; visibility; vista; forecast; outlook; insight
+1|文房具|ぶんぼうぐ　stationery
+1|最良|さいりょう　the best; ideal​
+1|再利用|さいりよう　reuse; recycling
+1|一括払い|いっかつばらい　lump-sum payment; paying the entire sum in one transaction
+1|優先|ゆうせん　preference; priority; precedence; right of way
+1|産出|さんしゅつ　production; output; turning out
+1|生産高|せいさんだか　yield; output; production
+1|神経|しんけい　nerve (anatomy); nerves; sensitivity
+1|奇跡|きせき　miracle; wonder; marvel
+1|足跡|あしあと　footprints
+1|軌跡|きせき　tire track; traces of a person or thing; path one has taken
+1|新鮮|しんせん　fresh
+1|鮮魚|せんぎょ　fresh fish
+1|肺|はい　lung
+1|胸いっぱい|むねいっぱい　getting a lump in one's throat; overflowing with feelings; chest full of; lungs full of
+1|収入|しゅうにゅう　income; earnings; revenue; proceeds; takings; receipts​
+1|新月|しんげつ　new moon; first day of the lunar month; crescent moon
+1|満月|まんげつ　full moon
+1|三日月|みかづき　crescent moon; young moon
+1|半月|はんげつ　half-moon​; half a month
+1|くしゃみ|くしゃみ　sneeze; sneezing; spoken twice in response to someone sneezing as a charm against an early death​ (expression)
+1|落花生|らっかせい　peanut
+1|保護者|ほごしゃ　guardian; protector; patron; parent
+1|咳|せき　cough; coughing; tussis
+1|ほこり|ほこり　dust
+1|寿命|じゅみょう　lifespan; life; lifetime; service life; end of an object's (useful) life
+1|様相|ようそう　aspect; phase; condition
+1|頻繁|ひんぱん　frequent; incessant
+1|宅配便|たくはいびん　express home delivery service
+1|印鑑|いんかん　stamp; seal​
+1|物品|ぶっぴん　goods; articles
+1|生物学|せいぶつがく　biology
+1|顧客|こきゃく　customer; client; patron
+1|総計|そうけい　total; sum total; total amount
+1|罰金|ばっきん　fine; penalty
+1|不良|ふりょう　bad; poor; inferior; defective; delinquent; hooligan
+1|脅かす|おどかす　to threaten; to menace; to intimidate​; to startle; to frighten;  to scare
+1|攪拌|かくはん　agitation; stirring; whipping; beating
+1|弾む|はずむ　to spring; to bound; to bounce; to be encouraged; to get lively
+1|発達障害|はったつしょうがい　developmental disability; developmental disorder
+1|難儀|なんぎ　troublesome (person, task, etc.); difficult; suffering; hardship; trouble
+1|中耳炎|ちゅうじえん　otitis media; middle-ear infection​
+1|模試|もし　mock exam; practice exam; practice test
+1|近頃|ちかごろ　lately; recently; nowadays; terribly; awfully; extremely
+1|侵攻|しんこう　invasion
+1|親知らず|おやしらず　wisdom tooth; not knowing who one's birth parents are
+1|賞状|しょうじょう　certificate of merit; testimonial
+1|既読|きどく　already read
+1|既に|すでに　already; previously; before; unmistakably; in the first place
+1|スルー|スルー　ignoring; looking the other way; letting pass; passing through
