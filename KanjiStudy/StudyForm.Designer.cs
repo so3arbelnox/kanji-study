@@ -122,6 +122,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "StudyForm";
+            this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Let\'s Study!";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

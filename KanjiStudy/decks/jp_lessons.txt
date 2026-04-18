@@ -459,3 +459,38 @@
 1|既読|きどく　already read
 1|既に|すでに　already; previously; before; unmistakably; in the first place
 1|スルー|スルー　ignoring; looking the other way; letting pass; passing through
+1|概念|がいねん　general idea; concept; notion
+1|荒廃|こうはい　ruin; destruction; devastation; waste; decay
+1|廃止|はいし　abolition; discontinuance; discontinuation; repeal; annulment
+1|材料|ざいりょう　materials; ingredients; grounds (for a decision etc); basis; evidence
+1|人材|じんざい　capable person; talented person; human resources; personnel
+1|資材|しざい　(raw) material
+1|老眼鏡|ろうがんきょう　reading (farsighted) glasses; spectacles for the aged
+1|眼鏡|めがね　glasses; eyeglasses; spectacles​; judgement; discrimination; insight
+1|故|ゆえ　reason; cause; circumstances; grounds​; because of; as a result of
+1|停電|ていでん　power outage; power failure; power cut; blackout
+1|停止|ていし　stoppage; coming to a stop; halt; standstill; ceasing (movement, activity, etc.); suspension (of operations)
+1|ほっと|ほっと　with a feeling of relief; with a sigh of relief​; deeply (sigh)​
+1|充電器|じゅうでんき　(battery) charger; AC adapter
+1|単身赴任|たんしんふにん　(intra-company) job transfer away from one's family
+1|求人|きゅうじん　recruiting; job offer; job vacancy
+1|募集|ぼしゅう　recruitment; invitation; selection; advertisement; taking applications; raising (funds, donations, etc.)
+1|ダウン症|ダウンしょう　Down's syndrome
+1|開催|かいさい　holding (a conference, exhibition, etc.); opening; hosting (e.g. the Olympics)
+1|友情|ゆうじょう　friendship; fellowship; camaraderie
+1|列席|れっせき　attendance; presence
+1|改めて|あらためて　another time; again; over again; once again; anew; formally; intentionally
+1|今宵|こよい　this evening; tonight​
+1|伺う|うかがう　to call on someone; to call at a place; to pay a visit; to ask; to hear; to be told
+1|立派|りっぱ　splendid; fine; handsome; elegant; praiseworthy; worthy; legitimate; lawful
+1|成長|せいちょう　growth; development; growing up; becoming an adult
+1|両親|りょうしん　parents; both parents
+1|間違いなく|まちがいなく　clearly; unmistakably; certainly; without a doubt
+1|是非|ぜひ　certainly; without fail; right and wrong; pros and cons
+1|建国|けんこく　founding of a nation
+1|段落|だんらく　paragraph; end; conclusion
+1|杖|つえ　cane; walking stick; staff; wand
+1|移す|うつす　to transfer (to a different place, group, etc.); to change; to move (something); to swap
+1|章|しょう　chapter; section; medal; badge
+1|時間を守る|じかんをまもる　to be punctual
+1|暗記|あんき　memorization; learning by heart
