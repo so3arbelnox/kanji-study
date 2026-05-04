@@ -494,3 +494,24 @@
 1|章|しょう　chapter; section; medal; badge
 1|時間を守る|じかんをまもる　to be punctual
 1|暗記|あんき　memorization; learning by heart
+1|年配|ねんぱい　(approximate) age; years; elderly; old; aged
+1|未満|みまん　less than; under; below
+1|以下|いか　not exceeding ...; not more than ...; ... and under; ... and below; ... or fewer​; less than <= (including)
+1|願う|ねがう　to desire; to wish; to hope; to beg; to request
+1|宛先|あてさき　address; destination
+1|ボンビー|ボンビー　poor; poverty-stricken; destitute​
+1|閉鎖|へいさ　closing; closure; shutdown; lockout
+1|付近|ふきん　neighborhood; vicinity; surrounding area; district
+1|半導体|はんどうたい　semiconductor
+1|海峡|かいきょう　channel (e.g. between two land masses); strait
+1|貧乏|びんぼう　poverty-stricken; destitute; poor
+1|雄|おす　male (animal, plant)​
+1|雌|めす　female (animal, plant)
+1|酸素|さんそ　oxygen 
+1|炭素|たんそ　carbon
+1|二酸化炭素|にさんかたんそ　carbon dioxide; CO2
+1|女々しい|めめしい　effeminate; unmanly; cowardly; sissy
+1|乳酸|にゅうさん　lactic acid​
+1|除け|よけ　protection; repellent
+1|密閉|みっぺい　shutting tightly; making airtight
+1|近頃|ちかごろ　lately; recently; nowadays
